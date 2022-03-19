@@ -22,20 +22,25 @@ The DELP model does not present daily deaths and daily cases predictions – the
 
 Appendix Graph 34. Canada, national level, Predicted total deaths, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159132919-08003cc1-4db0-4c17-907f-2a7639ebec2e.png)
  
 ***
 
 Appendix Graph 35. Canada, national level, Predicted total cases, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159132922-4c430a55-6ed1-44df-a90d-2fb94cc4923a.png)
+
 ***
 
 Appendix Graph 36. Canada, British Columbia, Predicted total deaths, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159132939-01e16f21-2d2b-4b72-ba48-052be0414405.png)
 
 *** 
 
 Appendix Graph 37. Canada, British Columbia, Predicted total cases, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159132945-401690f0-4277-428e-a3a7-125ebb30228a.png)
  
 ***
 
@@ -58,20 +63,25 @@ The IHME model does not present predictions of daily cases. They provide predict
 
 Appendix Graph 38. Canada, national level, Predicted daily deaths, IHME model. || Source: https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159132965-f47ba3cd-2048-4e54-a028-3377d7bd8592.png)
 
 *** 
 
 Appendix Graph 39. Canada, national level, Predicted daily infections, IHME model. || Source: https://covid19.healthdata.org/canada?view=infections-testing&tab=trend&test=infections Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159132970-66133954-26f1-40c7-8d3d-be82725a0ddb.png)
+
 *** 
 
 Appendix Graph 40. Canada, British Columbia, Predicted daily deaths, IHME model. || Source: https://covid19.healthdata.org/canada/british-columbia?view=daily-deaths&tab=trend Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159132978-987593de-6ccc-4673-a0be-429062f32e1b.png)
  
 ***
 
 Appendix Graph 41. Canada, British Columbia, Predicted daily infections, IHME model. || Source: https://covid19.healthdata.org/canada/british-columbia?view=infections-testing&tab=trend&test=infections Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159132984-e3f8831b-63e1-4a4a-818e-22f8f98a90a7.png)
  
 ***
 
@@ -90,10 +100,14 @@ The IMPE model does not present predictions of daily cases. They provide predict
 ***
 
 Appendix Graph 42. Canada, Predicted daily deaths, IMPE model. || Source: https://raw.githubusercontent.com/mrc-ide/global-lmic-reports/master/CAN/index.pdf Accessed on March 14, 2022.
- 
+
+![image](https://user-images.githubusercontent.com/30849720/159133003-9c343f5f-caff-4cf1-87cd-3036062721a4.png)
+  
 ***
 
 Appendix Graph 43. Canada, Predicted daily infections, IMPE model. || Source: https://raw.githubusercontent.com/mrc-ide/global-lmic-reports/master/CAN/index.pdf Page 2. Accessed on March 14, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/159133008-f094b83a-0f33-4986-b485-d200310427c7.png)
 
 *** 
 
