@@ -39,7 +39,7 @@ pourmalek_farshad at yahoo dot com
 
 Table of Contents:
 
-Summary	
+[Summary](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#summary)
 CovidVisualized tools	
 International and periodically updated COVId-19 pandemic models	
 Study justification and added value	
