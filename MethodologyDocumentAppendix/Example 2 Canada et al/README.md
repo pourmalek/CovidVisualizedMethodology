@@ -119,7 +119,7 @@ LANL model
 
 The LANL COVID-19 Team made its last real-time forecast on September 27th, 2021. || Source: https://covid-19.bsvgateway.org Accessed on March 14, 2022.
 
-
+***
 
 
 <br/><br/>
@@ -133,10 +133,13 @@ The SRIV model’s predictions for daily deaths and daily cases are shown in App
 
 Appendix Graph 44. Canada, Predicted daily deaths, SRIV model.|| Source: https://scc-usc.github.io/ReCOVER-COVID-19 Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159133051-0f43029f-1bc9-4cb9-86ae-050a0dc604b1.png)
+
 *** 
 
 Appendix Graph 45. Canada, Predicted daily cases, SRIV model|| Source: https://scc-usc.github.io/ReCOVER-COVID-19 . Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159133058-0b11335b-d31a-494b-91fb-092f78e2215c.png)
  
 ***
 
@@ -161,12 +164,15 @@ The Johns Hopkins compilation of official reports does not present daily deaths 
 
 Appendix Graph 46. Canada, Weekly reported deaths, Johns Hopkins. || Source: https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6 Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159133065-067e1080-b5b2-4be2-be9d-fc81b48be284.png)
+
 *** 
 
 Appendix Graph 47. Canada, Weekly reported cases, Johns Hopkins. || Source: https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6 Accessed on March 14, 2022.   
 
+![image](https://user-images.githubusercontent.com/30849720/159133072-b25ca8a4-3af9-40b7-a717-447e2a0430be.png)
  
-
+***
 
 
 <br/><br/>
