@@ -27,7 +27,7 @@ pourmalek_farshad at yahoo dot com
 
 [Example 1: Iran](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/Example%201%20Iran/RAEDME.md)
 
-[Example 2: Canada and its province](https://github.com/pourmalek/CovidVisualizedMethodology/tree/main/MethodologyDocumentAppendix/Example%202%20Canada%20et%20al)
+[Example 2: Canada and its province](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/Example%202%20Canada%20et%20al/README.md)
 
 [Example 3: Global level and WHO regions](https://github.com/pourmalek/CovidVisualizedMethodology/tree/main/MethodologyDocumentAppendix/Example%203%20Global%20regional)
 
