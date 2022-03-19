@@ -99,7 +99,7 @@ The five international and periodically updated COVId-19 pandemic models include
 
 What is missing from the individual international and periodically updated models that creation of the CovidVisualized tools [1-3] was needed? Nothing substantial is missing from the individual (international and periodically updated) models. However, some of those models do not report predictions of daily outcomes or do not provide the predictions at the global or regional levels. Suppose that a researcher or advisor to policymakers wants to look at the latest predictions by all international and periodically updated models for any given country or location (e.g., Canada and its provinces, or the European region). In that case, they need to know or find the website addresses for graphs and data of each model, find the graphs that are available on the websites for the models, develop the graphs that are not available, and put together and examine the graphs that use different horizontal (time) and vertical (outcome) axes. If they want to repeat this, they will need to repeat all the steps, which is time-consuming. The CovidVisualized tools have consistently performed the steps mentioned above and compiled the graphs (and data) from individual models together in a usable framework and continue to do so regularly. 
 
-The obstacles: The obstacles one would encounter in examining the latest predictions by all international and periodically updated models for any given country or location are mentioned below. (1) The DELP model [4] does not provide predictions of daily deaths and daily cases. One needs to calculate them from the provided total deaths and total cases. (2) The IMPE model [6] graphs for predicted daily deaths at the continent level and daily infections at the global and continent levels are not readily locatable. (3) The SRIV model [8] does not provide global and continent-level graphs. (4) The researcher-made compilations of available graphs from different models are not practically usable because (a) the graphs from each model use different calendar time intervals and time bins, (b) the maximum value on the y-axis for the same outcome (e.g., daily deaths) are different across models, (c) uncertainty intervals and alternate scenarios are not shown by all the models. (5) Not all models provide graphs for all the variables they predict, e.g., hospital-related outcomes. (6) The predictions’ data files that each model provides follow that model’s unique data arrangements. These data arrangements differ across the models. Without a common data management template, it is impossible to acquire a grip on the models’ data that can lead to the creation of compiled data and graphs. 
+**The obstacles:** The obstacles one would encounter in examining the latest predictions by all international and periodically updated models for any given country or location are mentioned below. (1) The DELP model [4] does not provide predictions of daily deaths and daily cases. One needs to calculate them from the provided total deaths and total cases. (2) The IMPE model [6] graphs for predicted daily deaths at the continent level and daily infections at the global and continent levels are not readily locatable. (3) The SRIV model [8] does not provide global and continent-level graphs. (4) The researcher-made compilations of available graphs from different models are not practically usable because (a) the graphs from each model use different calendar time intervals and time bins, (b) the maximum value on the y-axis for the same outcome (e.g., daily deaths) are different across models, (c) uncertainty intervals and alternate scenarios are not shown by all the models. (5) Not all models provide graphs for all the variables they predict, e.g., hospital-related outcomes. (6) The predictions’ data files that each model provides follow that model’s unique data arrangements. These data arrangements differ across the models. Without a common data management template, it is impossible to acquire a grip on the models’ data that can lead to the creation of compiled data and graphs. 
 
 Creation of the missing graphs and redeveloping the available graphs need a data management framework capable of compiling data (predictions’ files) from different models. While all the models present a set of common outcomes and variables, they do so in their unique way. The number of data files, the variables and data structure within each file, the nomenclature and variable names, the geographical locations covered by each model, the alternative scenarios, and many other aspects of the predictions provided by the models vary tremendously across the models. Moreover, within each model, there are systematic and random variations and alterations regarding these aspects across time (i.e., with updates released by the model). The CovidVisualized tools [1-3] have covered these issues in a reproducible way, i.e., researchers can download the codes, rerun them, and see the outputs and results. The CovidVisualized tools have already paved the way and resolved the obstacles in examining the predictions in a coherent, consistent, and periodically updated framework, with underlying software codes and outputs. 
 
@@ -153,12 +153,19 @@ Primary variables include primary outcome variables, i.e., deaths and cases, and
 
 
 Variable names
+
 Primary outcome variable names:
+
 Example:
+
 TotDeaMeRaA01S00
+
 1234567890123456
+
 -varname- has 16 positions.
+
 Tot...Dea...Me....Ra.....A01.....S00
+
 1-3...4-6...7-8...9-10...11-13...14-16 
 
 
@@ -169,6 +176,7 @@ Tot...Dea...Me....Ra.....A01.....S00
 •	Positions 11-13: A00 to A05: Model number (see details below)
 •	Positions 14-16 S??: Scenario number within the model (see details below)
 The example primary variable name, TotDeaMeRaA01S00, denotes Total Deaths, mean, raw, DELPHI, single scenario.
+
 
 Secondary outcome variable names:
 •	Positions 4-6 in variable name can be, for instance,  Act, which means Active cases [DELP]
@@ -194,16 +202,21 @@ Secondary outcome variable names:
 •	Ven: Vent need (invasive Ventilation needed by day) [IHME]
 
 Example: The -varname- DayIcdMeRaA03S01 carries -varlabel- "Daily ICU demand Mean A03 S01". It is the daily ICU demand, mean estimate, in study A03 (IMPE), scenario 1.
+
 Variable names and short descriptions for hospital-related (and other) outcomes by IHME are mentioned in "IHME_COVID_19_Data_Release_Information_Sheet.pdf" released with each estimates' update of IHME. 
 
 
+
 Secondary variable names:
+
 Secondary variables have two subtypes: (1) variable that store a calculated daily Case Fatality Ratio (CFR), (1) variable that store values created to visualize temporal succession of daily cases and daily deaths peaks.
 
 
 (1) store a calculated daily CFR
 •	Positions 4-6 read as CFR.
+
 Example:
+
 DayCfrMeRaA00S00V00 "Daily CFR JOHN [27]" 
 
 (2) store values created for visualization of temporal succession of daily cases and daily deaths peaks
@@ -248,10 +261,15 @@ The smoother applied was
 Numbers assigned to the models in this work:
 
 A00 JOHN Johns Hopkins [27]
+
 A01 DELP DELPHI  [4]
+
 A02 IHME Institute for Health Metrics and Evaluation [5]
+
 A03 IMPE Imperial College [6]
+
 A04 LANL Los Alamos National Laboratory [7]
+
 A05 SRIV Srivastava [8]
 
 
