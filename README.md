@@ -824,7 +824,7 @@ The DELP model does not present predictions of daily deaths and daily cases. The
 
 Appendix Graph 1. Iran, Predicted total deaths, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 7, 2022.
 
-![image](https://user-images.githubusercontent.com/30849720/159105099-698afdad-5192-4dfd-b590-65913a9d5c01.png)
+![image](https://user-images.githubusercontent.com/30849720/159106211-ac0ff4c7-4d53-4602-a496-636626c65b88.png)
 
 *** 
 
@@ -848,11 +848,13 @@ The IHME model does not present predictions of daily cases. They provide predict
 
 Appendix Graph 3. Iran, Predicted daily deaths, IHME model. || Source: https://covid19.healthdata.org/iran-(islamic-republic-of)?view=daily-deaths&tab=trend Accessed on March 7, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159106222-af6cbab2-d625-4b82-8346-466571b2319d.png)
  
 ***
 
 Appendix Graph 4. Iran, Predicted daily infections, IHME model. || Source: https://covid19.healthdata.org/iran-(islamic-republic-of)?view=infections-testing&tab=trend&test=infections Accessed on March 7, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159106231-2ede0875-de7e-4716-ad23-36a3e2932171.png)
  
 ***
 
@@ -869,10 +871,13 @@ The IMPE model does not present predictions of daily cases. They provide predict
 
 Appendix Graph 5. Iran, Predicted daily deaths, IMPE model. || Source: https://raw.githubusercontent.com/mrc-ide/global-lmic-reports/master/IRN/index.pdf Page 4. Accessed on March 7, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159106240-ba42a5fb-78be-4895-b6eb-8106f874d9b2.png)
 
 ***
  
 Appendix Graph 6. Iran, Predicted daily infections, IMPE model. || Source: https://raw.githubusercontent.com/mrc-ide/global-lmic-reports/master/IRN/index.pdf Page 2. Accessed on March 7, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/159106243-d594154c-e737-4d17-88ce-427883e0bb56.png)
 
 ***
 
@@ -898,11 +903,13 @@ The SRIV model’s predictions for daily deaths and daily cases are shown in App
 
 Appendix Graph 7. Iran, Predicted daily deaths, SRIV model.|| Source: https://scc-usc.github.io/ReCOVER-COVID-19 Accessed on March 7, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159106256-e637e646-e97e-4c7d-a832-f3d94f7b121f.png)
  
 ***
 
 Appendix Graph 8. Iran, Predicted daily cases, SRIV model|| Source: https://scc-usc.github.io/ReCOVER-COVID-19 . Accessed on March 7, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159106264-fc0a0606-6352-45fd-9eae-0c237b180a9a.png)
  
 ***
 
@@ -920,10 +927,13 @@ The Johns Hopkins compilation of official reports does not present daily deaths 
 
 Appendix Graph 9. Iran, Weekly reported deaths, Johns Hopkins. || Source: https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6 Accessed on March 7, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159106272-868f89ed-7eec-4a59-b92c-fe04e8c30db7.png)
  
 ***
 
 Appendix Graph 10. Iran, Weekly reported cases, Johns Hopkins. || Source: https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6 Accessed on March 7, 2022.   
+
+![image](https://user-images.githubusercontent.com/30849720/159106275-4412abeb-dbd4-4d7d-a138-29ef8596ebe1.png)
 
 ***
 
