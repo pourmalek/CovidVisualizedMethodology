@@ -154,7 +154,7 @@ Primary variables include primary outcome variables, i.e., deaths and cases, and
 
 Variable names
 
-Primary outcome variable names:
+_Primary outcome variable names:_
 
 Example:
 
@@ -170,36 +170,64 @@ Tot...Dea...Me....Ra.....A01.....S00
 
 
 •	Positions 1-3: Tot or Day: Total (cumulative) or Daily
+
 •	Positions 4-6: Dea, Cas, or Act: Dea for Deaths, Cas for incident Cases, or Act for Active cases (for primary outcomes; for secondary outcomes, see below)
+
 •	Positions 7-8: Me, Lo, or Up: Mean, Lower, or Upper (uncertainty bound)
+
 •	Positions 9-10: Ra or Sm: Raw (not smoothed) or Smoothed
+
 •	Positions 11-13: A00 to A05: Model number (see details below)
+
 •	Positions 14-16 S??: Scenario number within the model (see details below)
+
 The example primary variable name, TotDeaMeRaA01S00, denotes Total Deaths, mean, raw, DELPHI, single scenario.
 
 
-Secondary outcome variable names:
+_Secondary outcome variable names:_
+
 •	Positions 4-6 in variable name can be, for instance,  Act, which means Active cases [DELP]
+
 •	Positions 4-6: meaning [study]:
+
 •	Act: Active cases [DELP]
+
 •	Adm: Admissions (hospital admissions by day) [IHME]
+
 •	Bed: Bed need (covid beds needed by day) [IHME]
+
 •	Beo: Bed over ([covid all beds needed] - ([total bed capacity] - [average all bed usage])) [IHME]
+
 •	Hod: Hospital Demand [IMPE]
+
 •	Hos: Hospitalized [DELP]
+
 •	Hoi: Hospital incidence [IMPE]
+
 •	Icd: ICU Demand [IMPE]
+
 •	Ici: ICU incidence [IMPE]
+
 •	Icn: ICU new (number of new people going to the ICU by day) [IHME]
+
 •	Ico: ICU over ([covid ICU beds needed] - ([total ICU capacity] - [average ICU bed usage])) [IHME]
+
 •	Icu: ICU need (ICU covid beds needed by day) [IHME]
+
 •	Pre: Prevalence [IMPE]
+
 •	Ref: R effective [IMPE]
+
 •	Rtt: R t [IMPE]
+
 •	Ser: Seroprevalence (seroprevalence) [IHME]
+
 •	Tes: Tests (total tests) [IHME]
+
 •	Ven: Ventilated [DELP]
+
 •	Ven: Vent need (invasive Ventilation needed by day) [IHME]
+
 
 Example: The -varname- DayIcdMeRaA03S01 carries -varlabel- "Daily ICU demand Mean A03 S01". It is the daily ICU demand, mean estimate, in study A03 (IMPE), scenario 1.
 
@@ -207,12 +235,13 @@ Variable names and short descriptions for hospital-related (and other) outcomes 
 
 
 
-Secondary variable names:
+_Secondary variable names:_
 
 Secondary variables have two subtypes: (1) variable that store a calculated daily Case Fatality Ratio (CFR), (1) variable that store values created to visualize temporal succession of daily cases and daily deaths peaks.
 
 
 (1) store a calculated daily CFR
+
 •	Positions 4-6 read as CFR.
 
 Example:
@@ -220,8 +249,11 @@ Example:
 DayCfrMeRaA00S00V00 "Daily CFR JOHN [27]" 
 
 (2) store values created for visualization of temporal succession of daily cases and daily deaths peaks
+
 •	CaM: (Cases Mean) "Daily Cases Mean" 
+
 •	CbD (Cases by Deaths) "Daily cases mean divided by daily deaths mean JOHN" 
+
 •	DeM: (Deaths Mean) "Daily Deaths Mean "
 
 
@@ -277,53 +309,90 @@ A05 SRIV Srivastava [8]
 
 
 ### Models’ scenarios
+
 Scenario numbers within the models: 
+
 [Names within brackets are assigned in this work.]
 
+
 A00 JOHN
+
 S00 = [Not Applicable]
 
+
 A01 DELP
+
 S00 = [Single scenario]
 
+
 A02 IHME  (see more details below)
+
 All updates up to and including 20211217:
+
 S01 = Reference scenario [Status Quo]
+
 S02 = Best scenario (Universal masks) [Best]
+
 S03 = Worse scenario (Mandates easing) [Worst] 
 
 
 Updates 20211221 to 20220110:
+
 S01 = Current projection [Status Quo, Reference scenario]
+
 S02 = 80% mask use [Best scenario]
+
 S03 = High severity of Omicron [Worse scenario]
+
 S04 = Third dose of vaccine [Second best scenario]
+
 S05 = Reduced vaccine hesitancy [Third best scenario] 
 
+
 Updates 20220114 to 20220121:
+
 S01 = Current projection [Status Quo, Reference scenario]
+
 S02 = 80% mask use [Best scenario]
+
 S04 = Third dose of vaccine [Second best scenario]
+
 S05 = Reduced vaccine hesitancy [Third best scenario]
+
 The previous scenario, "severe omicron," was omitted starting from update 20220114. The "current projection" or "reference scenario" is functionally the "worse scenario," i.e., the scenario with highest magnitude of estimated deaths and infections.
 
+
 Updates 20220204 onwards:
+
 S01 = Current projection [Status Quo, Reference scenario]
+
 S02 = 80% mask use 
+
 S03 = Third dose of vaccine [Second best scenario]
 
+
 A03 IMPE
+
 S01 = Additional 50% Reduction [Best]
+
 S02 = Current level of interventions [Reference]
+
 S03 = Relax Interventions 50% [Worst]
+
 S04 = Surged Additional 50% Reduction [Best, Surged]
+
 S05 = Surged Maintain Status Quo [Reference, Surged]
+
 S06 = Surged Relax Interventions 50% [Worst, Surged]
 
+
 A04 LANL
+
 S00 = [Single scenario]
 
+
 A05 SRIV
+
 S00 = [current]
 
 <br/><br/>
@@ -370,9 +439,13 @@ Including use of integro-differential equations; Fitting the past (IDR, IHR, IFR
 DELP model versions:
 
 DELP V1 2020-04-17 to 2020-07-04
+
 DELP V2 2020-07-04 to 2020-11-19
+
 DLEP V3 (could not be located)
+
 DELP V4 2020-11-19 to when specified otherwise
+
 DELP source for model versions: 
 https://github.com/COVIDAnalytics/website/tree/master/data/predicted
 
@@ -380,9 +453,13 @@ https://github.com/COVIDAnalytics/website/tree/master/data/predicted
 IHME model versions:
 
 IHME V1 2020-03-25 to 2020-04-29: IHME-CF = Curve Fitting]
+
 IHME V2 2020-05-04 to 2020-05-26: IHME-CF-SEIR = Curve Fitting and SEIR
+
 IHME V3 2020-05-29 to 2021-04-30: IHME-MS-SEIR = Mortality Spline and SEIR
+
 IHME V4 2021-05-06 to 2022-01-10: IHME-MS-SEIR + Total Covid-19 Mortality 
+
 IHME V5 2022-01-14 onwards: IHME-MS-SEIR + Total Covid-19 Mortality + Waning immunity, Fitting the past (improved methods), and Omicron specific changes
 
 
@@ -397,32 +474,49 @@ V1: Beginning March 25, IHME initially produced COVID forecasts using a statisti
 IMPE model versions:
 
 IMPE V1 2020-04-28 to 2020-05-30
+
 IMPE V2 2020-05-31 to 2020-06-09
+
 IMPE V3 2020-06-14 to 2020-06-26
+
 IMPE V4 2020-06-14 to 2020-07-31
+
 IMPE V5 2020-08-08 to 2020-11-01
+
 IMPE V6 2020-11-10 to 2021-01-12
+
 IMPE V7 2021-01-18 to 2021-04-24
+
 IMPE V8 2021-05-10 to when specified otherwise
+
 IMPE V9 2021-11-03 to when specified otherwise
+
 V8 and V9 run together from 2021-11-03 to when specified otherwise
+
 IMPE source for model versions: 
 https://github.com/mrc-ide/global-lmic-reports/tree/master/data
+
 
 
 LANL model versions:
 
 LANL V1 2020-04-05 to 2020-10-28
+
 LANL V2 2020-10-28 to 2021-09-26
+
 LANL source for model versions: https://covid-19.bsvgateway.org 
+
 The LANL COVID-19 Team made its last real-time forecast on September 27th, 2021. 
 Source: https://covid-19.bsvgateway.org
+
 
 
 SRIV model versions:
 
 SRIV V1 2020-05-02 to 2020-06-02 
+
 SRIV V2 2020-06-03 to when specified otherwise
+
 SRIV source for model versions: 
 https://github.com/scc-usc/ReCOVER-COVID-19#our-papers and 
 https://github.com/scc-usc/ReCOVER-COVID-19/tree/master/results/historical_forecasts
@@ -432,20 +526,33 @@ https://github.com/scc-usc/ReCOVER-COVID-19/tree/master/results/historical_forec
 <br/><br/>
 
 Models’ websites for estimates files
+
 DELP https://github.com/COVIDAnalytics/website/tree/master/data/predicted
+
 IHME http://www.healthdata.org/covid/data-downloads
+
 IMPE https://github.com/mrc-ide/global-lmic-reports/tree/master/data
+
 LANL https://covid-19.bsvgateway.org
+
 SRIV https://github.com/scc-usc/ReCOVER-COVID-19/tree/master/results/historical_forecasts
+
 JOHN https://github.com/CSSEGISandData/COVID-19 
 
 
+
 Models’ websites for graphs
+
 DELP https://covidanalytics.io/projections
+
 IHME https://covid19.healthdata.org/iran-(islamic-republic-of)?view=cumulative-deaths&tab=trend
-IMPE https://github.com/mrc-ide/global-lmic-reports/tree/master/IRN
+
+IMPE https://github.com/mrc-ide/global-lmic-reports/tree/master/IRN https://github.com/mrc-ide/global-lmic-reports/tree/master/CAN
+
 LANL https://covid-19.bsvgateway.org  
+
 SRIV https://scc-usc.github.io/ReCOVER-COVID-19/
+
 JOHN https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6
  
  
