@@ -1,6 +1,8 @@
 
 ### Example 2: Canada and its province
 
+<br/><br/>
+
 Below is a real-life example that explains what a researcher or advisor to policymakers would have needed to do if they wanted to examine the latest predictions by the international and periodically updated models for the future trajectory of the COVID-19 epidemic in Canada and its provinces and territories, on March 14, 2022. 
 
 To examine the latest predictions of daily deaths and daily cases in Canada and its subnational levels by the international and periodically updated models, one needs to identify the models, locate their websites, find the graphs, create the missing graphs, (redevelop the available graphs), and compile the graphs. I tried to replicate the above steps, and the results are presented below. 
@@ -8,6 +10,8 @@ To examine the latest predictions of daily deaths and daily cases in Canada and 
 
 
 <br/><br/>
+
+***
 
 DELP model
 
