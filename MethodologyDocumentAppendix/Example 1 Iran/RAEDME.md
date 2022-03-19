@@ -43,6 +43,8 @@ The IHME model does not present predictions of daily cases. They provide predict
 
 Appendix Graph 3. Iran, Predicted daily deaths, IHME model. || Source: https://covid19.healthdata.org/iran-(islamic-republic-of)?view=daily-deaths&tab=trend Accessed on March 7, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159132778-facd913f-860d-4c88-918b-7b1f16bbf602.png)
+
 ![image](https://user-images.githubusercontent.com/30849720/159106222-af6cbab2-d625-4b82-8346-466571b2319d.png)
  
 ***
