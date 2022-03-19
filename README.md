@@ -151,6 +151,7 @@ Primary variables are taken from the five models. Secondary variables are calcul
 Primary variables include primary outcome variables, i.e., deaths and cases, and secondary outcome variables, e.g., hospital demand. As described below through examples, primary variable names have six parts, each part denoting one piece of information about the variable. All the variables have descriptive var -label-s that show what the variable stores. Stata commands are displayed as -command- and Stata non-command syntax as -syntax-. 
 
 
+.
 
 Variable names
 
@@ -168,6 +169,7 @@ Tot...Dea...Me....Ra.....A01.....S00
 
 1-3...4-6...7-8...9-10...11-13...14-16 
 
+.
 
 •	Positions 1-3: Tot or Day: Total (cumulative) or Daily
 
@@ -183,6 +185,7 @@ Tot...Dea...Me....Ra.....A01.....S00
 
 The example primary variable name, TotDeaMeRaA01S00, denotes Total Deaths, mean, raw, DELPHI, single scenario.
 
+.
 
 _Secondary outcome variable names:_
 
@@ -234,6 +237,7 @@ Example: The -varname- DayIcdMeRaA03S01 carries -varlabel- "Daily ICU demand Mea
 Variable names and short descriptions for hospital-related (and other) outcomes by IHME are mentioned in "IHME_COVID_19_Data_Release_Information_Sheet.pdf" released with each estimates' update of IHME. 
 
 
+.
 
 _Secondary variable names:_
 
@@ -268,6 +272,8 @@ The DELP model [4] does not provide smoothed version of predicted daily variable
 
 In summary, smoothing is performed for daily deaths daily cases from JOHN and DELP. Moving averages are calculated for those raw daily deaths and raw daily cases, using the -tssmooth ma- command of Stata. The code and output segment used for smoothing the raw daily deaths from Johns Hopkins (variable name is DayDeaMeRaA00S00) is shown below. This segment is taken from: https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/code/JOHN/do%20CovidVisualizedCountry%20JOHN.do that is the -do- file for downloading and preparing the official reports from Johns Hopkins for Canada and its provinces in the uptake 20220311 of CovidVisualizedCountry tool. 
 
+.
+
 * Start of the code segment
 
 . tssmooth ma DayDeaMeRaA00S00_window = DayDeaMeRaA00S00 if DayDeaMeRaA00S00 >= 0, window(3 1 3)
@@ -289,6 +295,7 @@ The smoother applied was
 
 
 
+.
 
 Numbers assigned to the models in this work:
 
@@ -314,16 +321,19 @@ Scenario numbers within the models:
 
 [Names within brackets are assigned in this work.]
 
+.
 
 A00 JOHN
 
 S00 = [Not Applicable]
 
+.
 
 A01 DELP
 
 S00 = [Single scenario]
 
+.
 
 A02 IHME  (see more details below)
 
@@ -335,6 +345,7 @@ S02 = Best scenario (Universal masks) [Best]
 
 S03 = Worse scenario (Mandates easing) [Worst] 
 
+.
 
 Updates 20211221 to 20220110:
 
@@ -348,6 +359,7 @@ S04 = Third dose of vaccine [Second best scenario]
 
 S05 = Reduced vaccine hesitancy [Third best scenario] 
 
+.
 
 Updates 20220114 to 20220121:
 
@@ -361,6 +373,7 @@ S05 = Reduced vaccine hesitancy [Third best scenario]
 
 The previous scenario, "severe omicron," was omitted starting from update 20220114. The "current projection" or "reference scenario" is functionally the "worse scenario," i.e., the scenario with highest magnitude of estimated deaths and infections.
 
+.
 
 Updates 20220204 onwards:
 
@@ -370,6 +383,7 @@ S02 = 80% mask use
 
 S03 = Third dose of vaccine [Second best scenario]
 
+.
 
 A03 IMPE
 
@@ -385,11 +399,13 @@ S05 = Surged Maintain Status Quo [Reference, Surged]
 
 S06 = Surged Relax Interventions 50% [Worst, Surged]
 
+.
 
 A04 LANL
 
 S00 = [Single scenario]
 
+.
 
 A05 SRIV
 
@@ -449,6 +465,7 @@ DELP V4 2020-11-19 to when specified otherwise
 DELP source for model versions: 
 https://github.com/COVIDAnalytics/website/tree/master/data/predicted
 
+.
 
 IHME model versions:
 
@@ -462,6 +479,7 @@ IHME V4 2021-05-06 to 2022-01-10: IHME-MS-SEIR + Total Covid-19 Mortality
 
 IHME V5 2022-01-14 onwards: IHME-MS-SEIR + Total Covid-19 Mortality + Waning immunity, Fitting the past (improved methods), and Omicron specific changes
 
+.
 
 IHME source for model versions: 
 
@@ -470,6 +488,7 @@ All models label their versions within their data files or on their websites, ex
 V1: Beginning March 25, IHME initially produced COVID forecasts using a statistical curve fit model (IHME-CF), which was used through April 29 for publicly released forecasts. V2: On May 4, IHME switched to using a hybrid model, drawing on a statistical curve fit in the first stage, followed by a second-stage epidemiological model with susceptible, exposed, infectious, recovered compartments (SEIR). This model was used through May 26. V3: On May 29, the curve fit stage was replaced by a spline fit to the relationship between log cumulative deaths and log cumulative cases, while the second-stage SEIR model remained the same.
 
 
+.
 
 IMPE model versions:
 
@@ -497,6 +516,7 @@ IMPE source for model versions:
 https://github.com/mrc-ide/global-lmic-reports/tree/master/data
 
 
+.
 
 LANL model versions:
 
@@ -510,6 +530,7 @@ The LANL COVID-19 Team made its last real-time forecast on September 27th, 2021.
 Source: https://covid-19.bsvgateway.org
 
 
+.
 
 SRIV model versions:
 
@@ -525,7 +546,7 @@ https://github.com/scc-usc/ReCOVER-COVID-19/tree/master/results/historical_forec
 
 <br/><br/>
 
-Models’ websites for estimates files
+#### Models’ websites for estimates files
 
 DELP https://github.com/COVIDAnalytics/website/tree/master/data/predicted
 
@@ -540,8 +561,9 @@ SRIV https://github.com/scc-usc/ReCOVER-COVID-19/tree/master/results/historical_
 JOHN https://github.com/CSSEGISandData/COVID-19 
 
 
+<br/><br/>
 
-Models’ websites for graphs
+#### Models’ websites for graphs
 
 DELP https://covidanalytics.io/projections
 
