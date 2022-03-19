@@ -128,8 +128,6 @@ Table 1. General characteristics of the included models
 
 Table 2. Technical characteristics of the included models 
 
-![image](https://user-images.githubusercontent.com/30849720/159102975-290f3907-5e80-4195-b523-17ff5a3fe1bf.png)
-
 ![image](https://user-images.githubusercontent.com/30849720/159103013-5ef81d9c-c8a9-4496-8a32-0ebe018e91e0.png)
 
 <br/><br/>
