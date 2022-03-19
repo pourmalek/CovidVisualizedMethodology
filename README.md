@@ -13,7 +13,7 @@ This CovidVisualized methodology document explains the conceptual and computatio
 <br/><br/>
 
 [CovidVisualized Methodology Document Appendix]()
-|| [PDF]()
+|| [PDF](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/CovidVisualized%20Methodology%20Document%20Appendix.pdf)
 
 This CovidVisualized Methodology Document Appendix provides examples of how the CovidVisualized tools can be used to examine the predictions by the international and periodically updated epidemic models for the future trajectory of the COVID-19 pandemic at global and country levels.
 
