@@ -283,39 +283,56 @@ Even though the models are highly divergent about the future trajectory of the e
 
 Appendix Exhibit 4. The uptake dates in the CovidVisualizedCountry website are displayed on the top of the main web page as the names of directories for each uptake. || Source: https://github.com/pourmalek/CovidVisualizedCountry Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159137617-d22d4a20-8e0a-4634-b7ff-d8497f5faea0.png)
  
 ***
 
 Appendix Exhibit 5. The latest uptake date equal to or before March 14, 2022, is 20220311.
 || Source: https://github.com/pourmalek/CovidVisualizedCountry Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159137624-6f862670-2ad5-48d2-b360-6b6868891350.png)
+
 *** 
 
 Appendix Exhibit 6. The CovidVisualizedCountry website page for uptake 20220311. || Source: https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311 Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159137634-0c7d3452-8823-48dd-9a79-4b9ba46e94ef.png)
+
 *** 
 
-Appendix Graph 52. Canada, national, Daily deaths, all-time || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+Appendix Graph 52. Canada, national, [Daily deaths, Reference scenarios, all-time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/CAN1%2011aDayDeaMERGnat%20alltime%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%20all%20time.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158004167-e542ae65-6337-4695-aba0-4549547cfc9a.png)
 
 ***
  
-Appendix Graph 53. Canada, national, Daily deaths, 2021 on || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+Appendix Graph 53. Canada, national, [Daily deaths, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/CAN2%2012aDayDeaMERGnat%202021%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158004185-f000c831-58b6-4920-a784-8c527b30bddd.png)
 
 ***
  
-Appendix Graph 54. Canada, national, Daily cases or infections, all-time || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+Appendix Graph 54. Canada, national, [Daily cases or infections, Reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/CAN4%2031aDayCasMERGnat%20alltime%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158004203-583a8f3f-5489-41ca-a88a-2bcb751f08a3.png)
 
 ***
  
-Appendix Graph 55. Canada, national, Daily cases or infections, 2021 on || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+Appendix Graph 55. Canada, national,[Daily cases or infections, All scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/CAN5%2032aDayCasMERGnat%202021%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20National%2C%20reference%20scenarios%2C%202021.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158004238-b8471c56-8885-4ec4-aa22-c7cc7be7224d.png)
 
 ***
  
-Appendix Graph 56. Canada, national, Hospital-related outcomes, all-time || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+Appendix Graph 56. Canada, national, [Daily hospital-related outcomes, Reference scenarios, all-time](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/CAN7%2071a1DayHosMERGnat%20%20alltime%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158004259-0c95e5b2-8f0e-4e20-993c-1954e1bfc9df.png)
 
 ***
  
-Appendix Graph 57. Canada, national,  Daily hospital-related outcomes, without IHME Bed need, IMPE Hospital demand, Reference scenarios, 2021 on || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+Appendix Graph 57. Canada, national, [Daily hospital-related outcomes, without IHME Bed need, IMPE Hospital demand, Reference scenarios, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/CAN8%2073aDayHosMERGnat%202021%20-%20COVID-19%20hospital-related%20outcomes%2C%20Canada%2C%20National%2C%20wo%20extremes%2C%202021.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+ 
+![image](https://user-images.githubusercontent.com/30849720/158004274-b84960af-c453-460e-aa44-6ce42749cb26.png)
  
 ***
 
