@@ -1,6 +1,7 @@
 # CovidVisualizedMethodology
 CovidVisualized Methodology Documents
 
+<br/><br/>
 
 This repository contains the CovidVisualized Methodology Documents:
 
@@ -8,6 +9,8 @@ This repository contains the CovidVisualized Methodology Documents:
 || [PDF]()
 
 This CovidVisualized methodology document explains the conceptual and computational details of the development of CovidVisualized tools. Examples of “what the CovidVisualized tools provide in addition to the individual models” are provided in the companion “CovidVisualized methodology document appendix”. 
+
+<br/><br/>
 
 [CovidVisualized Methodology Document Appendix]()
 || [PDF]()
