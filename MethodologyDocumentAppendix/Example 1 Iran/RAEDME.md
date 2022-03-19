@@ -19,7 +19,7 @@ The DELP model does not present predictions of daily deaths and daily cases. The
 
 Appendix Graph 1. Iran, Predicted total deaths, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 7, 2022.
 
-![image](https://user-images.githubusercontent.com/30849720/159132624-20c3579b-38ea-449b-8e10-c4f405805c2d.png)
+![image](https://user-images.githubusercontent.com/30849720/159132662-d62a9057-b229-4663-b01c-7298e8daf364.png)
 
 *** 
 
