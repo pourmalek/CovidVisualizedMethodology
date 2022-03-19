@@ -322,44 +322,103 @@ Appendix Graph 59. Canada, national,  Daily Infection-detection, Infection-hospi
 ***
  
 Appendix Graph 60. Canada, national,  Daily mask use, IHME, 2020 on || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+***
  
 Appendix Graph 61. Canada, national,  Percent cumulative vaccinated, 2021 on, IHME || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 62. Canada, provinces together, Daily reported deaths, JOHN, 2020 on || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 63. Canada, provinces together, Daily reported deaths, JOHN, 2021 on || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 64. Canada, provinces together, Daily reported deaths, JOHN, 2022 || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 65. Canada, provinces together, Daily reported deaths, without National, Ontario, and Quebec, JOHN, 2022 || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 66. Canada, provinces together, Daily reported cases, JOHN, 2020 on || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 67. Canada, provinces together, Daily reported cases, JOHN, 2021 on || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 68. Canada, provinces together, Daily reported cases, JOHN, 2022 || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 69. Canada, provinces together, Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022 || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 70. Canada, provinces together, Daily deaths, Reference scenario, IHME, 2020 on || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 71. Canada, provinces together, Daily deaths, Reference scenario, IHME, 2021 on || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 72. Canada, provinces together, Daily deaths, Reference scenario, IHME, 2022 || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 73. Canada, provinces together, Daily infections, Reference scenario, IHME, 2020 on|| Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 74. Canada, provinces together, Daily infections, Reference scenario, IHME, 2021 on|| Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 75. Canada, provinces together, Daily infections, Reference scenario, IHME, 2022|| Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 75. Canada, British Columbia, Daily deaths, Reference scenario, 2020 on|| Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 76. Canada, British Columbia, Daily deaths, Reference scenario, 2021 on|| Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 77. Canada, British Columbia, Daily cases or infections, Reference scenario, 2020 on|| Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
  
 Appendix Graph 78. Canada, British Columbia, Daily cases or infections, Reference scenario, 2021 on|| Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+
+***
 
 
 
