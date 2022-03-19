@@ -121,6 +121,8 @@ Table 1. General characteristics of the included models
 
 ![image](https://user-images.githubusercontent.com/30849720/159102916-7315f450-c4fb-4530-844b-c6d8fb1fcb06.png)
 
+![image](https://user-images.githubusercontent.com/30849720/159102934-6680fa54-5327-48d6-8edb-70d0d5f26009.png)
+
 
 <br/><br/>
 
