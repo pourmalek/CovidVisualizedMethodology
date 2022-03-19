@@ -277,58 +277,69 @@ Appendix Graph 22. Iran [Daily cases or infections, 2021 on](https://github.com/
 
 ***
  
-Appendix Graph 23. Iran Daily cases, 2021 on ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+Appendix Graph 23. Iran [Daily cases, 2021 on](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2022b%20COVID-19%20daily%20cases%2C%20Iran%2C%20reference%20scenarios.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
-
-***
- 
-Appendix Graph 24. Iran Daily estimated infections IHME, IMPE to reported cases JOHN, main scenarios, 2021 on ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
-
+![image](https://user-images.githubusercontent.com/30849720/157362431-fd90e20f-f304-4dbd-967b-202d619ad715.png)
 
 ***
  
-Appendix Graph 25. Iran Hospital-related outcomes, all-time ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+Appendix Graph 24. Iran [Daily estimated infections IHME, IMPE to reported cases JOHN, main scenarios, 2021 on](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2029%20C19%20daily%20estimated%20infections%20to%20reported%20cases%2C%20Iran%2C%20reference%20scenarios%202021.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
-
-***
- 
-Appendix Graph 26. Iran Hospital-related outcomes, 2021 on ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
-
+![image](https://user-images.githubusercontent.com/30849720/157362659-5176c987-054d-4d66-88a8-209a1c33b258.png)
 
 ***
  
-Appendix Graph 27. Iran Daily deaths estimated to reported, all-time ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+Appendix Graph 25. Iran [Hospital-related outcomes, all-time](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2071a%20COVID-19%20hospital-related%20outcomes%2C%20all%20time.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
-
-***
- 
-Appendix Graph 28. Iran Daily cases or infections estimated to reported cases, 2021 on ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
-
+![image](https://user-images.githubusercontent.com/30849720/157362741-65c335e3-8a9a-43c4-a386-c0aec82dd4d4.png)
 
 ***
  
-Appendix Graph 29. Iran R effective, 2 scenarios, 2021 on, IHME ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+Appendix Graph 26. Iran [Hospital-related outcomes, 2021 on](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2072%20COVID-19%20hospital-related%20outcomes%2C%20wo%20extremes%2C%202021.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
-
-***
- 
-Appendix Graph 30. Iran Daily Infection-outcome ratios, 2 scenarios, 2021 on, IHME ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
-
+![image](https://user-images.githubusercontent.com/30849720/157362836-3c081c95-6c8f-4491-9cb7-67dcfc419c12.png)
 
 ***
  
-Appendix Graph 31. Iran Daily mobility, 2 scenarios, all-time, IHME ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+Appendix Graph 27. Iran [Daily deaths estimated to reported, all-time](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2091%20COVID-19%20daily%20deaths%20estimated%20to%20reported%2C%20Iran%2C%20reference%20scenarios%2C%20all%20time.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
-
-***
- 
-Appendix Graph 32. Iran Daily mask use, 2 scenarios, all-time, IHME ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
-
+![image](https://user-images.githubusercontent.com/30849720/157362910-a16a1338-ef74-4b82-8faa-4038cc74b20f.png)
 
 ***
  
-Appendix Graph 33. Iran Percent cumulative vaccinated, 2021 on, IHME ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+Appendix Graph 28. Iran [Daily cases or infections estimated to reported cases, 2021 on](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2094%20COVID-19%20daily%20cases%20estimated%20to%20reported%2C%20Iran%2C%20reference%20scenarios.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/157362985-21c81d24-c54c-4317-918d-96ed45a0c36b.png)
+
+***
  
+Appendix Graph 29. Iran [R effective, 2 scenarios, 2021 on, IHME](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%20101%20COVID-19%20R%20effective%2C%20Iran%2C%202%20scenarios%2001jun2021%20on.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/157363084-08a7b322-bcd3-42fa-964f-2487160e02a5.png)
+
+***
+ 
+Appendix Graph 30. Iran [Daily Infection-outcome ratios, 2 scenarios, 2021 on, IHME](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%20102%20COVID-19%20daily%20Infection%20outcomes%20ratios%2C%20Iran%202%20scenarios%2C%20IHME.pdf)||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/157363137-ecacb2fb-48c0-4c55-ab52-073ea7850af3.png)
+
+***
+ 
+Appendix Graph 31. Iran [Daily mobility, 2 scenarios, all-time, IHME](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%20103%20COVID-19%20daily%20mobility%2C%20Iran%2C%202%20scenarios%20IHME.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/157363219-4701e233-3fd6-402d-be75-59fd14236fa7.png)
+
+***
+ 
+Appendix Graph 32. Iran [Daily mask use, 2 scenarios, all time, IHME](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%20104%20COVID-19%20daily%20mask_use%2C%20Iran%2C%202%20scenarios%20IHME.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/157363622-998919ee-fa78-4e1a-b39b-7c1f7a8bfe8a.png)
+
+***
+ 
+Appendix Graph 33. Iran [Percent cumulative vaccinated, 2021 on, IHME](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%20105%20COVID-19%20cumulative%20vaccinated%20percent%2C%20Iran%20IHME.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+ 
+![image](https://user-images.githubusercontent.com/30849720/157363686-76d1d436-cf25-49af-a3ac-8bf958350363.png)
 
 ***
 
