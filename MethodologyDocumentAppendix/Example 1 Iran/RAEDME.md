@@ -253,23 +253,27 @@ Appendix Graph 18. Iran [Daily deaths, 2021 on, all scenarios, IHME](https://git
 
 ***
  
-Appendix Graph 19. Iran Daily deaths, 2021 on, reference scenario with uncertainty, IMPE ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+Appendix Graph 19. Iran [Daily deaths, 2021 on, reference scenario with uncertainty, IMPE](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2016%20COVID-19%20daily%20deaths%2C%20Iran%2C%20reference%20scenario%20with%20uncertainty%2C%20IMPE.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
-
-***
- 
-Appendix Graph 20. Iran Daily deaths, 2021 on, 3 scenarios, IMPE ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
-
+![image](https://user-images.githubusercontent.com/30849720/157358518-69e65750-ad1d-4fde-9f95-10d1202a525c.png)
 
 ***
  
-Appendix Graph 21. Iran Daily cases or infections, all-time ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+Appendix Graph 20. Iran [Daily deaths, 2021 on, 3 scenarios, IMPE](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2017%20COVID-19%20daily%20deaths%2C%20Iran%2C%203%20scenarios%2C%20IMPE.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/157358445-9bdd4e94-2e3d-4193-bc0f-120b8b507c87.png)
 
 ***
  
-Appendix Graph 22. Iran Daily cases or infections, 2021 on ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+Appendix Graph 21. [Daily cases or infections, all-time](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2021%20COVID-19%20daily%20cases%2C%20Iran%2C%20reference%20scenarios%2C%20all%20time.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/157362170-94daa695-b03e-4bdb-80a1-57b2700e83a8.png)
+
+***
+ 
+Appendix Graph 22. Iran [Daily cases or infections, 2021 on](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2022%20COVID-19%20daily%20cases%2C%20Iran%2C%20reference%20scenarios.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/157362322-d84cf8ae-09e3-462c-b5e7-913722fc3094.png)
 
 ***
  
