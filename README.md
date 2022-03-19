@@ -20,6 +20,10 @@ This CovidVisualized Methodology Document Appendix provides examples of how the 
 <br/><br/>
 
 
+****************************************************************************************
+****************************************************************************************
+****************************************************************************************
+
 
 ### CovidVisualized Methodology Document
 
@@ -30,6 +34,8 @@ CovidVisualized: Visualized compilation of international updated models' estimat
 Farshad Pourmalek, MD PhD
 Former lecturer, University of British Columbia, Vancouver, Canada
 pourmalek_farshad at yahoo dot com
+
+<br/><br/>
 
 
 ### TABLE OF CONTENTS:
@@ -57,6 +63,7 @@ pourmalek_farshad at yahoo dot com
 [Periodical updates and uptakes](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#periodical-updates-and-uptakes)
 
 
+<br/><br/>
 
 
 ### Summary
