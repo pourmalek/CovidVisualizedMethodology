@@ -133,13 +133,11 @@ The SRIV model’s predictions for daily deaths and daily cases are shown in App
 
 Appendix Graph 44. Canada, Predicted daily deaths, SRIV model.|| Source: https://scc-usc.github.io/ReCOVER-COVID-19 Accessed on March 14, 2022.
 
-![image](https://user-images.githubusercontent.com/30849720/159137397-85cb5831-6a05-48ff-8950-ffc7d557df56.png)
 
 *** 
 
 Appendix Graph 45. Canada, Predicted daily cases, SRIV model|| Source: https://scc-usc.github.io/ReCOVER-COVID-19 . Accessed on March 14, 2022.
 
-![image](https://user-images.githubusercontent.com/30849720/159137413-995c4d4d-7e40-4f55-a39f-399aa39c65ed.png)
  
 ***
 
@@ -215,10 +213,13 @@ The DELP model does not present predictions of daily deaths and daily cases. Pre
 
 Appendix Graph 50. Canada, national level, predicted daily deaths by IHME, IMPE, SRIV, and reported daily deaths by Worldometers. Accessed on March 14, 2022. || Source: Assembled from Appendix Graphs 38, 42, 44, and 48.
 
+![image](https://user-images.githubusercontent.com/30849720/159137397-85cb5831-6a05-48ff-8950-ffc7d557df56.png)
  
 ***
 
 Appendix Graph 51. Canada, predicted daily cases by SRIV, predicted daily infections by IHME and IMPE, and reported daily cases by Worldometers. Accessed on March 14, 2022. || Source: Assembled from Appendix Graphs 39, 43, 45, and 49.
+
+![image](https://user-images.githubusercontent.com/30849720/159137413-995c4d4d-7e40-4f55-a39f-399aa39c65ed.png)
 
 ***
 
