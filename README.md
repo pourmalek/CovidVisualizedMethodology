@@ -119,7 +119,7 @@ No model is 100% complete, accurate, and valid, and no model is 100% wrong and u
 
 Table 1. General characteristics of the included models 
 
-![image](https://user-images.githubusercontent.com/30849720/159102867-ec599fd3-bf84-4aa6-8ac9-14523f1e3ab4.png)
+![image](https://user-images.githubusercontent.com/30849720/159102900-d8d7a31a-47f0-479b-a54d-d6d36f96b6c6.png)
 
 
 <br/><br/>
