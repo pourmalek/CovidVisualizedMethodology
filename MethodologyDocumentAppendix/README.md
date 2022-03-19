@@ -17,23 +17,23 @@ pourmalek_farshad at yahoo dot com
 
 ### TABLE OF CONTENTS:
 
-[Summary](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#summary-1)
+[Summary]()
 
-[CovidVisualized tools](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#covidvisualized-tools-1)
+[CovidVisualized tools]()
 
-[The five international and periodically updated COVID-19 pandemic models](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#the-five-international-and-periodically-updated-covid-19-pandemic-models-are)
+[The five international and periodically updated COVID-19 pandemic models]()
 
-[Examples of what the CovidVisualized tools provide in addition to the individual models](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#examples-of-what-the-covidvisualized-tools-provide-in-addition-to-the-individual-models)
+[Examples of what the CovidVisualized tools provide in addition to the individual models]()
 
-[References](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#references-1)
+[References]()
 
-[Example 1: Iran](https://github.com/pourmalek/CovidVisualizedMethodology/tree/main/MethodologyDocumentAppendix/Example%201%20Iran)
+[Example 1: Iran]()
 
-[Example 2: Canada and its province](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#example-2-canada-and-its-province)
+[Example 2: Canada and its province]()
 
-[Example 3: Global level and WHO regions]https://github.com/pourmalek/CovidVisualizedMethodology/tree/main/MethodologyDocumentAppendix/Example%203%20Global%20regional)
+[Example 3: Global level and WHO regions]()
 
-[Postscript](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#postscript)
+[Postscript]()
 
 <br/><br/>
 
