@@ -26,7 +26,7 @@ This CovidVisualized Methodology Document Appendix provides examples of how the 
 
 
 
-CovidVisualized Methodology Document
+### CovidVisualized Methodology Document
 
 Methodology document for CovidVisualized tools: CovidVisualizedGlobal, CovidVisualizedCountry, and covir2
 
