@@ -794,13 +794,13 @@ _Conclusion:_ The CovidVisualized tools have already paved the way and resolved 
 
 Here are three examples illustrating what the CovidVisualized tools provide in addition to the individual models. 
 
-Example 1 is for Iran. 
+[Example 1](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#example-1-iran) is for Iran. 
 
-Example 2 is for Canada and its province.
+[Example 2]() is for Canada and its province.
 
-Example 3 looks at the global level and WHO regions. 
+[Example 3]() looks at the global level and WHO regions. 
 
-For sample applications of “covir2” to countries without subnational estimates see Afghanistan, Pakistan,  Japan 20210506, Japan 20210928
+For sample applications of “covir2” to countries without subnational estimates see [Afghanistan](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Afghanistan_%2020210625/20210625), [Pakistan](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Pakistan_20210704), [Japan 20210506](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Japan_20210506), [Japan 20210928](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Japan_20210928)
 
 
 
