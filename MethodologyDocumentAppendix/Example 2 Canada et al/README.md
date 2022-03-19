@@ -182,33 +182,16 @@ Worldometers compilation of official reports to WHO
 The Worldometers compilation of official reports provides reported daily deaths and daily cases, as shown in Appendix Graphs 48 and 49 below. 
 
 
-
-
-
-
-
-
+***
 
 Appendix Graph 48. Canada, Daily deaths, Worldometers. || Source: https://www.worldometers.info/coronavirus/country/Canada/ Accessed on March 14, 2022.
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
+*** 
 
 Appendix Graph 49. Canada, Daily cases, Worldometers || Source: https://www.worldometers.info/coronavirus/country/Canada/ Accessed on March 14, 2022.
 
  
-
+***
 
 
 
@@ -225,17 +208,21 @@ Appendix Graph 49. Canada, Daily cases, Worldometers || Source: https://www.worl
 The DELP model does not present predictions of daily deaths and daily cases. Predictions of daily deaths by IHME, IMPE, and SRIV, and reported daily deaths by Worldometers for Canada at the national level are shown below in Appendix Graph 50. Appendix Graph 51 shows the predicted daily cases by SRIV, predicted daily infections by IHME and IMPE, and the reported daily cases by Worldometers. The DELP and IHME models provide predictions at the subnational level. Transforming the predictions of total deaths and total cases to daily deaths and daily cases needs calculations – performed in the CovidVisualized tools. Therefore, without the CovidVisualized tools, the predictions for the subnational levels are comprised only of those provided by IHME (Appendix Graphs 40 and 41 above). 
 
 
- 
+***
+
 Appendix Graph 50. Canada, national level, predicted daily deaths by IHME, IMPE, SRIV, and reported daily deaths by Worldometers. Accessed on March 14, 2022. || Source: Assembled from Appendix Graphs 38, 42, 44, and 48.
 
  
+***
 
 Appendix Graph 51. Canada, predicted daily cases by SRIV, predicted daily infections by IHME and IMPE, and reported daily cases by Worldometers. Accessed on March 14, 2022. || Source: Assembled from Appendix Graphs 39, 43, 45, and 49.
+
+***
 
 
 <br/><br/>
   
-**How** can the CovidVisualizedCountry tool be practically used for the example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Canada on March 14, 2022? They would look at the uptake dates in the CovidVisualizedCountry website to find the latest date equal to or before March 14, 2022. The uptake dates in the CovidVisualizedCountry website are displayed on the top of the main web page as the names of directories for each uptake (see Appendix Exhibit 4 below). Scroll down to find the latest uptake date equal to or before March 14, 2022. Appendix Exhibit 5 shows that the date would be 20220311. Clicking on the hyperlinked name 20220311, leads to the page for the uptake 20220311 (see Appendix Exhibit 6). On the page for the uptake 20220311, “Selected graphs” can be viewed, as well as links to the code  used to produce the results and the output  of the code. 
+**How can the CovidVisualizedCountry tool be practically used for the example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Canada on March 14, 2022?** They would look at the uptake dates in the CovidVisualizedCountry website to find the latest date equal to or before March 14, 2022. The uptake dates in the CovidVisualizedCountry website are displayed on the top of the main web page as the names of directories for each uptake (see Appendix Exhibit 4 below). Scroll down to find the latest uptake date equal to or before March 14, 2022. Appendix Exhibit 5 shows that the date would be 20220311. Clicking on the hyperlinked name 20220311, leads to the page for the uptake 20220311 (see Appendix Exhibit 6). On the page for the uptake 20220311, “Selected graphs” can be viewed, as well as links to the code  used to produce the results and the output  of the code. 
 
 <br/><br/>
 
@@ -259,7 +246,9 @@ Four graphs are provided for each province: (1) Daily deaths, Reference scenario
 
 <br/><br/>
 
-Here is the bottom-line conclusion from this example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Canada on March 14, 2022 – and how the CovidVisualizedCountry tool can help. One can locate the latest predictions by the international and periodically updated models and come up with some sort of compilation of graphs like the Appendix Graphs 50 and 51 made here, or similar graphs for other outcomes. In the meantime, Appendix Graph 52 to 55 show the equivalent of those compilations of graphs for the national level, readily available via the CovidVisualizedCountry tool. Appendix Graphs 77 to 78 show the CovidVisualizedCountry complied graphs for British Columbia. The graphs compiled in the CovidVisualizedCountry tool are much more usable and demonstrate different aspects like calendar time intervals, different scenarios, mean estimates and confidence intervals, and individual models’ details. The software code used to produce the graphs is accessible  and can be rerun by others to verify the correctness and potential mistakes. The track record of the previous periodical uptakes is also accessible – via RESULTS CANADA, national 2021, RESULTS CANADA, national 2022, RESULTS CANADA, provinces 2021, RESULTS CANADA, provinces 2022, RESULTS British Columbia 2021, RESULTS British Columbia 2022, and similar web pages shown in the root of the CovidVisualizedCountry website. The CovidVisualizedCountry uptake 20220311 also adds the following summary by its creator, and puts all the graphs in “Canada COVID-19 epidemic models situation report No 38 – 2022-03-11.pdf”.
+**Here is the bottom-line conclusion from this example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Canada on March 14, 2022 – and how the CovidVisualizedCountry tool can help.** One can locate the latest predictions by the international and periodically updated models and come up with some sort of compilation of graphs like the Appendix Graphs 50 and 51 made here, or similar graphs for other outcomes. In the meantime, Appendix Graph 52 to 55 show the equivalent of those compilations of graphs for the national level, readily available via the CovidVisualizedCountry tool. Appendix Graphs 77 to 78 show the CovidVisualizedCountry complied graphs for British Columbia. The graphs compiled in the CovidVisualizedCountry tool are much more usable and demonstrate different aspects like calendar time intervals, different scenarios, mean estimates and confidence intervals, and individual models’ details. The software code used to produce the graphs is accessible  and can be rerun by others to verify the correctness and potential mistakes. The track record of the previous periodical uptakes is also accessible – via RESULTS CANADA, national 2021, RESULTS CANADA, national 2022, RESULTS CANADA, provinces 2021, RESULTS CANADA, provinces 2022, RESULTS British Columbia 2021, RESULTS British Columbia 2022, and similar web pages shown in the root of the CovidVisualizedCountry website. The CovidVisualizedCountry uptake 20220311 also adds the following summary by its creator, and puts all the graphs in “Canada COVID-19 epidemic models situation report No 38 – 2022-03-11.pdf”.
+
+
 Summary 20220311:
 
 <br/><br/>
@@ -284,71 +273,53 @@ Even though the models are highly divergent about the future trajectory of the e
 
 
 
-
+***
 
 Appendix Exhibit 4. The uptake dates in the CovidVisualizedCountry website are displayed on the top of the main web page as the names of directories for each uptake. || Source: https://github.com/pourmalek/CovidVisualizedCountry Accessed on March 14, 2022.
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+***
 
 Appendix Exhibit 5. The latest uptake date equal to or before March 14, 2022, is 20220311.
 || Source: https://github.com/pourmalek/CovidVisualizedCountry Accessed on March 14, 2022.
 
- 
-
-
-
-
-
-
-
-
-
+*** 
 
 Appendix Exhibit 6. The CovidVisualizedCountry website page for uptake 20220311. || Source: https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311 Accessed on March 14, 2022.
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
+*** 
 
 Appendix Graph 52. Canada, national, Daily deaths, all-time || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+***
  
 Appendix Graph 53. Canada, national, Daily deaths, 2021 on || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+***
  
 Appendix Graph 54. Canada, national, Daily cases or infections, all-time || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+***
  
 Appendix Graph 55. Canada, national, Daily cases or infections, 2021 on || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+***
  
 Appendix Graph 56. Canada, national, Hospital-related outcomes, all-time || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+***
  
 Appendix Graph 57. Canada, national,  Daily hospital-related outcomes, without IHME Bed need, IMPE Hospital demand, Reference scenarios, 2021 on || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
  
+***
+
 Appendix Graph 58. Canada, national, Daily Infection-detection, Infection-hospitalization, and Infection-fatality ratios, Reference scenario, IHME, 2021 on || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+***
  
 Appendix Graph 59. Canada, national,  Daily Infection-detection, Infection-hospitalization, and Infection-fatality ratios, 2021 on, IHME || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
+
+***
  
 Appendix Graph 60. Canada, national,  Daily mask use, IHME, 2020 on || Source: CovidVisualizedCountry uptake 20220311 Accessed on March 14, 2022.
  
