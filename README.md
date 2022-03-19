@@ -52,13 +52,13 @@ pourmalek_farshad at yahoo dot com
 
 [Data management](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#data-management)
 
-[Primary and secondary variables]()
+[Primary and secondary variables](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#primary-and-secondary-variables)
 
 [Smoothing](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#smoothing)
 
-[Models’ scenarios]()
+[Models’ scenarios](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#models-scenarios)
 
-[Models’ versions]()
+[Models’ versions](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#models-versions)
 
 [Periodical updates and uptakes](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#periodical-updates-and-uptakes)
 
