@@ -37,21 +37,29 @@ Former lecturer, University of British Columbia, Vancouver, Canada
 pourmalek_farshad at yahoo dot com
 
 
-Table of Contents:
+### TABLE OF CONTENTS:
 
 [Summary](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#summary)
 
 [CovidVisualized tools](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#covidvisualized-tools)
 
-International and periodically updated COVId-19 pandemic models	
-Study justification and added value	
-Characteristics of the models	
-Data management	
-Primary and secondary variables	
-Smoothing	
-Models’ scenarios	
-Models’ versions	
-Periodical updates and uptakes	
+[International and periodically updated COVId-19 pandemic models](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#international-and-periodically-updated-covid-19-pandemic-models)
+
+[Study justification and added value](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#study-justification-and-added-value)
+
+[Characteristics of the models](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#characteristics-of-the-models)
+
+[Data management](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#data-management)
+
+[Primary and secondary variables]()
+
+[Smoothing](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#smoothing)
+
+[Models’ scenarios]()
+
+[Models’ versions]()
+
+[Periodical updates and uptakes](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#periodical-updates-and-uptakes)
 
 
 
@@ -137,7 +145,8 @@ Estimates of (1) Daily Deaths, (2) Total Deaths, (3) Daily Cases (incident or pr
 
 The CovidVisualized tools do not change any outcomes or variables taken from the five international and periodically updated models. Secondary variables are calculated in CovidVisualized tools: (1) Daily deaths and daily cases are calculated from the provided cumulative deaths and cases by JOHN [27], DELP [4], and SRIV [8]. (2) Case Fatality Ratios (CFR), and (3) smoothed variables for daily deaths daily cases from JOHN and DELP. Details of smoothing are provided further below. 
 
-Primary and secondary variables
+### Primary and secondary variables
+
 Primary variables are taken from the five models. Secondary variables are calculated in this work. To facilitate data management, the primary variables were -rename-d or -renvar-ed using the variables from the five models according to the following conventions. The same set of conventions was adhered to in naming all outcome variables.
 
 Primary variables include primary outcome variables, i.e., deaths and cases, and secondary outcome variables, e.g., hospital demand. As described below through examples, primary variable names have six parts, each part denoting one piece of information about the variable. All the variables have descriptive var -label-s that show what the variable stores. Stata commands are displayed as -command- and Stata non-command syntax as -syntax-. 
