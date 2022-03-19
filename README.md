@@ -119,8 +119,6 @@ No model is 100% complete, accurate, and valid, and no model is 100% wrong and u
 
 Table 1. General characteristics of the included models 
 
-![image](https://user-images.githubusercontent.com/30849720/159102916-7315f450-c4fb-4530-844b-c6d8fb1fcb06.png)
-
 ![image](https://user-images.githubusercontent.com/30849720/159102934-6680fa54-5327-48d6-8edb-70d0d5f26009.png)
 
 
@@ -130,17 +128,13 @@ Table 1. General characteristics of the included models
 
 Table 2. Technical characteristics of the included models 
 
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/30849720/159102975-290f3907-5e80-4195-b523-17ff5a3fe1bf.png)
 
 
 <br/><br/>
+
+
+
 
 ### Data management 
 
