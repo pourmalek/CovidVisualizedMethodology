@@ -812,6 +812,9 @@ Here is a real-life example that explains what a researcher or advisor to policy
 
 To examine the latest predictions of daily deaths and daily cases in Iran by the international and periodically updated models, one needs to identify the models, locate their websites, find the graphs, create the missing graphs, (redevelop the existing graphs), and compile the graphs in a usable manner. I tried to replicate the above steps, and the results are presented below. Moreover, one needs to consider the relative strengths and weaknesses of each model, their past predictive performance profiles, and then interpret the collection of findings and predictions. The “Summary” provided at the end of the example addresses many of these considerations. 
 
+<br/><br/>
+
+
 
 DELP model
 
@@ -837,6 +840,7 @@ Appendix Graph 2. Iran, Predicted total cases, DELP model. || Source: https://co
 
 
 
+<br/><br/>
 
 IHME model
 
@@ -872,6 +876,7 @@ Appendix Graph 4. Iran, Predicted daily infections, IHME model. || Source: https
 
 
 
+<br/><br/>
 
 IMPE model
 
@@ -885,6 +890,7 @@ Appendix Graph 6. Iran, Predicted daily infections, IMPE model. || Source: https
 
  
 
+<br/><br/>
 
 LANL model
 
@@ -894,6 +900,8 @@ The LANL COVID-19 Team made its last real-time forecast on September 27th, 2021.
 
 
 
+
+<br/><br/>
 
 SRIV model
 
@@ -924,6 +932,7 @@ Appendix Graph 8. Iran, Predicted daily cases, SRIV model|| Source: https://scc-
 
 
 
+<br/><br/>
 
 Johns Hopkins compilation of official reports
 
@@ -957,6 +966,7 @@ Appendix Graph 10. Iran, Weekly reported cases, Johns Hopkins. || Source: https:
 
 
 
+<br/><br/>
 
 Worldometers compilation of official reports to WHO
 
@@ -979,6 +989,8 @@ Appendix Graph 12. Iran, Daily cases, Worldometers. Accessed on March 7, 2022. h
 
 
 
+<br/><br/>
+
 Compile the graphs from individual models
 
 The DELP model does not present predictions of daily deaths and daily cases. Predictions of daily deaths by IHME, IMPE, and SRIV and reported daily deaths by Worldometers are shown below in Appendix Graph 13. Appendix Graph 14 shows the predicted daily cases by SRIV, predicted daily infections by IHME and IMPE, and the reported daily cases by Worldometers. 
@@ -992,15 +1004,30 @@ Appendix Graph 13. Iran predicted daily deaths by IHME, IMPE, SRIV and reported 
 Appendix Graph 14. Iran, predicted daily cases by SRIV, predicted daily infections by IHME and IMPE, and reported daily cases, Worldometers. Accessed on March 7, 2022. || Source: Assembled from Appendix Graphs 4, 6, 8, and 12.
 
   
+  
+<br/><br/>
+
 How can the covir2 tool be practically used for the example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Iran on March 7, 2022? They would look at the uptake dates on the covir2 website to find the latest date equal to or before March 7, 2022. The uptake dates in the covir2 website are displayed on the top of the main web page as the names of directories for each uptake (see Appendix Exhibit 1 below). Scroll down to find the latest uptake date equal to or before March 7, 2022. Appendix Exhibit 2 shows that the date would be 20220304. Clicking on the hyperlinked name 20220304 leads to the page for the uptake 20220304 (see Appendix Exhibit 3). On the page for the uptake 20220304, “Selected graphs” can be viewed, as well as links to the code  used to produce the results and the output  of the code. 
+
+
+<br/><br/>
 
 Appendix Graphs 15 to 33 (below) show what can be found for uptake 20220304 on the covir2 website. Official reports by the country are demonstrated as the curves drawn from the Johns Hopkins University compilation (abbreviated in the graphs as “JOHN”). 
 
+<br/><br/>
+
 Appendix Graph 15 shows all models’ predictions by all models for Daily deaths, all-time, i.e., from January 2020 to the latest date available in the models. Appendix Graph 16 focuses on more recent times, i.e.,  2021 on. Appendix graphs 17 and 18 look in more detail at the IHME model predictions. Appendix Graph 17 shows predicted Daily deaths, 2021 on, reference scenario with uncertainty, IHME, and Appendix Graph 18 shows predicted Daily deaths, 2021 on, all scenarios, IHME. Appendix graphs 19 and 20 look in more detail at the IMPE model predictions. 
+
+
+<br/><br/>
 
 For the second outcome, i.e., daily cases, Appendix Graph 21 shows the predicted Daily cases or infections, all-time, and Appendix Graph 22 shows the predicted Daily cases or infections, 2021 on. Appendix Graph 23 demonstrates the predicted Daily cases, 2021 on, without the predicted infections. The values of the predicted infections are much higher than those for the predicted cases. When in the same graph, infections’ curves visually compress the cases’ curves. When the predicted cases are shown without the predicted infections, one can appreciate their trajectory and compare them with the past trends. 
 
+<br/><br/>
+
 Appendix Graphs 24 to 33 demonstrate additional outcomes and variables. Appendix Graph 24 depicts the secondary (i.e., calculated) variable Daily estimated infections IHME, IMPE to reported cases JOHN, main scenarios, 2021 on. This graph provides a gauge of how much more are the predicted infections compared with predicted cases, across time and models – a technical epidemiological and modelling insight. This graph does not have a readily accessible similar on the web, as far as I know. 
+
+<br/><br/>
 
 Appendix Graphs 25 and 26 provide predicted hospital-related outcomes. Appendix Graph 25 shows all the Hospital-related outcomes, all-time and by all models. Appendix Graph 26 removes the outcomes whose larger values compress the curves of outcomes with lower values and focuses on more recent time interval. There are no readily accessible similar graphs on the web as far as I know. 
 
@@ -1009,7 +1036,11 @@ Appendix Graph 27 depicts how many times more are the precited deaths compared w
 Appendix Graphs 29 to 33 show additional variables estimated by the IHME model: Appendix Graph 29, R effective, 2 scenarios, 2021 on, IHME; Appendix Graph 30, Daily Infection-outcome ratios, 2 scenarios, 2021 onwards, IHME; Appendix Graph 31, Daily mobility, 2 scenarios, all-time, IHME; Appendix Graph 32, Daily mask use, 2 scenarios, all-time, IHME; and Appendix Graph 33, Percent cumulative vaccinated, 2021 on, IHME.
 
 
+<br/><br/>
+
 Here is the bottom-line conclusion from this example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Iran on March 7, 2022 – and how the covir2 tool can help. One can locate the latest predictions by the international and periodically updated models and come up with some sort of compilation of graphs like the Appendix Graphs 13 and 14 made here, or similar graphs for other outcomes. In the meantime, the Appendix Graphs 15 to 23 are equivalent to those graphs' compilations, readily available via the covir2 tool. The latter graphs are much more usable and demonstrate different aspects like calendar time intervals, different scenarios, mean estimates and confidence intervals, and individual models’ details. The software code used to produce the graphs is accessible  and can be rerun by others to verify the correctness and potential mistakes. The track record of the previous periodical uptakes is also accessible (via RESULTS 2021 and RESULTS 2022 for covir2, for instance). The covir2 uptake 20220311 also adds the following summary by its creator, and puts all the graphs in “Iran COVID-19 epidemic models situation report No 48 – 2022-03-11.pdf”.
+
+<br/><br/>
 
 Summary 20220311:
  
@@ -1126,6 +1157,8 @@ To examine the latest predictions of daily deaths and daily cases in Canada and 
 
 
 
+<br/><br/>
+
 DELP model
 
 The DELP model does not present daily deaths and daily cases predictions – they provide total deaths and total cases. The DELP model provides predictions for nine provinces: Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Quebec, and Saskatchewan. Appendix Graphs 34 and 35 show their predictions for Canada at the national level. Appendix Graphs 36 and 37 show DELP predictions for British Columbia, for instance. 
@@ -1189,6 +1222,7 @@ Appendix Graph 37. Canada, British Columbia, Predicted total cases, DELP model. 
 
 
 
+<br/><br/>
 
 IHME model
 
@@ -1251,6 +1285,7 @@ Appendix Graph 41. Canada, British Columbia, Predicted daily infections, IHME mo
 
 
 
+<br/><br/>
 
 IMPE model
 
@@ -1268,6 +1303,8 @@ Appendix Graph 43. Canada, Predicted daily infections, IMPE model. || Source: ht
 
 
 
+<br/><br/>
+
 LANL model
 
 The LANL COVID-19 Team made its last real-time forecast on September 27th, 2021. || Source: https://covid-19.bsvgateway.org Accessed on March 14, 2022.
@@ -1275,6 +1312,7 @@ The LANL COVID-19 Team made its last real-time forecast on September 27th, 2021.
 
 
 
+<br/><br/>
 
 SRIV model
 
@@ -1306,6 +1344,7 @@ Appendix Graph 45. Canada, Predicted daily cases, SRIV model|| Source: https://s
 
 
 
+<br/><br/>
 
 Johns Hopkins compilation of official reports
 
@@ -1330,6 +1369,7 @@ Appendix Graph 47. Canada, Weekly reported cases, Johns Hopkins. || Source: http
 
 
 
+<br/><br/>
 
 Worldometers compilation of official reports to WHO
 
@@ -1372,9 +1412,9 @@ Appendix Graph 49. Canada, Daily cases, Worldometers || Source: https://www.worl
 
 
 
+<br/><br/>
 
-
-Compile the graphs from individual models
+**Compile the graphs from individual models
 
 The DELP model does not present predictions of daily deaths and daily cases. Predictions of daily deaths by IHME, IMPE, and SRIV, and reported daily deaths by Worldometers for Canada at the national level are shown below in Appendix Graph 50. Appendix Graph 51 shows the predicted daily cases by SRIV, predicted daily infections by IHME and IMPE, and the reported daily cases by Worldometers. The DELP and IHME models provide predictions at the subnational level. Transforming the predictions of total deaths and total cases to daily deaths and daily cases needs calculations – performed in the CovidVisualized tools. Therefore, without the CovidVisualized tools, the predictions for the subnational levels are comprised only of those provided by IHME (Appendix Graphs 40 and 41 above). 
 
@@ -1386,8 +1426,12 @@ Appendix Graph 50. Canada, national level, predicted daily deaths by IHME, IMPE,
 
 Appendix Graph 51. Canada, predicted daily cases by SRIV, predicted daily infections by IHME and IMPE, and reported daily cases by Worldometers. Accessed on March 14, 2022. || Source: Assembled from Appendix Graphs 39, 43, 45, and 49.
 
+
+<br/><br/>
   
-How can the CovidVisualizedCountry tool be practically used for the example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Canada on March 14, 2022? They would look at the uptake dates in the CovidVisualizedCountry website to find the latest date equal to or before March 14, 2022. The uptake dates in the CovidVisualizedCountry website are displayed on the top of the main web page as the names of directories for each uptake (see Appendix Exhibit 4 below). Scroll down to find the latest uptake date equal to or before March 14, 2022. Appendix Exhibit 5 shows that the date would be 20220311. Clicking on the hyperlinked name 20220311, leads to the page for the uptake 20220311 (see Appendix Exhibit 6). On the page for the uptake 20220311, “Selected graphs” can be viewed, as well as links to the code  used to produce the results and the output  of the code. 
+**How** can the CovidVisualizedCountry tool be practically used for the example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Canada on March 14, 2022? They would look at the uptake dates in the CovidVisualizedCountry website to find the latest date equal to or before March 14, 2022. The uptake dates in the CovidVisualizedCountry website are displayed on the top of the main web page as the names of directories for each uptake (see Appendix Exhibit 4 below). Scroll down to find the latest uptake date equal to or before March 14, 2022. Appendix Exhibit 5 shows that the date would be 20220311. Clicking on the hyperlinked name 20220311, leads to the page for the uptake 20220311 (see Appendix Exhibit 6). On the page for the uptake 20220311, “Selected graphs” can be viewed, as well as links to the code  used to produce the results and the output  of the code. 
+
+<br/><br/>
 
 Appendix Graphs 52 to 79 (below) show what can be found for uptake 20220311 on the CovidVisualizedCountry website. Official reports by the country are demonstrated as the curves drawn from the Johns Hopkins University compilation (abbreviated as “JOHN” in the graphs). 
 
@@ -1403,14 +1447,22 @@ Appendix Graph 62 to 76 are for Canadian Provinces together. Appendix Graph 62 s
 
 Appendix Graphs 70 to 75 demonstrate predictions by IHME for provinces together. Appendix Graph 70 shows Daily deaths, Reference scenario, IHME, 2020 on. Appendix Graphs 71 and 72 show similar results for 2021 on and 2020, respectively. Appendix Graphs 73, 74, and 75 show counterpart results for predicted daily infections. 
 
+<br/><br/>
+
 Four graphs are provided for each province: (1) Daily deaths, Reference scenario, 2020 on, (2) Daily deaths, Reference scenario, 2021 on, (3)  Daily cases or infections, Reference scenario, 2020 on, and (4) Daily cases or infections, Reference scenario, 2021 on. Appendix Graphs 76 to 79 show those predictions for British Columbia, for instance. Graphs for other provinces are not shown here to save space. Graphs other than the daily deaths and case or infections (mean estimates) for each of the provinces are available in the merge directory of the output: CovidVisualizedCountry/20220311/output/merge/ – for instance, COVID-19 daily cases, Canada, Ontario, reference scenarios with uncertainty, 2021, or COVID-19 hospital-related outcomes, Canada, Quebec, without extremes (IHME Bed need, IMPE Hospital demand), Reference scenarios, 2021 on.
+
+<br/><br/>
 
 Here is the bottom-line conclusion from this example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Canada on March 14, 2022 – and how the CovidVisualizedCountry tool can help. One can locate the latest predictions by the international and periodically updated models and come up with some sort of compilation of graphs like the Appendix Graphs 50 and 51 made here, or similar graphs for other outcomes. In the meantime, Appendix Graph 52 to 55 show the equivalent of those compilations of graphs for the national level, readily available via the CovidVisualizedCountry tool. Appendix Graphs 77 to 78 show the CovidVisualizedCountry complied graphs for British Columbia. The graphs compiled in the CovidVisualizedCountry tool are much more usable and demonstrate different aspects like calendar time intervals, different scenarios, mean estimates and confidence intervals, and individual models’ details. The software code used to produce the graphs is accessible  and can be rerun by others to verify the correctness and potential mistakes. The track record of the previous periodical uptakes is also accessible – via RESULTS CANADA, national 2021, RESULTS CANADA, national 2022, RESULTS CANADA, provinces 2021, RESULTS CANADA, provinces 2022, RESULTS British Columbia 2021, RESULTS British Columbia 2022, and similar web pages shown in the root of the CovidVisualizedCountry website. The CovidVisualizedCountry uptake 20220311 also adds the following summary by its creator, and puts all the graphs in “Canada COVID-19 epidemic models situation report No 38 – 2022-03-11.pdf”.
 Summary 20220311:
 
+<br/><br/>
 Observation:
+
 Reported daily cases are stagnating after their recent decrease at the national level and in all provinces.
+
 Reported daily deaths have stopped decreasing after their recent decrease at the national level and in all provinces. They stagnate in Ontario and Quebec and increase Alberta, British Columbia, and Manitoba. Reporting by Saskatchewan is grossly manipulated and unreliable.
+
 
 Probability:
 
@@ -1547,6 +1599,8 @@ Here is a real-life example that explains what a researcher or advisor to policy
 To examine the latest predictions of daily deaths and daily cases at the global and regional levels by the international and periodically updated models, one needs to identify the models, locate their websites, find the graphs, create the missing graphs, (redevelop the existing graphs), and compile the graphs. I tried to replicate the above steps, and the results are presented below. 
 
 
+<br/><br/>
+
 DELP model
 
 The DELP model does not present predictions of daily deaths and daily cases. They provide predictions of total deaths and total cases. Appendix Graphs 79 and 80 show their predictions for the global level. DELP model provides predictions for the continents. Appendix Graphs 81 and 82 show DELP predictions for Europe (the closest match for the European region used in this example), for instance. 
@@ -1606,6 +1660,7 @@ Appendix Graph 82. Europe, Predicted total cases, DELP model. || Source: https:/
 
 
 
+<br/><br/>
 
 IHME model
 
@@ -1669,7 +1724,7 @@ Appendix Graph 86. European region, Predicted daily infections, IHME model. || S
 
 
 
-
+<br/><br/>
 
 IMPE model
 
@@ -1702,17 +1757,21 @@ Appendix Graph 88. Cumulative Deaths since 10 deaths, seven European countries. 
 
  
 
+<br/><br/>
 
 LANL model
 
 The LANL COVID-19 Team made its last real-time forecast on September 27th, 2021. || Source: https://covid-19.bsvgateway.org Accessed on March 15, 2022.
 
 
+<br/><br/>
 
 SRIV model
 
 The SRIV model’s graphs are available for individual countries and the states in the United States. Their graphs for the global and regional levels are not locatable for me. 
 
+
+<br/><br/>
 
 Johns Hopkins compilation of official reports
 
@@ -1769,21 +1828,23 @@ Appendix Graph 92. Global, Daily cases, Worldometers. || Source: https://www.wor
 
 
 
+<br/><br/>
 
-
-Compile the graphs from individual models
+**Compile the graphs from individual models
 
 The DELP model does not present predictions of daily deaths and daily cases. IMPE graphs for predicted daily deaths at the continent level and daily infections at the global and continent levels are not readily locatable. The SRIV model does not provide graphs for the global and continent levels. 
 
 Predictions of daily deaths by IHME and IMPE and the reported daily deaths by Worldometers for global level are shown below in Appendix Graph 93. Graphs of daily infections or cases are only provided by the IHME model. Therefore, it is not possible to assemble a graph by all models for the predicted daily cases or infections. For the regional or continental level, the graphs by the models are even more scarce. Only IHME provides regional-level graphs. Therefore, it is not possible to assemble a graph by all models for the predicted daily deaths or for the daily cases or infections at the regional level. 
 
 
-
+<br/><br/>
  
 Appendix Graph 93. Global, predicted daily deaths by IHME and IMPE, and the reported daily deaths by Worldometers. Accessed on March 15, 2022. || Source: Assembled from Appendix Graphs 83, 87, and 91.
 
-  
-How can the CovidVisualizedGlobal tool be practically used for the example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic at the global and WHO regional levels on March 15, 2022? They would look at the uptake dates in the CovidVisualizedGlobal website to find the latest date equal to or before March 15, 2022. The uptake dates in the CovidVisualizedGlobal website are displayed on the top of the main web page as the names of directories for each uptake (see Appendix Exhibit 7 below). Scroll down to find the latest uptake date equal to or before March 15, 2022. Appendix Exhibit 7 shows that the date would be 20220311. Clicking on the hyperlinked name 20220311, leads to the page for the uptake 20220311 (see Appendix Exhibit 6). On the page for the uptake 20220311, “Selected graphs” can be viewed, as well as links to the code  used to produce the results and the output  of the code. 
+
+<br/><br/>  
+
+**How** can the CovidVisualizedGlobal tool be practically used for the example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic at the global and WHO regional levels on March 15, 2022? They would look at the uptake dates in the CovidVisualizedGlobal website to find the latest date equal to or before March 15, 2022. The uptake dates in the CovidVisualizedGlobal website are displayed on the top of the main web page as the names of directories for each uptake (see Appendix Exhibit 7 below). Scroll down to find the latest uptake date equal to or before March 15, 2022. Appendix Exhibit 7 shows that the date would be 20220311. Clicking on the hyperlinked name 20220311, leads to the page for the uptake 20220311 (see Appendix Exhibit 6). On the page for the uptake 20220311, “Selected graphs” can be viewed, as well as links to the code  used to produce the results and the output  of the code. 
 
 Appendix Graphs 94 to 129 (below) show what can be found for uptake 20220311 on the CovidVisualizedGlobal website. Official reports by the country are demonstrated as the curves drawn from the Johns Hopkins University compilation (abbreviated as “JOHN” in the graphs). Most of these graphs do not have readily locatable similars on the web that I am aware of. 
 
@@ -1806,13 +1867,20 @@ Appendix Graphs 115 to 118 show models’ predictions for the regional levels to
 
 Appendix Graphs 119 to 124 show the predicted total deaths. Appendix Graphs 119 and 120 show Total deaths, with GLOBAL, 2020 on, IHME, IMPE and Total deaths, without GLOBAL, 2020 on, IHME, IMPE. Appendix Graphs 121 and 122 show Total deaths, with GLOBAL, 2022 on, DELP, SRIV, and Total deaths, without GLOBAL, DELP, SRIV. Appendix Graphs 123 and 124 depict  Total excess deaths, with GLOBAL, 2020 on, IHME and Total excess deaths, without GLOBAL, 2020 on, IHME. Appendix Graphs 125 and 126 show Total cases, with GLOBAL, 2022 on, DELP, SRIV and Total cases, without GLOBAL, 2022 on, DELP, SRIV. 
 
+<br/><br/>
+
 Four graphs are provided for each WHO region: (1) Daily deaths, reference scenarios, 2020 on, (2) Daily deaths, 3 scenarios, 2021 on, (3) Daily cases or infections, reference scenarios, 2020 on, and (4) Daily cases or infections, 3 scenarios, 2021 on. Appendix Graphs 127 to 130 show those predictions for the European region, for instance. Graphs for other regions are not shown here to save space. Graphs other than the daily deaths and infections for each of the regions are available in the “merge” directory  – for instance, Daily cases or infections, EURO, Reference scenarios with uncertainty, 2021 on, or Daily cases or infections, EURO, Reference scenarios with alternate scenarios, 2021 on. 
 
 Here is the bottom-line conclusion from this example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 pandemic at the global and WHO regional levels on March 15, 2022 – and how the CovidVisualizedGlobal tool can help. One can locate the latest predictions by the international and periodically updated models and come up with some sort of incomplete compilation of daily deaths graphs for the global level like the Appendix Graph 93 (above) made here. It is not possible to create similar graphs for the daily cases or infections for the global level, or any meaningful graphs for the regional levels. While Appendix Graph 93 is the only graph that can be compiled for daily deaths or daily cases at the global and regional levels (without creating the missing graphs), the graphs compiled in the CovidVisualizedGlobal tool are much more meaningful. Moreover, they demonstrate different aspects like calendar time intervals, different scenarios, mean estimates and confidence intervals, and individual models’ details. The software code used to produce the graphs is accessible  and can be rerun by others to verify the correctness and potential mistakes. The track record of the previous periodical uptakes is also accessible – via RESULTS GLOBAL 2021, RESULTS GLOBAL 2022, RESULTS Regions together, RESULTS European region, and similar web pages shown at the root of the CovidVisualizedGlobal website for other regions. The CovidVisualizedGlobal uptake 20220311 also adds the following summary by its creator, and puts all the graphs in “GLOBAL and REGIONAL COVID-19 epidemic models situation report No 35 - 2022-03-11”.
 
+<br/><br/>
+
 Summary 20220311:
+
 Observation:
+
 Reported COVID-19 daily deaths are bouncing up at the Global level, in Europe, Canada and USA, and continuing to rise in the Western Pacific region.
+
 Reported COVID-19 daily cases are bouncing up at the Global level and in Europe, continuing to rise in the Western Pacific region, and stagnating from the previous decrease in other regions.
 
 Probability:
@@ -1820,6 +1888,9 @@ Probability:
  
 
 Even though the models are highly divergent about the future trajectory of the pandemic, the above-observed trajectories of the reported daily deaths and cases might signify a new surge.
+
+<br/><br/>
+
 Appendix Exhibit 7. The uptake dates in the CovidVisualizedGlobal website are displayed on the top of the main web page as the names of directories for each uptake. || Source: https://github.com/pourmalek/CovidVisualizedGlobal Accessed on March 15, 2022.
 
  
@@ -1958,7 +2029,7 @@ Appendix Graph 129. European region, Daily cases or infections, reference scenar
 Appendix Graph 130. European region, Daily cases or infections, 3 scenarios, 2021 on || Source: CovidVisualizedGlobal uptake 20220311 Accessed on March 15, 2022.
 
  
-
+<br/><br/>
 
 ### Postscript: 
 
