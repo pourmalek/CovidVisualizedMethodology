@@ -25,8 +25,9 @@ Appendix Graph 1. Iran, Predicted total deaths, DELP model. || Source: https://c
 
 Appendix Graph 2. Iran, Predicted total cases, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 7, 2022.
 
-![image](https://user-images.githubusercontent.com/30849720/159106159-c40e1656-3d81-4693-9306-74517afd35f5.png)
+![image](https://user-images.githubusercontent.com/30849720/159132702-381f076b-ac58-43c9-a179-725b53b67c2c.png)
  
+![image](https://user-images.githubusercontent.com/30849720/159106159-c40e1656-3d81-4693-9306-74517afd35f5.png)
 ***
 
 
