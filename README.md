@@ -965,7 +965,7 @@ Appendix Graph 12. Iran, Daily cases, Worldometers. Accessed on March 7, 2022. h
 
 <br/><br/>
 
-Compile the graphs from individual models
+**Compile the graphs from individual models
 
 The DELP model does not present predictions of daily deaths and daily cases. Predictions of daily deaths by IHME, IMPE, and SRIV and reported daily deaths by Worldometers are shown below in Appendix Graph 13. Appendix Graph 14 shows the predicted daily cases by SRIV, predicted daily infections by IHME and IMPE, and the reported daily cases by Worldometers. 
 
@@ -986,27 +986,18 @@ Appendix Graph 14. Iran, predicted daily cases by SRIV, predicted daily infectio
 
 <br/><br/>
 
-How can the covir2 tool be practically used for the example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Iran on March 7, 2022? They would look at the uptake dates on the covir2 website to find the latest date equal to or before March 7, 2022. The uptake dates in the covir2 website are displayed on the top of the main web page as the names of directories for each uptake (see Appendix Exhibit 1 below). Scroll down to find the latest uptake date equal to or before March 7, 2022. Appendix Exhibit 2 shows that the date would be 20220304. Clicking on the hyperlinked name 20220304 leads to the page for the uptake 20220304 (see Appendix Exhibit 3). On the page for the uptake 20220304, “Selected graphs” can be viewed, as well as links to the code  used to produce the results and the output  of the code. 
+**How** can the covir2 tool be practically used for the example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Iran on March 7, 2022? They would look at the uptake dates on the covir2 website to find the latest date equal to or before March 7, 2022. The uptake dates in the covir2 website are displayed on the top of the main web page as the names of directories for each uptake (see Appendix Exhibit 1 below). Scroll down to find the latest uptake date equal to or before March 7, 2022. Appendix Exhibit 2 shows that the date would be 20220304. Clicking on the hyperlinked name 20220304 leads to the page for the uptake 20220304 (see Appendix Exhibit 3). On the page for the uptake 20220304, “Selected graphs” can be viewed, as well as links to the code  used to produce the results and the output  of the code. 
 
 
 <br/><br/>
 
 Appendix Graphs 15 to 33 (below) show what can be found for uptake 20220304 on the covir2 website. Official reports by the country are demonstrated as the curves drawn from the Johns Hopkins University compilation (abbreviated in the graphs as “JOHN”). 
 
-<br/><br/>
-
 Appendix Graph 15 shows all models’ predictions by all models for Daily deaths, all-time, i.e., from January 2020 to the latest date available in the models. Appendix Graph 16 focuses on more recent times, i.e.,  2021 on. Appendix graphs 17 and 18 look in more detail at the IHME model predictions. Appendix Graph 17 shows predicted Daily deaths, 2021 on, reference scenario with uncertainty, IHME, and Appendix Graph 18 shows predicted Daily deaths, 2021 on, all scenarios, IHME. Appendix graphs 19 and 20 look in more detail at the IMPE model predictions. 
-
-
-<br/><br/>
 
 For the second outcome, i.e., daily cases, Appendix Graph 21 shows the predicted Daily cases or infections, all-time, and Appendix Graph 22 shows the predicted Daily cases or infections, 2021 on. Appendix Graph 23 demonstrates the predicted Daily cases, 2021 on, without the predicted infections. The values of the predicted infections are much higher than those for the predicted cases. When in the same graph, infections’ curves visually compress the cases’ curves. When the predicted cases are shown without the predicted infections, one can appreciate their trajectory and compare them with the past trends. 
 
-<br/><br/>
-
 Appendix Graphs 24 to 33 demonstrate additional outcomes and variables. Appendix Graph 24 depicts the secondary (i.e., calculated) variable Daily estimated infections IHME, IMPE to reported cases JOHN, main scenarios, 2021 on. This graph provides a gauge of how much more are the predicted infections compared with predicted cases, across time and models – a technical epidemiological and modelling insight. This graph does not have a readily accessible similar on the web, as far as I know. 
-
-<br/><br/>
 
 Appendix Graphs 25 and 26 provide predicted hospital-related outcomes. Appendix Graph 25 shows all the Hospital-related outcomes, all-time and by all models. Appendix Graph 26 removes the outcomes whose larger values compress the curves of outcomes with lower values and focuses on more recent time interval. There are no readily accessible similar graphs on the web as far as I know. 
 
@@ -1017,7 +1008,7 @@ Appendix Graphs 29 to 33 show additional variables estimated by the IHME model: 
 
 <br/><br/>
 
-Here is the bottom-line conclusion from this example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Iran on March 7, 2022 – and how the covir2 tool can help. One can locate the latest predictions by the international and periodically updated models and come up with some sort of compilation of graphs like the Appendix Graphs 13 and 14 made here, or similar graphs for other outcomes. In the meantime, the Appendix Graphs 15 to 23 are equivalent to those graphs' compilations, readily available via the covir2 tool. The latter graphs are much more usable and demonstrate different aspects like calendar time intervals, different scenarios, mean estimates and confidence intervals, and individual models’ details. The software code used to produce the graphs is accessible  and can be rerun by others to verify the correctness and potential mistakes. The track record of the previous periodical uptakes is also accessible (via RESULTS 2021 and RESULTS 2022 for covir2, for instance). The covir2 uptake 20220311 also adds the following summary by its creator, and puts all the graphs in “Iran COVID-19 epidemic models situation report No 48 – 2022-03-11.pdf”.
+**Here is** the bottom-line conclusion from this example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Iran on March 7, 2022 – and how the covir2 tool can help. One can locate the latest predictions by the international and periodically updated models and come up with some sort of compilation of graphs like the Appendix Graphs 13 and 14 made here, or similar graphs for other outcomes. In the meantime, the Appendix Graphs 15 to 23 are equivalent to those graphs' compilations, readily available via the covir2 tool. The latter graphs are much more usable and demonstrate different aspects like calendar time intervals, different scenarios, mean estimates and confidence intervals, and individual models’ details. The software code used to produce the graphs is accessible  and can be rerun by others to verify the correctness and potential mistakes. The track record of the previous periodical uptakes is also accessible (via RESULTS 2021 and RESULTS 2022 for covir2, for instance). The covir2 uptake 20220311 also adds the following summary by its creator, and puts all the graphs in “Iran COVID-19 epidemic models situation report No 48 – 2022-03-11.pdf”.
 
 <br/><br/>
 
@@ -1056,92 +1047,91 @@ Appendix Graph 15. Iran Daily deaths, all-time || Source: [`covir2 uptake 202203
 
 ***
  
-Appendix Graph 16. Iran Daily deaths, 2021 on || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 16. Iran Daily deaths, 2021 on ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 17. Iran Daily deaths, 2021 on, reference scenario with uncertainty, IHME || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 17. Iran Daily deaths, 2021 on, reference scenario with uncertainty, IHME ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+
+***
+ 
+Appendix Graph 18. Iran Daily deaths, 2021 on, all scenarios, IHME ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 18. Iran Daily deaths, 2021 on, all scenarios, IHME || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 19. Iran Daily deaths, 2021 on, reference scenario with uncertainty, IMPE ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 19. Iran Daily deaths, 2021 on, reference scenario with uncertainty, IMPE || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 20. Iran Daily deaths, 2021 on, 3 scenarios, IMPE ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 20. Iran Daily deaths, 2021 on, 3 scenarios, IMPE || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 21. Iran Daily cases or infections, all-time ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 21. Iran Daily cases or infections, all-time || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 22. Iran Daily cases or infections, 2021 on ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 22. Iran Daily cases or infections, 2021 on || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 23. Iran Daily cases, 2021 on ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 23. Iran Daily cases, 2021 on || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 24. Iran Daily estimated infections IHME, IMPE to reported cases JOHN, main scenarios, 2021 on ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 24. Iran Daily estimated infections IHME, IMPE to reported cases JOHN, main scenarios, 2021 on || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 25. Iran Hospital-related outcomes, all-time ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 25. Iran Hospital-related outcomes, all-time || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 26. Iran Hospital-related outcomes, 2021 on ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 26. Iran Hospital-related outcomes, 2021 on || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 27. Iran Daily deaths estimated to reported, all-time ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 27. Iran Daily deaths estimated to reported, all-time || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 28. Iran Daily cases or infections estimated to reported cases, 2021 on ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 28. Iran Daily cases or infections estimated to reported cases, 2021 on || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 29. Iran R effective, 2 scenarios, 2021 on, IHME ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 29. Iran R effective, 2 scenarios, 2021 on, IHME || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 30. Iran Daily Infection-outcome ratios, 2 scenarios, 2021 on, IHME ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 30. Iran Daily Infection-outcome ratios, 2 scenarios, 2021 on, IHME || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 31. Iran Daily mobility, 2 scenarios, all-time, IHME ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 31. Iran Daily mobility, 2 scenarios, all-time, IHME || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 32. Iran Daily mask use, 2 scenarios, all-time, IHME ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 
 ***
  
-Appendix Graph 32. Iran Daily mask use, 2 scenarios, all-time, IHME || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
-
-
-***
- 
-Appendix Graph 33. Iran Percent cumulative vaccinated, 2021 on, IHME || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 33. Iran Percent cumulative vaccinated, 2021 on, IHME ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
  
 
 ***
