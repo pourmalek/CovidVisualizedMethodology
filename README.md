@@ -138,7 +138,7 @@ Table 2. Technical characteristics of the included models
 
 Estimates of (1) Daily Deaths, (2) Total Deaths, (3) Daily Cases (incident or prevalent), and (4) Total Cases (incident) from the five models are the primary outcome variables of interest in this work. Hospital-related and other outcomes from the five models are the secondary outcome variables.
 
-The CovidVisualized tools do not change any outcomes or variables taken from the five international and periodically updated models. Secondary variables are calculated in CovidVisualized tools: (1) Daily deaths and daily cases are calculated from the provided cumulative deaths and cases by JOHN [27], DELP [4], and SRIV [8]. (2) Case Fatality Ratios (CFR), and (3) smoothed variables for daily deaths daily cases from JOHN and DELP. Details of smoothing are provided further below. 
+The CovidVisualized tools do not change any outcomes or variables taken from the five international and periodically updated models. Secondary variables are calculated in CovidVisualized tools: (1) Daily deaths and daily cases are calculated from the provided cumulative deaths and cases by JOHN [27], DELP [4], and SRIV [8]. (2) Case Fatality Ratios (CFR), and (3) smoothed variables for daily deaths daily cases from JOHN and DELP. Details of [smoothing](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#smoothing) are provided further below. 
 
 <br/><br/>
 
