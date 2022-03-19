@@ -25,7 +25,7 @@ This CovidVisualized Methodology Document Appendix provides examples of how the 
 ****************************************************************************************
 
 
-## CovidVisualized Methodology Document
+# CovidVisualized Methodology Document
 
 Methodology document for CovidVisualized tools: [`CovidVisualizedGlobal`](https://github.com/pourmalek/CovidVisualizedGlobal), [`CovidVisualizedCountry`](https://github.com/pourmalek/CovidVisualizedCountry), and [`covir2`](https://github.com/pourmalek/covir2)
 
