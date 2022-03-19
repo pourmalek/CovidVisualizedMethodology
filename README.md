@@ -245,7 +245,7 @@ A04 LANL Los Alamos National Laboratory [7]
 A05 SRIV Srivastava [8]
 
 
-Models’ scenarios
+### Models’ scenarios
 Scenario numbers within the models: 
 [Names within brackets are assigned in this work.]
 
@@ -316,7 +316,7 @@ Including use of integro-differential equations; Fitting the past (IDR, IHR, IFR
 
 
 
-Models’ versions
+### Models’ versions
 
 DELP model versions:
 DELP V1 2020-04-17 to 2020-07-04
