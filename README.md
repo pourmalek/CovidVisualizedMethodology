@@ -274,7 +274,7 @@ In summary, smoothing is performed for daily deaths daily cases from JOHN and DE
 
 .
 
-// Start of the code segment
+// Start of the Stata code segment
 
 . tssmooth ma DayDeaMeRaA00S00_window = DayDeaMeRaA00S00 if DayDeaMeRaA00S00 >= 0, window(3 1 3)
 
