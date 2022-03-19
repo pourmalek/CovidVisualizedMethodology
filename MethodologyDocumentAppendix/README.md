@@ -25,8 +25,6 @@ pourmalek_farshad at yahoo dot com
 
 [Examples of what the CovidVisualized tools provide in addition to the individual models](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/README.md#examples-of-what-the-covidvisualized-tools-provide-in-addition-to-the-individual-models)
 
-[References](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/README.md#references)
-
 [Example 1: Iran](https://github.com/pourmalek/CovidVisualizedMethodology/tree/main/MethodologyDocumentAppendix/Example%201%20Iran)
 
 [Example 2: Canada and its province](https://github.com/pourmalek/CovidVisualizedMethodology/tree/main/MethodologyDocumentAppendix/Example%202%20Canada%20et%20al)
@@ -34,6 +32,9 @@ pourmalek_farshad at yahoo dot com
 [Example 3: Global level and WHO regions](https://github.com/pourmalek/CovidVisualizedMethodology/tree/main/MethodologyDocumentAppendix/Example%203%20Global%20regional)
 
 [Postscript](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/README.md#postscript)
+
+[References](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/README.md#references)
+
 
 <br/><br/>
 
@@ -108,6 +109,15 @@ For sample applications of “covir2” to countries without subnational estimat
 
 <br/><br/>
 
+### Postscript: 
+
+(A) Compare Appendix Graph 93 with Appendix Graph 96. The former is a researcher-made compilation of predicted daily deaths at the global level by the models. The latter is the graph available from the CovidVisualizedGlobal tool. The difference demonstrates the added value of the CovidVisualized tools.
+
+(B) The three CovidVisualized tools clearly warn on March 15, 2022, how and why there are possibilities of new surges, even though the models' predictions are divergent. 
+
+
+
+<br/><br/>
 
 ### References:
 
@@ -121,13 +131,7 @@ For sample applications of “covir2” to countries without subnational estimat
 
  
  
-<br/><br/>
 
-### Postscript: 
-
-(A) Compare Appendix Graph 93 with Appendix Graph 96. The former is a researcher-made compilation of predicted daily deaths at the global level by the models. The latter is the graph available from the CovidVisualizedGlobal tool. The difference demonstrates the added value of the CovidVisualized tools.
-
-(B) The three CovidVisualized tools clearly warn on March 15, 2022, how and why there are possibilities of new surges, even though the models' predictions are divergent. 
 
 
 
