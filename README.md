@@ -729,10 +729,10 @@ This CovidVisualized Methodology Document Appendix provides examples of how the 
 
 There are three CovidVisualized tools:
 
-(1) CovidVisualizedGlobal: Combine and visualize international and periodically updated predictions of COVID-19 pandemic at the global level and six WHO regions
-https://github.com/pourmalek/CovidVisualizedGlobal 
-(2) CovidVisualizedCountry: Combine and visualize international and periodically updated predictions of COVID-19 pandemic at the country level: Canada, national and subnational
-https://github.com/pourmalek/CovidVisualizedCountry 
+(1) CovidVisualizedGlobal: Combine and visualize international and periodically updated predictions of COVID-19 pandemic at the global level and six WHO regions https://github.com/pourmalek/CovidVisualizedGlobal 
+
+(2) CovidVisualizedCountry: Combine and visualize international and periodically updated predictions of COVID-19 pandemic at the country level: Canada, national and subnational https://github.com/pourmalek/CovidVisualizedCountry 
+
 (3) covir2: Combine and visualize international and periodically updated predictions of COVID-19 pandemic at the country level, countries without subnational level estimates: Iran
 https://github.com/pourmalek/covir2
 
@@ -742,7 +742,15 @@ https://github.com/pourmalek/covir2
 
 ### The five international and periodically updated COVID-19 pandemic models are:
 
-(1) DELPHI  , Massachusetts Institute of Technology, Cambridge (abbreviation used in this work: DELP) [1], (2) Institute for Health Metrics and Evaluation, Seattle (IHME) [2], (3) Imperial College, London (IMPE) [3], (4) Los Alamos National Laboratories, Los Alamos (LANL) [4], and (5) University of Southern California, Los Angeles, by Srivastava, Ajitesh (SRIV) [5]. 
+(1) DELPHI, Massachusetts Institute of Technology, Cambridge (abbreviation used in this work: DELP) [1], 
+
+(2) Institute for Health Metrics and Evaluation, Seattle (IHME) [2], 
+
+(3) Imperial College, London (IMPE) [3], 
+
+(4) Los Alamos National Laboratories, Los Alamos (LANL) [4], and 
+
+(5) University of Southern California, Los Angeles, by Srivastava, Ajitesh (SRIV) [5]. 
 
 
 
@@ -750,15 +758,15 @@ https://github.com/pourmalek/covir2
 
 ### Examples of what the CovidVisualized tools provide in addition to the individual models
 
-Question: What is missing from the individual international and periodically updated models that creation of the CovidVisualized tool was needed?
+_Question:_ What is missing from the individual international and periodically updated models that creation of the CovidVisualized tool was needed?
 
-Answer: Nothing substantial is missing from the individual (international and periodically updated) models. However, some of those models do not report predictions of daily outcomes or do not provide the predictions at the global or regional levels. Suppose that a researcher or advisor to policymakers wants to look at the latest predictions by all international and periodically updated models for any given country or location (e.g., Canada and its provinces, or the European region). In that case, they need to know or find the website addresses for graphs and data of each model, find the graphs that are available on the websites for the models, develop the graphs that are not available, and put together and examine the graphs that use different horizontal (time) and vertical (outcome) axes. If they want to repeat this, they will need to repeat all the steps, which is time-consuming. The CovidVisualized tools have consistently performed the steps mentioned above and compiled the graphs (and data) from individual models together in a usable framework and continue to do so regularly. 
+_Answer:_ Nothing substantial is missing from the individual (international and periodically updated) models. However, some of those models do not report predictions of daily outcomes or do not provide the predictions at the global or regional levels. Suppose that a researcher or advisor to policymakers wants to look at the latest predictions by all international and periodically updated models for any given country or location (e.g., Canada and its provinces, or the European region). In that case, they need to know or find the website addresses for graphs and data of each model, find the graphs that are available on the websites for the models, develop the graphs that are not available, and put together and examine the graphs that use different horizontal (time) and vertical (outcome) axes. If they want to repeat this, they will need to repeat all the steps, which is time-consuming. The CovidVisualized tools have consistently performed the steps mentioned above and compiled the graphs (and data) from individual models together in a usable framework and continue to do so regularly. 
 
 **The obstacles:** The obstacles one would encounter in examining the latest predictions by all international and periodically updated models for any given country or location are mentioned below. (1) The DELP model does not provide predictions of daily deaths and daily cases. One needs to calculate them from the provided total deaths and total cases. (2) The IMPE graphs for predicted daily deaths at the continent level and daily infections at the global and continent levels are not readily locatable. (3) The SRIV model does not provide global and continent-level graphs. (4) The researcher-made compilations of available graphs from different models are not practically usable because (a) the graphs from each model use different calendar time intervals and time bins, (b) the maximum value on the y-axis for the same outcome (e.g., daily deaths) are different across models, (c) uncertainty intervals and alternate scenarios are not shown by all the models. (5) Not all models provide graphs for all the variables they predict, e.g., hospital-related outcomes. (6) The predictions’ data files that each model provides follow that model’s unique data arrangements. These data arrangements differ across the models. Without a common data management template, it is impossible to acquire a grip on the models’ data that can lead to the creation of compiled data and graphs. 
 
 Creation of the missing graphs and redeveloping the available graphs need a data management framework capable of compiling data (predictions’ files) from different models. While all the models present a set of common outcomes and variables, they do so in their unique way. The number of data files, the variables and data structure within each file, the nomenclature and variable names, the geographical locations covered by each model, the alternative scenarios, and many other aspects of the predictions provided by the models vary tremendously across the models. Moreover, within each model, there are systematic and random variations and alterations regarding these aspects across time (i.e., with updates released by the model). The CovidVisualized tools have covered these issues in a reproducible way, i.e., researchers can download the codes, rerun them, and see the outputs and results. 
 
-Conclusion: The CovidVisualized tools have already paved the way and resolved the obstacles in examining the predictions in a coherent, consistent, and periodically updated framework, with underlying software codes and outputs. 
+_Conclusion:_ The CovidVisualized tools have already paved the way and resolved the obstacles in examining the predictions in a coherent, consistent, and periodically updated framework, with underlying software codes and outputs. 
 
 
 
