@@ -25,7 +25,7 @@ pourmalek_farshad at yahoo dot com
 
 [Examples of what the CovidVisualized tools provide in addition to the individual models](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/README.md#examples-of-what-the-covidvisualized-tools-provide-in-addition-to-the-individual-models)
 
-[Example 1: Iran](https://github.com/pourmalek/CovidVisualizedMethodology/tree/main/MethodologyDocumentAppendix/Example%201%20Iran)
+[Example 1: Iran](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/Example%201%20Iran/RAEDME.md)
 
 [Example 2: Canada and its province](https://github.com/pourmalek/CovidVisualizedMethodology/tree/main/MethodologyDocumentAppendix/Example%202%20Canada%20et%20al)
 
