@@ -952,11 +952,13 @@ The Worldometers compilation of official reports provides daily deaths and cases
 
 Appendix Graph 11. Iran, Daily deaths, Worldometers. Accessed on March 7, 2022. https://www.worldometers.info/coronavirus/country/iran/ 
  
+![image](https://user-images.githubusercontent.com/30849720/159106306-cff25ccf-7bb8-45d0-806b-92d1ac767e1e.png)
 
 ***
 
 Appendix Graph 12. Iran, Daily cases, Worldometers. Accessed on March 7, 2022. https://www.worldometers.info/coronavirus/country/iran/ 
 
+![image](https://user-images.githubusercontent.com/30849720/159106312-8f8c75b0-120d-42da-b123-8a4fc8de18cc.png)
 
 ***
 
@@ -972,11 +974,13 @@ The DELP model does not present predictions of daily deaths and daily cases. Pre
 
 Appendix Graph 13. Iran predicted daily deaths by IHME, IMPE, SRIV and reported daily deaths by Worldometers. Accessed on March 7, 2022. || Source: Assembled from Appendix Graphs 3, 5, 7, and 11.
 
+![image](https://user-images.githubusercontent.com/30849720/159106324-1e9a188f-84ea-4a74-9ac6-3868fdda60a6.png)
 
 *** 
 
 Appendix Graph 14. Iran, predicted daily cases by SRIV, predicted daily infections by IHME and IMPE, and reported daily cases, Worldometers. Accessed on March 7, 2022. || Source: Assembled from Appendix Graphs 4, 6, 8, and 12.
 
+![image](https://user-images.githubusercontent.com/30849720/159106329-5894d9e9-719a-466b-a129-e2105eddb086.png)
   
 ***
 
@@ -1018,8 +1022,11 @@ Here is the bottom-line conclusion from this example of a researcher or advisor 
 <br/><br/>
 
 Summary 20220311:
+
+![image](https://user-images.githubusercontent.com/30849720/159106354-c1f40cf1-93b8-4634-ab28-ef2f3858f7fe.png)
+
  
-The New Year ceremonies and travels increase the number of contacts and the probability of transmission and spread of the virus across the country. These factors are not fully included in the models. As such, a new surge could be expected in Iran in March and April.
+The New Year ceremonies and travels increase the number of contacts and the probability of transmission and spread of the virus across the country. These factors are not fully included in the models. As such, _a new surge_ could be expected in Iran in March and April.
 
 
 
@@ -1027,22 +1034,26 @@ The New Year ceremonies and travels increase the number of contacts and the prob
 
 Appendix Exhibit 1. The uptake dates in the covir2 website are displayed on the top of the main web page as the names of directories for each uptake. || Source: https://github.com/pourmalek/covir2 Accessed on March 7, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159106362-6024a173-391a-47f2-8ba2-de606c88104b.png)
  
 ***
 
 Appendix Exhibit 2. The latest uptake date equal to or before March 7, 2022, is 20220304.
 || Source: https://github.com/pourmalek/covir2 Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159106367-0d5c68f3-f93e-45ef-a474-ec40359582a5.png)
  
 ***
 
 Appendix Exhibit 3. The covir2 website page for uptake 20220304. || Source: https://github.com/pourmalek/covir2/tree/main/20220304 Accessed on March 7, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159106373-0e88b31a-c8c9-4438-94c5-94ecc838e219.png)
 
 *** 
 
 Appendix Graph 15. Iran Daily deaths, all-time || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159106389-d9e810fc-fabe-4bab-a275-8613d14221fc.png)
 
 ***
  
