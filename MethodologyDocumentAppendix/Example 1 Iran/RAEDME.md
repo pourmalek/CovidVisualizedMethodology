@@ -342,5 +342,12 @@ Appendix Graph 33. Iran [Percent cumulative vaccinated, 2021 on, IHME](https://g
 ![image](https://user-images.githubusercontent.com/30849720/157363686-76d1d436-cf25-49af-a3ac-8bf958350363.png)
 
 ***
+***
 
 
+
+### Example of presentation of covir2 results to the Ministry of Health of Iran
+
+The results of the latest predictions of international and parodically updated models for the future trajectory of the epidemic in Iran (fifth wave), as well as the strengths and weaknesses of the prediction models and the Non-Pharmaceutical Interventions (NPIs) and vaccinations were presented to and discussed with four Deputy Ministers of Health and the epidemiologists and public health authorities selected by the Ministry of Health and Medical Education of Iran in an online meeting on March 24, 2021 (Solar Hijri date 1400-03-03). The probability, timing, and dimensions of the load of cases, hospitalizations, and deaths that were expected to occur, and the prevention strategies were well-discussed and understood.
+
+The “Online presentation for MOH about the fifth wave of COVID-19 in Iran 20210524 14000303.pdf” is available [here](https://github.com/pourmalek/covir2/blob/main/situation%20reports/meeting%20with%20MOH%2020210524/Online%20presentation%20for%20MOH%20about%20fifth%20wave%20of%20COVID-19%20in%20Iran%2020210524%2014000303.pdf) on the covir2 website. The calendar date of this meeting is denoted with a red vertical line on appropriate graphs shown above, e.g., Appendix Graph 15.
