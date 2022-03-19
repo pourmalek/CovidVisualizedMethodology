@@ -1051,9 +1051,8 @@ Appendix Exhibit 3. The covir2 website page for uptake 20220304. || Source: http
 
 *** 
 
-Appendix Graph 15. Iran Daily deaths, all-time || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+Appendix Graph 15. Iran Daily deaths, all-time || Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
-![image](https://user-images.githubusercontent.com/30849720/159106389-d9e810fc-fabe-4bab-a275-8613d14221fc.png)
 
 ***
  
