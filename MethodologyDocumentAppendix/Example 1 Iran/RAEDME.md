@@ -169,7 +169,7 @@ The DELP model does not present predictions of daily deaths and daily cases. Pre
 
 Appendix Graph 13. Iran predicted daily deaths by IHME, IMPE, SRIV and reported daily deaths by Worldometers. Accessed on March 7, 2022. || Source: Assembled from Appendix Graphs 3, 5, 7, and 11.
 
-![image](https://user-images.githubusercontent.com/30849720/159106324-1e9a188f-84ea-4a74-9ac6-3868fdda60a6.png)
+![image](https://user-images.githubusercontent.com/30849720/159132502-adef51cf-84e4-46c0-abc9-deccb7f71ff3.png)
 
 *** 
 
