@@ -224,12 +224,19 @@ The DELP model [4] does not provide smoothed version of predicted daily variable
 In summary, smoothing is performed for daily deaths daily cases from JOHN and DELP. Moving averages are calculated for those raw daily deaths and raw daily cases, using the -tssmooth ma- command of Stata. The code and output segment used for smoothing the raw daily deaths from Johns Hopkins (variable name is DayDeaMeRaA00S00) is shown below. This segment is taken from: https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/code/JOHN/do%20CovidVisualizedCountry%20JOHN.do that is the -do- file for downloading and preparing the official reports from Johns Hopkins for Canada and its provinces in the uptake 20220311 of CovidVisualizedCountry tool. 
 
 * Start of the code segment
+
 . tssmooth ma DayDeaMeRaA00S00_window = DayDeaMeRaA00S00 if DayDeaMeRaA00S00 >= 0, window(3 1 3)
+
 The smoother applied was
+
      by provincestate_encoded : (1/7)*[x(t-3) + x(t-2) + x(t-1) + 1*x(t) + x(t+1) + x(t+2) + x(t+3)]; x(t)= DayDeaMeRaA00S00
+     
 . tssmooth ma DayDeaMeSmA00S00 = DayDeaMeRaA00S00_window, weights( 1 2 3 <4> 3 2 1) replace
+
 The smoother applied was
+
      by provincestate_encoded : (1/16)*[1*x(t-3) + 2*x(t-2) + 3*x(t-1) + 4*x(t) + 3*x(t+1) + 2*x(t+2) + ...; x(t)= DayDeaMeRaA00S00_window
+     
 * End of the code segment
 
 
