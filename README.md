@@ -4,9 +4,10 @@ CovidVisualized Methodology Documents
 
 This repository contains the CovidVisualized Methodology Documents:
 
-[CovidVisualized Methodology Document](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#covidvisualized-methodology-document)
+[CovidVisualized Methodology Document](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#covidvisualized-methodology-document) [PDF]()
 
-CovidVisualized Methodology Document Appendix
+[CovidVisualized Methodology Document Appendix]()
+[PDF]()
 
 
 <br/><br/>
