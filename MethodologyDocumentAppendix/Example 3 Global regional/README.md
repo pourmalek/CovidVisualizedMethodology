@@ -1,6 +1,8 @@
 ### Example 3: Global level and WHO regions
 
-Here is a real-life example that explains what a researcher or advisor to policymakers would have needed to do if they wanted to examine the latest predictions by the international and periodically updated models for the future trajectory of the COVID-19 pandemic at the global level and six WHO regions, on March 15, 2022. I trust that the people in charge of world health and regional health perform a similar process – among numerous others – regularly. The European CDC runs an ensemble model for short-term forecasts of Covid-19 cases and deaths across Europe ( The European Covid-19 Forecast Hub) , as does the United States CDC . 
+Here is a real-life example that explains what a researcher or advisor to policymakers would have needed to do if they wanted to examine the latest predictions by the international and periodically updated models for the future trajectory of the COVID-19 pandemic at the global level and six WHO regions, on March 15, 2022. Why March 15, 2022? Screenshots of the graphs from the models are taken on March 15, 2022. Take or give any other date, and the same process applies.
+
+I trust that the people in charge of world health and regional health perform a similar process – among numerous others – regularly. The European CDC runs an ensemble model for short-term forecasts of Covid-19 cases and deaths across Europe ( The European Covid-19 Forecast Hub) , as does the United States CDC . 
 
 To examine the latest predictions of daily deaths and daily cases at the global and regional levels by the international and periodically updated models, one needs to identify the models, locate their websites, find the graphs, create the missing graphs, (redevelop the existing graphs), and compile the graphs. I tried to replicate the above steps, and the results are presented below. 
 
