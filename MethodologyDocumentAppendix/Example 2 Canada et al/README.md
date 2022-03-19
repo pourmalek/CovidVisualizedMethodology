@@ -186,10 +186,13 @@ The Worldometers compilation of official reports provides reported daily deaths 
 
 Appendix Graph 48. Canada, Daily deaths, Worldometers. || Source: https://www.worldometers.info/coronavirus/country/Canada/ Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159137477-f9928562-ca1b-494e-8b47-fe4616b80567.png)
+
 *** 
 
 Appendix Graph 49. Canada, Daily cases, Worldometers || Source: https://www.worldometers.info/coronavirus/country/Canada/ Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159137484-f4d4937f-7c42-458a-b5de-5b0de534cfcc.png)
  
 ***
 
