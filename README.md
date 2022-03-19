@@ -2,8 +2,6 @@
 CovidVisualized Methodology Documents
 
 
-<br/><br/>
-
 This repository contains the CovidVisualized Methodology Documents:
 
 CovidVisualized Methodology Document
@@ -29,37 +27,39 @@ This CovidVisualized Methodology Document Appendix provides examples of how the 
 
 
 CovidVisualized Methodology Document
+
 Methodology document for CovidVisualized tools: CovidVisualizedGlobal, CovidVisualizedCountry, and covir2
 
 CovidVisualized: Visualized compilation of international updated models' estimates of COVID-19 pandemic at global and country levels
 
 Farshad Pourmalek, MD PhD
 Former lecturer, University of British Columbia, Vancouver, Canada
-pourmalek_farshad@yahoo.com
+pourmalek_farshad at yahoo dot com
 
 
-Table of Contents
-Summary	2
-CovidVisualized tools	2
-International and periodically updated COVId-19 pandemic models	2
-Study justification and added value	3
-Characteristics of the models	5
-Data management	8
-Primary and secondary variables	8
-Smoothing	11
-Models’ scenarios	13
-Models’ versions	16
-Periodical updates and uptakes	20
+Table of Contents:
+
+Summary	
+CovidVisualized tools	
+International and periodically updated COVId-19 pandemic models	
+Study justification and added value	
+Characteristics of the models	
+Data management	
+Primary and secondary variables	
+Smoothing	
+Models’ scenarios	
+Models’ versions	
+Periodical updates and uptakes	
 
 
 
 
-Summary
+### Summary
 
 This CovidVisualized methodology document explains the conceptual and computational details of the development of CovidVisualized tools. Examples of “what the CovidVisualized tools provide in addition to the individual models” are provided in the companion “CovidVisualized methodology document appendix”. 
 
 
-CovidVisualized tools
+### CovidVisualized tools
 
 There are three CovidVisualized tools:
 (1) CovidVisualizedGlobal: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the global level and six WHO regions [1]
@@ -69,10 +69,12 @@ https://github.com/pourmalek/CovidVisualizedCountry
 (3) covir2: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the country level, countries without subnational level estimates: Iran [3]
 https://github.com/pourmalek/covir2 
 
-International and periodically updated COVId-19 pandemic models
+### International and periodically updated COVId-19 pandemic models
 
 The five international and periodically updated COVId-19 pandemic models included in this work are (1) DELPHI , Massachusetts Institute of Technology, Cambridge (abbreviation used in this work: DELP) [4], (2) Institute for Health Metrics and Evaluation, Seattle (IHME) [5], (3) Imperial College, London (IMPE) [6], (4) Los Alamos National Laboratories, Los Alamos (LANL) [7], (5) University of Southern California, Los Angeles, by Srivastava, Ajitesh (SRIV) [8].
-Study justification and added value
+
+
+### Study justification and added value
 
 What is missing from the individual international and periodically updated models that creation of the CovidVisualized tools [1-3] was needed? Nothing substantial is missing from the individual (international and periodically updated) models. However, some of those models do not report predictions of daily outcomes or do not provide the predictions at the global or regional levels. Suppose that a researcher or advisor to policymakers wants to look at the latest predictions by all international and periodically updated models for any given country or location (e.g., Canada and its provinces, or the European region). In that case, they need to know or find the website addresses for graphs and data of each model, find the graphs that are available on the websites for the models, develop the graphs that are not available, and put together and examine the graphs that use different horizontal (time) and vertical (outcome) axes. If they want to repeat this, they will need to repeat all the steps, which is time-consuming. The CovidVisualized tools have consistently performed the steps mentioned above and compiled the graphs (and data) from individual models together in a usable framework and continue to do so regularly. 
 
@@ -84,16 +86,8 @@ Creation of the missing graphs and redeveloping the available graphs need a data
 
 
 
-
-
-
-
-
-
-
-
  
-Characteristics of the models
+### Characteristics of the models
 
 General characteristics of the five international and periodically updated COVID-19 pandemic models included in this work are described below in Appendix Table 1. These characteristics are taken from a “Rapid review of COVID-19 epidemic estimation studies for Iran” [9]. 
 
@@ -135,7 +129,7 @@ Including variants	Unknown	Yes	Yes	Unknown	Unknown
 
 
 
-Data management 
+### Data management 
 
 Estimates of (1) Daily Deaths, (2) Total Deaths, (3) Daily Cases (incident or prevalent), and (4) Total Cases (incident) from the five models are the primary outcome variables of interest in this work. Hospital-related and other outcomes from the five models are the secondary outcome variables.
 
@@ -208,7 +202,8 @@ DayCfrMeRaA00S00V00 "Daily CFR JOHN [27]"
 •	DeM: (Deaths Mean) "Daily Deaths Mean "
 
 
-Smoothing
+### Smoothing
+
 Smoothed outcomes are useful for visualization when the raw outcomes are jagged because of day-to-day fluctuations and weekend patterns in reporting. This is true for reported daily deaths and reported daily cases (JOHN) [27]. It is also true for predicted daily deaths and predicted daily cases or infections in the time interval before a model update, i.e., when a model is backcating the daily outcomes in the past. 
 
 The DELP model [4] does not provide smoothed version of predicted daily variables. Therefore, smoothing is performed in CovidVisualized tools. The IHME model [5] provides smoothed version of predicted daily variables. Their smoothed version of predicted daily variables is used for visualization. The IMPE [6] and LANL [7] models do not provide smoothed version of predicted daily variables. However, their raw (non-smoothed) version of daily outcomes is not very jaggy. Therefore, their raw version of daily outcomes is used in the graphs. The SRIV model [8] does not provide predictions for the past, and their predicted daily outcomes are used in the graphs. Official reports of daily death and daily cases (JOHN) are the prototype of outcomes for which adding the smoothed version is useful for visualization.   
@@ -380,7 +375,11 @@ LANL https://covid-19.bsvgateway.org
 SRIV https://scc-usc.github.io/ReCOVER-COVID-19/
 JOHN https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6
  
-Periodical updates and uptakes
+ 
+ 
+ 
+ 
+### Periodical updates and uptakes
 
 
 Model updates, estimates updates, and CovidVisualized uptakes
@@ -401,7 +400,7 @@ Algorithmic details of the rule for adding uptakes to the covir2 repository are 
 
 
 
-Abbreviations
+### Abbreviations
 
 CovidVisualizedCountry: Covid Visualized Country. A GitHub repository that was created in this work to visualize the COVID-19 epidemic models' estimates at country level – countries with subnational estimates, e.g., Canada
 CovidVisualizedGlobal: Covid Visualized Global. A GitHub repository that was created in this work to visualize the COVID-19 epidemic models' estimates at global level
@@ -425,7 +424,7 @@ WHO: World Health Organization
 
 
 
-References
+### References
 
 1. Pourmalek, F. pourmalek/CovidVisualizedGlobal: 1.1 public release. 2021. Zenodo. https://doi.org/10.5281/zenodo.5019030 Accessed 23 June 2021.
 2. Pourmalek, F. pourmalek/CovidVisualizedCountry: 1.1 public release. 2021. Zenodo. http://doi.org/10.5281/zenodo.5019482 Accessed 23 June 2021.
