@@ -115,32 +115,20 @@ General characteristics of the five international and periodically updated COVID
 
 No model is 100% complete, accurate, and valid, and no model is 100% wrong and useless. As described by Vynnycky  and White, models identify the essential elements which determine real life behaviour of the epidemic (i.e., the model assumptions) and then properly include those elements in the model structure and calculations. If these essential elements are identified and incorporated wisely then the model may provide realistic predictions [10] [25]. The first three essential elements of the COVID-19 epidemic are (1) under-reporting of deaths and cases [11-17] [26-32], (2) asymptomatic transmission [11, 18-20] [26, 33-35], and (3) seasonality [21-23] [36-38]. The foreseeable advent of vaccines and variants shifted the epidemiologic landscape of the disease transmission, and hence vaccines and variants belong among the essential elements of the epidemic [24-25] [39-40]. Including alternate scenarios in the models can be quite illustrative and useful for policymakers about future trends in the epidemic and potential role of the interventions [26] [41]. The above-mentioned technical characteristics of the models are mentioned in Appendix Table 2. The whole set of model’s characteristics provides a profile of models’ strengths and weaknesses – that should be considered while examining the predictions by models. 
  
+<br/><br/>
+
 Table 1. General characteristics of the included models 
 
-Study / Model	DELP [4]	IHME [5]	IMPE [6]	LANL [7]	SRIV [8]
-Compartmental model (a)	SEIR+	SEIR	SIR, SEIR, SEIR+	SEIR+	SIR+
-Statistical methods	Regression trees	Spline fit and excess mortality estimation	Regression trees	Dynamic growth parameter modeling	Hyper-parametric learning
-Scenarios number	1	3-5	6	1	3
-Primary outcomes	Total deaths and cases	Total and daily deaths and infections	Total and daily deaths and infections	Total and daily deaths and cases	Total deaths and cases
-Locations (in data)	National, subnational	Global, regional, national, subnational	National	National	National
-Locations (in graphs)	Global, continental, national, 
-subnational	Global, regional, national, subnational	Global, (b) National (c)	National	National (and US states)
-(a) Compartmental models: S: Susceptible, E: Exposed, I: Infected, R: Removed or Recovered, L: Latent. In any model with a + sign, there are other components for augmentation of model. (b) Global daily deaths only. (c) National daily deaths and infections only. 
+![image](https://user-images.githubusercontent.com/30849720/159102867-ec599fd3-bf84-4aa6-8ac9-14523f1e3ab4.png)
 
 
+<br/><br/>
 
 
 
 Table 2. Technical characteristics of the included models 
 
-Study / Model	DELP [4]	IHME [5]	IMPE [6]	LANL [7]	SRIV [8]
-Adjusting for under-reporting	Yes	Yes	Yes	No	Yes
-Including asymptomatic transmission	Yes	No	Yes	No	Yes
-Including seasonal variations 	Yes	Yes	No	No	No
-Model validation by creators	Yes	Yes	Yes	No	Yes
-Alternate scenarios	No	Yes	Yes	No	No
-Including vaccines	Unknown	Yes	Yes	Unknown	Unknown
-Including variants	Unknown	Yes	Yes	Unknown	Unknown
+
 
 
 
