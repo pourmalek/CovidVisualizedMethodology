@@ -1012,7 +1012,7 @@ Appendix Graphs 29 to 33 show additional variables estimated by the IHME model: 
 
 <br/><br/>
 
-Summary 20220311:
+**Summary 20220311:
 
 ![image](https://user-images.githubusercontent.com/30849720/159106354-c1f40cf1-93b8-4634-ab28-ef2f3858f7fe.png)
 
@@ -1042,8 +1042,9 @@ Appendix Exhibit 3. The covir2 website page for uptake 20220304. || Source: http
 
 *** 
 
-Appendix Graph 15. Iran Daily deaths, all-time || Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+Appendix Graph 15. [Daily deaths, all-time](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2012%20COVID-19%20daily%20deaths%2C%20Iran%2C%20reference%20scenarios.pdf) || Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/157358108-10b1fa59-f944-4fc4-af88-186f02016cc0.png)
 
 ***
  
