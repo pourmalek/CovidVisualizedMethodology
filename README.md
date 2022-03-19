@@ -820,28 +820,18 @@ DELP model
 
 The DELP model does not present predictions of daily deaths and daily cases. They provide predictions of total deaths and total cases. See Appendix Graphs 1 and 2 below. 
 
+***
+
 Appendix Graph 1. Iran, Predicted total deaths, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 7, 2022.
-
-![image](https://user-images.githubusercontent.com/30849720/159105023-fc8e5a43-5859-4caa-87d7-4c1f5454492b.png)
-
-this
 
 ![image](https://user-images.githubusercontent.com/30849720/159105099-698afdad-5192-4dfd-b590-65913a9d5c01.png)
 
- 
-
-
-
-
-
-
-
-
+*** 
 
 Appendix Graph 2. Iran, Predicted total cases, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 7, 2022.
 
  
-
+***
 
 
 
@@ -853,32 +843,17 @@ IHME model
 The IHME model does not present predictions of daily cases. They provide predictions of daily infections. See Appendix Graphs 3 and 4 below. 
 
 
+***
+
 Appendix Graph 3. Iran, Predicted daily deaths, IHME model. || Source: https://covid19.healthdata.org/iran-(islamic-republic-of)?view=daily-deaths&tab=trend Accessed on March 7, 2022.
 
  
-
-
-
-
-
-
-
-
+***
 
 Appendix Graph 4. Iran, Predicted daily infections, IHME model. || Source: https://covid19.healthdata.org/iran-(islamic-republic-of)?view=infections-testing&tab=trend&test=infections Accessed on March 7, 2022.
 
  
-
-
-
-
-
-
-
-
-
-
-
+***
 
 
 
@@ -889,12 +864,17 @@ IMPE model
 The IMPE model does not present predictions of daily cases. They provide predictions of daily infections. See Appendix Graphs 5 and 6 below. 
 
 
+***
+
 Appendix Graph 5. Iran, Predicted daily deaths, IMPE model. || Source: https://raw.githubusercontent.com/mrc-ide/global-lmic-reports/master/IRN/index.pdf Page 4. Accessed on March 7, 2022.
 
+
+***
  
 Appendix Graph 6. Iran, Predicted daily infections, IMPE model. || Source: https://raw.githubusercontent.com/mrc-ide/global-lmic-reports/master/IRN/index.pdf Page 2. Accessed on March 7, 2022.
 
- 
+***
+
 
 <br/><br/>
 
@@ -913,26 +893,17 @@ SRIV model
 
 The SRIV model’s predictions for daily deaths and daily cases are shown in Appendix Graphs 7 and 8 below. 
 
+***
+
 Appendix Graph 7. Iran, Predicted daily deaths, SRIV model.|| Source: https://scc-usc.github.io/ReCOVER-COVID-19 Accessed on March 7, 2022.
 
  
-
-
-
-
-
-
+***
 
 Appendix Graph 8. Iran, Predicted daily cases, SRIV model|| Source: https://scc-usc.github.io/ReCOVER-COVID-19 . Accessed on March 7, 2022.
 
  
-
-
-
-
-
-
-
+***
 
 
 
@@ -944,28 +915,16 @@ Johns Hopkins compilation of official reports
 
 The Johns Hopkins compilation of official reports does not present daily deaths and daily cases (as of March 7, 2022). They provide weekly deaths and weekly cases. See Appendix Graphs 9 and 10 below. 
 
+***
 
 Appendix Graph 9. Iran, Weekly reported deaths, Johns Hopkins. || Source: https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6 Accessed on March 7, 2022.
 
  
-
-
-
-
-
-
+***
 
 Appendix Graph 10. Iran, Weekly reported cases, Johns Hopkins. || Source: https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6 Accessed on March 7, 2022.   
 
- 
-
-
-
-
-
-
-
-
+***
 
 
 
@@ -978,21 +937,17 @@ Worldometers compilation of official reports to WHO
 
 The Worldometers compilation of official reports provides daily deaths and cases, shown in Appendix Graphs 11 and 12 below. 
 
+***
+
 Appendix Graph 11. Iran, Daily deaths, Worldometers. Accessed on March 7, 2022. https://www.worldometers.info/coronavirus/country/iran/ 
  
 
-
-
-
-
-
-
+***
 
 Appendix Graph 12. Iran, Daily cases, Worldometers. Accessed on March 7, 2022. https://www.worldometers.info/coronavirus/country/iran/ 
 
- 
 
-
+***
 
 
 <br/><br/>
@@ -1002,15 +957,18 @@ Compile the graphs from individual models
 The DELP model does not present predictions of daily deaths and daily cases. Predictions of daily deaths by IHME, IMPE, and SRIV and reported daily deaths by Worldometers are shown below in Appendix Graph 13. Appendix Graph 14 shows the predicted daily cases by SRIV, predicted daily infections by IHME and IMPE, and the reported daily cases by Worldometers. 
 
  
+***
 
 Appendix Graph 13. Iran predicted daily deaths by IHME, IMPE, SRIV and reported daily deaths by Worldometers. Accessed on March 7, 2022. || Source: Assembled from Appendix Graphs 3, 5, 7, and 11.
 
- 
+
+*** 
 
 Appendix Graph 14. Iran, predicted daily cases by SRIV, predicted daily infections by IHME and IMPE, and reported daily cases, Worldometers. Accessed on March 7, 2022. || Source: Assembled from Appendix Graphs 4, 6, 8, and 12.
 
   
-  
+***
+
 <br/><br/>
 
 How can the covir2 tool be practically used for the example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Iran on March 7, 2022? They would look at the uptake dates on the covir2 website to find the latest date equal to or before March 7, 2022. The uptake dates in the covir2 website are displayed on the top of the main web page as the names of directories for each uptake (see Appendix Exhibit 1 below). Scroll down to find the latest uptake date equal to or before March 7, 2022. Appendix Exhibit 2 shows that the date would be 20220304. Clicking on the hyperlinked name 20220304 leads to the page for the uptake 20220304 (see Appendix Exhibit 3). On the page for the uptake 20220304, “Selected graphs” can be viewed, as well as links to the code  used to produce the results and the output  of the code. 
@@ -1054,93 +1012,118 @@ The New Year ceremonies and travels increase the number of contacts and the prob
 
 
 
+***
 
 Appendix Exhibit 1. The uptake dates in the covir2 website are displayed on the top of the main web page as the names of directories for each uptake. || Source: https://github.com/pourmalek/covir2 Accessed on March 7, 2022.
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+***
 
 Appendix Exhibit 2. The latest uptake date equal to or before March 7, 2022, is 20220304.
 || Source: https://github.com/pourmalek/covir2 Accessed on March 14, 2022.
 
  
-
-
-
-
-
-
-
-
-
-
+***
 
 Appendix Exhibit 3. The covir2 website page for uptake 20220304. || Source: https://github.com/pourmalek/covir2/tree/main/20220304 Accessed on March 7, 2022.
 
- 
 
-
-
-
-
-
-
-
-
+*** 
 
 Appendix Graph 15. Iran Daily deaths, all-time || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 16. Iran Daily deaths, 2021 on || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 17. Iran Daily deaths, 2021 on, reference scenario with uncertainty, IHME || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 18. Iran Daily deaths, 2021 on, all scenarios, IHME || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 19. Iran Daily deaths, 2021 on, reference scenario with uncertainty, IMPE || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 20. Iran Daily deaths, 2021 on, 3 scenarios, IMPE || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 21. Iran Daily cases or infections, all-time || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 22. Iran Daily cases or infections, 2021 on || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 23. Iran Daily cases, 2021 on || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 24. Iran Daily estimated infections IHME, IMPE to reported cases JOHN, main scenarios, 2021 on || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 25. Iran Hospital-related outcomes, all-time || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 26. Iran Hospital-related outcomes, 2021 on || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 27. Iran Daily deaths estimated to reported, all-time || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 28. Iran Daily cases or infections estimated to reported cases, 2021 on || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 29. Iran R effective, 2 scenarios, 2021 on, IHME || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 30. Iran Daily Infection-outcome ratios, 2 scenarios, 2021 on, IHME || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 31. Iran Daily mobility, 2 scenarios, all-time, IHME || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 32. Iran Daily mask use, 2 scenarios, all-time, IHME || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
+
+
+***
  
 Appendix Graph 33. Iran Percent cumulative vaccinated, 2021 on, IHME || Source: covir2 uptake 20220304 Accessed on March 7, 2022.
  
 
-
+***
 
 
 
@@ -1170,55 +1153,26 @@ DELP model
 The DELP model does not present daily deaths and daily cases predictions – they provide total deaths and total cases. The DELP model provides predictions for nine provinces: Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Quebec, and Saskatchewan. Appendix Graphs 34 and 35 show their predictions for Canada at the national level. Appendix Graphs 36 and 37 show DELP predictions for British Columbia, for instance. 
 
 
-
-
-
+***
 
 Appendix Graph 34. Canada, national level, Predicted total deaths, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 14, 2022.
 
  
-
-
-
-
-
-
-
-
-
+***
 
 Appendix Graph 35. Canada, national level, Predicted total cases, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 14, 2022.
 
- 
-
-
-
-
-
-
-
-
-
-
+***
 
 Appendix Graph 36. Canada, British Columbia, Predicted total deaths, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 14, 2022.
 
- 
 
-
-
-
-
-
-
-
-
-
+*** 
 
 Appendix Graph 37. Canada, British Columbia, Predicted total cases, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 14, 2022.
 
  
-
+***
 
 
 
@@ -1235,56 +1189,26 @@ IHME model
 The IHME model does not present predictions of daily cases. They provide predictions of daily infections. See Appendix Graphs 38 and 39 below. IHME provides predictions for seven provinces: Alberta, British Columbia, Manitoba, Nova Scotia, Ontario, Quebec, and Saskatchewan. Appendix Graphs 40 and 41 show IHME predictions for British Columbia, for instance. 
 
 
+***
+
 Appendix Graph 38. Canada, national level, Predicted daily deaths, IHME model. || Source: https://covid19.healthdata.org/canada?view=daily-deaths&tab=trend Accessed on March 14, 2022.
 
- 
 
-
-
+*** 
 
 Appendix Graph 39. Canada, national level, Predicted daily infections, IHME model. || Source: https://covid19.healthdata.org/canada?view=infections-testing&tab=trend&test=infections Accessed on March 14, 2022.
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
+*** 
 
 Appendix Graph 40. Canada, British Columbia, Predicted daily deaths, IHME model. || Source: https://covid19.healthdata.org/canada/british-columbia?view=daily-deaths&tab=trend Accessed on March 14, 2022.
 
  
-
-
-
-
-
-
-
-
-
-
-
-
+***
 
 Appendix Graph 41. Canada, British Columbia, Predicted daily infections, IHME model. || Source: https://covid19.healthdata.org/canada/british-columbia?view=infections-testing&tab=trend&test=infections Accessed on March 14, 2022.
 
  
-
-
-
-
-
-
-
-
+***
 
 
 
@@ -1298,14 +1222,15 @@ IMPE model
 The IMPE model does not present predictions of daily cases. They provide predictions of daily infections. IMPE model does not provide predictions for the subnational levels. Appendix Graphs 42 and 43 show predictions for Canada. 
 
 
+***
+
 Appendix Graph 42. Canada, Predicted daily deaths, IMPE model. || Source: https://raw.githubusercontent.com/mrc-ide/global-lmic-reports/master/CAN/index.pdf Accessed on March 14, 2022.
  
-
-
+***
 
 Appendix Graph 43. Canada, Predicted daily infections, IMPE model. || Source: https://raw.githubusercontent.com/mrc-ide/global-lmic-reports/master/CAN/index.pdf Page 2. Accessed on March 14, 2022.
 
- 
+*** 
 
 
 
@@ -1325,20 +1250,16 @@ SRIV model
 The SRIV model’s predictions for daily deaths and daily cases are shown in Appendix Graphs 44 and 45 below. SRIV model does not provide predictions for the subnational levels. 
 
 
+***
 
 Appendix Graph 44. Canada, Predicted daily deaths, SRIV model.|| Source: https://scc-usc.github.io/ReCOVER-COVID-19 Accessed on March 14, 2022.
 
- 
-
-
-
-
-
+*** 
 
 Appendix Graph 45. Canada, Predicted daily cases, SRIV model|| Source: https://scc-usc.github.io/ReCOVER-COVID-19 . Accessed on March 14, 2022.
 
  
-
+***
 
 
 
@@ -1357,17 +1278,11 @@ Johns Hopkins compilation of official reports
 The Johns Hopkins compilation of official reports does not present daily deaths and daily cases (as of March 14, 2022). They provide weekly deaths and weekly cases. See Appendix Graphs 46 and 47 below. 
 
 
+***
 
 Appendix Graph 46. Canada, Weekly reported deaths, Johns Hopkins. || Source: https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6 Accessed on March 14, 2022.
 
- 
-
-
-
-
-
-
-
+*** 
 
 Appendix Graph 47. Canada, Weekly reported cases, Johns Hopkins. || Source: https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6 Accessed on March 14, 2022.   
 
