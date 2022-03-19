@@ -27,7 +27,7 @@ This CovidVisualized Methodology Document Appendix provides examples of how the 
 
 ### CovidVisualized Methodology Document
 
-Methodology document for CovidVisualized tools: [`CovidVisualizedGlobal`](https://github.com/pourmalek/CovidVisualizedGlobal), [CovidVisualizedCountry](https://github.com/pourmalek/CovidVisualizedCountry), and [covir2](https://github.com/pourmalek/covir2)
+Methodology document for CovidVisualized tools: [`CovidVisualizedGlobal`](https://github.com/pourmalek/CovidVisualizedGlobal), [`CovidVisualizedCountry`](https://github.com/pourmalek/CovidVisualizedCountry), and [`covir2`](https://github.com/pourmalek/covir2)
 
 CovidVisualized: Visualized compilation of international updated models' estimates of COVID-19 pandemic at global and country levels
 
@@ -70,20 +70,29 @@ pourmalek_farshad at yahoo dot com
 
 This CovidVisualized methodology document explains the conceptual and computational details of the development of CovidVisualized tools. Examples of “what the CovidVisualized tools provide in addition to the individual models” are provided in the companion “CovidVisualized methodology document appendix”. 
 
+<br/><br/>
+
+
 
 ### CovidVisualized tools
 
 There are three CovidVisualized tools:
-(1) CovidVisualizedGlobal: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the global level and six WHO regions [1]
-https://github.com/pourmalek/CovidVisualizedGlobal 
-(2) CovidVisualizedCountry: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the country level: Canada, national and subnational [2]
-https://github.com/pourmalek/CovidVisualizedCountry 
-(3) covir2: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the country level, countries without subnational level estimates: Iran [3]
-https://github.com/pourmalek/covir2 
+
+(1) CovidVisualizedGlobal: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the global level and six WHO regions [1] https://github.com/pourmalek/CovidVisualizedGlobal 
+
+(2) CovidVisualizedCountry: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the country level: Canada, national and subnational [2] https://github.com/pourmalek/CovidVisualizedCountry 
+
+(3) covir2: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the country level, countries without subnational level estimates: Iran [3] https://github.com/pourmalek/covir2 
+
+
+<br/><br/>
+
 
 ### International and periodically updated COVId-19 pandemic models
 
 The five international and periodically updated COVId-19 pandemic models included in this work are (1) DELPHI , Massachusetts Institute of Technology, Cambridge (abbreviation used in this work: DELP) [4], (2) Institute for Health Metrics and Evaluation, Seattle (IHME) [5], (3) Imperial College, London (IMPE) [6], (4) Los Alamos National Laboratories, Los Alamos (LANL) [7], (5) University of Southern California, Los Angeles, by Srivastava, Ajitesh (SRIV) [8].
+
+<br/><br/>
 
 
 ### Study justification and added value
@@ -95,6 +104,7 @@ The obstacles: The obstacles one would encounter in examining the latest predict
 Creation of the missing graphs and redeveloping the available graphs need a data management framework capable of compiling data (predictions’ files) from different models. While all the models present a set of common outcomes and variables, they do so in their unique way. The number of data files, the variables and data structure within each file, the nomenclature and variable names, the geographical locations covered by each model, the alternative scenarios, and many other aspects of the predictions provided by the models vary tremendously across the models. Moreover, within each model, there are systematic and random variations and alterations regarding these aspects across time (i.e., with updates released by the model). The CovidVisualized tools [1-3] have covered these issues in a reproducible way, i.e., researchers can download the codes, rerun them, and see the outputs and results. The CovidVisualized tools have already paved the way and resolved the obstacles in examining the predictions in a coherent, consistent, and periodically updated framework, with underlying software codes and outputs. 
 
 
+<br/><br/>
 
 
 
@@ -140,12 +150,17 @@ Including variants	Unknown	Yes	Yes	Unknown	Unknown
 
 
 
+<br/><br/>
 
 ### Data management 
 
 Estimates of (1) Daily Deaths, (2) Total Deaths, (3) Daily Cases (incident or prevalent), and (4) Total Cases (incident) from the five models are the primary outcome variables of interest in this work. Hospital-related and other outcomes from the five models are the secondary outcome variables.
 
 The CovidVisualized tools do not change any outcomes or variables taken from the five international and periodically updated models. Secondary variables are calculated in CovidVisualized tools: (1) Daily deaths and daily cases are calculated from the provided cumulative deaths and cases by JOHN [27], DELP [4], and SRIV [8]. (2) Case Fatality Ratios (CFR), and (3) smoothed variables for daily deaths daily cases from JOHN and DELP. Details of smoothing are provided further below. 
+
+<br/><br/>
+
+
 
 ### Primary and secondary variables
 
@@ -215,6 +230,9 @@ DayCfrMeRaA00S00V00 "Daily CFR JOHN [27]"
 •	DeM: (Deaths Mean) "Daily Deaths Mean "
 
 
+<br/><br/>
+
+
 ### Smoothing
 
 Smoothed outcomes are useful for visualization when the raw outcomes are jagged because of day-to-day fluctuations and weekend patterns in reporting. This is true for reported daily deaths and reported daily cases (JOHN) [27]. It is also true for predicted daily deaths and predicted daily cases or infections in the time interval before a model update, i.e., when a model is backcating the daily outcomes in the past. 
@@ -233,6 +251,7 @@ The smoother applied was
 * End of the code segment
 
 
+<br/><br/>
 
 
 
@@ -245,6 +264,9 @@ A02 IHME Institute for Health Metrics and Evaluation [5]
 A03 IMPE Imperial College [6]
 A04 LANL Los Alamos National Laboratory [7]
 A05 SRIV Srivastava [8]
+
+
+<br/><br/>
 
 
 ### Models’ scenarios
@@ -297,30 +319,49 @@ S00 = [Single scenario]
 A05 SRIV
 S00 = [current]
 
+<br/><br/>
 
 Details about IHME scenarios:
+
 All updates up to and including 20211217:
+
 IHME. COVID-19 Results Briefing, The Eastern Mediterranean Region. May 13, 2021. Page 19, Projections and scenarios "The model was run on May 12, 2021."
+
 (S1) The reference scenario is our forecast of what we think is most likely to happen:
+
 1- Vaccines are distributed at the expected pace.
+
 2- Governments adapt their response by re-imposing social distancing mandates for six weeks whenever daily deaths reach 8 per million, unless a location has already spent at least 7 of the last 14 days with daily deaths above this rate and not yet re-imposed social distancing mandates. In this case, the scenario assumes that mandates are re-imposed when daily deaths reach 15 per million.
+
 3- Variants B.1.1.7 (first identified in the UK), B.1.351 (first identified in South Africa), and P1 (first identified in Brazil) continue to spread from locations with (a) more than five sequenced variants, and (b) reports of community transmission, to adjacent locations following the speed of variant scale-up observed in the regions of the UK.
+
 4- In one-quarter of those vaccinated, mobility increases toward pre-COVID-19 levels.
+
 (S2) The universal masks scenario makes all the same assumptions as the reference scenario but also assumes 95% of the population wear masks in public in every location.
+
 (S3) The worse scenario modifies the reference scenario assumptions in three ways:
+
 1- First, it assumes that variants B.1.351 or P1 begin to spread within three weeks in adjacent locations that do not already have B.1.351 or P1 community transmission.
+
 2- Second, it assumes that all those vaccinated increase their mobility toward pre-COVID-19 levels.
+
 3- Third, it assumes that among those vaccinated, mask use starts to decline exponentially one month after completed vaccination.
 
+
 Updates 20220114 onwards:
+
 Added: Waning immunity, Fitting the past (improved methods), and Omicron specific changes
+
 Including use of integro-differential equations; Fitting the past (IDR, IHR, IFR, for different exposure categories), and Integration of rate estimation within the SEIR fitting approach, simultaneously estimating COVID rates and underlying transmission intensity.
 
+
+<br/><br/>
 
 
 ### Models’ versions
 
 DELP model versions:
+
 DELP V1 2020-04-17 to 2020-07-04
 DELP V2 2020-07-04 to 2020-11-19
 DLEP V3 (could not be located)
@@ -328,7 +369,9 @@ DELP V4 2020-11-19 to when specified otherwise
 DELP source for model versions: 
 https://github.com/COVIDAnalytics/website/tree/master/data/predicted
 
+
 IHME model versions:
+
 IHME V1 2020-03-25 to 2020-04-29: IHME-CF = Curve Fitting]
 IHME V2 2020-05-04 to 2020-05-26: IHME-CF-SEIR = Curve Fitting and SEIR
 IHME V3 2020-05-29 to 2021-04-30: IHME-MS-SEIR = Mortality Spline and SEIR
@@ -337,11 +380,15 @@ IHME V5 2022-01-14 onwards: IHME-MS-SEIR + Total Covid-19 Mortality + Waning imm
 
 
 IHME source for model versions: 
+
 All models label their versions within their data files or on their websites, except the IHME model. The first three versions of the IHME have been described in [2]. Since May 2021, they changed their key metric from reported deaths to the total number of COVID-19 deaths [32]. This included estimation of the ratio of the total number of COVID-19 death to reported deaths from COVID-19. Hence, the IHME model is labelled V4, in this work, starting from May 6, 2021.
 
 V1: Beginning March 25, IHME initially produced COVID forecasts using a statistical curve fit model (IHME-CF), which was used through April 29 for publicly released forecasts. V2: On May 4, IHME switched to using a hybrid model, drawing on a statistical curve fit in the first stage, followed by a second-stage epidemiological model with susceptible, exposed, infectious, recovered compartments (SEIR). This model was used through May 26. V3: On May 29, the curve fit stage was replaced by a spline fit to the relationship between log cumulative deaths and log cumulative cases, while the second-stage SEIR model remained the same.
 
+
+
 IMPE model versions:
+
 IMPE V1 2020-04-28 to 2020-05-30
 IMPE V2 2020-05-31 to 2020-06-09
 IMPE V3 2020-06-14 to 2020-06-26
@@ -355,14 +402,18 @@ V8 and V9 run together from 2021-11-03 to when specified otherwise
 IMPE source for model versions: 
 https://github.com/mrc-ide/global-lmic-reports/tree/master/data
 
+
 LANL model versions:
+
 LANL V1 2020-04-05 to 2020-10-28
 LANL V2 2020-10-28 to 2021-09-26
 LANL source for model versions: https://covid-19.bsvgateway.org 
 The LANL COVID-19 Team made its last real-time forecast on September 27th, 2021. 
 Source: https://covid-19.bsvgateway.org
 
+
 SRIV model versions:
+
 SRIV V1 2020-05-02 to 2020-06-02 
 SRIV V2 2020-06-03 to when specified otherwise
 SRIV source for model versions: 
@@ -370,6 +421,8 @@ https://github.com/scc-usc/ReCOVER-COVID-19#our-papers and
 https://github.com/scc-usc/ReCOVER-COVID-19/tree/master/results/historical_forecasts
 
 ***
+
+<br/><br/>
 
 Models’ websites for estimates files
 DELP https://github.com/COVIDAnalytics/website/tree/master/data/predicted
@@ -390,50 +443,55 @@ JOHN https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6
  
  
  
- 
+<br/><br/>
+
  
 ### Periodical updates and uptakes
 
 
-Model updates, estimates updates, and CovidVisualized uptakes
+#### Model updates, estimates updates, and CovidVisualized uptakes
 
 With daily accumulation of official country reports to WHO, curated by the Johns Hopkins University [27] and other curators, and other data types used in the models, models update their estimations (predictions) on a rather regular basis. The CovidVisualized tools [1-3] use the estimations updates released by the models on a regular basis. To semantically differentiate between what is released by the models and what is performed by the CovidVisualized tools, the latter is labeled “uptake”. Updates belong to the models. Uptakes belong to the CovidVisualized tools. Updates are released by the model creators. Uptakes are added to CovidVisualized tools by its creator.
 
 The two models with the least frequency of periodic updates of estimates are IHME [5] and IMPE [6], updated almost weekly and bi-weekly, respectively – until November 2021. After spread of the Omicron variants, these models reduced the frequency of their update releases. Therefore, two sets of arrangements ruled the frequency of performing uptakes in the CovidVisualized tools [1-3]. The first set covered the year 2021: With the release of each update of either of these two models, the whole set of the five included models is updated in all the three CovidVisualized GitHub repositories. The most recent update of each model is used. The conventions for periodical uptake are described in more detail below. Estimates of the LANL model [7] get updated about every 3-4 days, and DELP [4] and SRIV [8] models get updated daily. The second set of arrangements for the frequency of performing uptakes in the CovidVisualized tools started in 2022. Uptakes are performed each week on Friday. Each uptake uses the latest available update of each model.  
 
 
-
 With much less frequency than that of models’ estimations updates releases, models improve their internal and calculations structures. These are “model versions” that are distinct from models’ estimations updates. Model versions are described in detail below. 
 
-Detailed description of the of rule for uptakes of CovidVisualized tools in 2021
+<br/><br/>
+
+#### Detailed description of the of rule for uptakes of CovidVisualized tools in 2021
 
 This is a description of the rule of adding uptakes to CovidVisualized tools [1-3]. The overarching principle for creating uptakes is to create an uptake for each calendar date on which an update is available for either IHME [5] or IMPE [6] and using the most recent update for the other study (IMPE or IHME) for that uptake. The rationale for not including every new update by DELP [4], LANL [7], or SRIV [8] in the overarching principle is that it would lead to too frequent uptakes, which would defy the purpose of gaining new insight with each uptake of the covir2.
 
 Algorithmic details of the rule for adding uptakes to the covir2 repository are as follows. For every single calendar date, (1) Check for new updates by IHME. (2) If a new update by IHME is available, start a new uptake with today's date, and use this new update by IHME. (3) Look for the latest available update by IMPE and include that in this uptake. (4) Look for the latest available update by LANL and include that in this uptake. (5) Look for updates by DELP and SRIV for which the date is equal to the date for IHME. (6) If no new update by IHME is available (from step 1), check for new updates by IMPE. If a new update by IMPE is available, start a new uptake with today's date, and use this new update by IMPE. (7) Look for the latest available update by IHME and include that in this uptake. (8) Look for the latest available update by LANL and include that in this uptake. (9) Look for updates by DELP and SRIV for which the date is equal to the date for IMPE. (10) If no new update by IMPE is available (from step 6), there is no new uptake for this calendar date. 
 
 
+<br/><br/>
 
 ### Abbreviations
 
 CovidVisualizedCountry: Covid Visualized Country. A GitHub repository that was created in this work to visualize the COVID-19 epidemic models' estimates at country level – countries with subnational estimates, e.g., Canada
+
 CovidVisualizedGlobal: Covid Visualized Global. A GitHub repository that was created in this work to visualize the COVID-19 epidemic models' estimates at global level
+
 covir2: COVID Iran Review Number 2. A GitHub repository that was created in this work to visualize the COVID-19 epidemic models' estimates at country level – countries without subnational estimates, e.g., Iran
+
 DELP: DELPHI. Differential Equations Lead to Predictions of Hospitalizations and Infections. COVID-19 pandemic model named DELPHI developed by Massachusetts Institute of Technology, Cambridge
+
 IHME: Institute for Health Metrics and Evaluation. COVID-19 pandemic model by developed Institute for Health Metrics and Evaluation, Seattle
+
 IMPE: Imperial. COVID-19 pandemic model developed by Imperial College, London
+
 LANL: Los Alamos National Laboratories. COVID-19 pandemic model developed by Los Alamos National Laboratories, Los Alamos
+
 SRIV: Srivastava, Ajitesh. COVID-19 pandemic model developed by Ajitesh Srivastava, University of Southern California, Los Angeles
+
 WHO: World Health Organization 
 
 
 
-
-
-
-
-
-
-
+<br/><br/>
 
 
 
