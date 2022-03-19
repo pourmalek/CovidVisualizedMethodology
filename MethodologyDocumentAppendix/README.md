@@ -29,7 +29,7 @@ pourmalek_farshad at yahoo dot com
 
 [Example 2: Canada and its province](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/Example%202%20Canada%20et%20al/README.md)
 
-[Example 3: Global level and WHO regions](https://github.com/pourmalek/CovidVisualizedMethodology/tree/main/MethodologyDocumentAppendix/Example%203%20Global%20regional)
+[Example 3: Global level and WHO regions](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/Example%203%20Global%20regional/README.md)
 
 [Postscript](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/README.md#postscript)
 
@@ -93,15 +93,13 @@ _Conclusion:_ The CovidVisualized tools have already paved the way and resolved 
 
 <br/><br/>
 
+**Here** are three examples illustrating what the CovidVisualized tools provide in addition to the individual models. 
 
+[Example 1](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/Example%201%20Iran/RAEDME.md) is for Iran. 
 
-Here are three examples illustrating what the CovidVisualized tools provide in addition to the individual models. 
+[Example 2](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/Example%202%20Canada%20et%20al/README.md) is for Canada and its province.
 
-[Example 1](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#example-1-iran) is for Iran. 
-
-[Example 2](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#example-2-canada-and-its-province) is for Canada and its province.
-
-[Example 3](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#example-3-global-level-and-who-regions) looks at the global level and WHO regions. 
+[Example 3](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/Example%203%20Global%20regional/README.md) looks at the global level and WHO regions. 
 
 For sample applications of “covir2” to countries without subnational estimates see [Afghanistan](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Afghanistan_%2020210625/20210625), [Pakistan](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Pakistan_20210704), [Japan 20210506](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Japan_20210506), [Japan 20210928](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Japan_20210928)
 
