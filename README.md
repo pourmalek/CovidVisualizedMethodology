@@ -27,12 +27,12 @@ This CovidVisualized Methodology Document Appendix provides examples of how the 
 
 ### CovidVisualized Methodology Document
 
-Methodology document for CovidVisualized tools: CovidVisualizedGlobal, CovidVisualizedCountry, and covir2
+Methodology document for CovidVisualized tools: [CovidVisualizedGlobal](https://github.com/pourmalek/CovidVisualizedGlobal), [CovidVisualizedCountry](https://github.com/pourmalek/CovidVisualizedCountry), and [covir2](https://github.com/pourmalek/covir2)
 
 CovidVisualized: Visualized compilation of international updated models' estimates of COVID-19 pandemic at global and country levels
 
 Farshad Pourmalek, MD PhD
-Former lecturer, University of British Columbia, Vancouver, Canada
+Former lecturer, University of British Columbia, Vancouver, Canada.
 pourmalek_farshad at yahoo dot com
 
 <br/><br/>
