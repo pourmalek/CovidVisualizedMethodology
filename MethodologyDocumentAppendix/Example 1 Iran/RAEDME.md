@@ -9,6 +9,7 @@ To examine the latest predictions of daily deaths and daily cases in Iran by the
 <br/><br/>
 
 
+***
 
 DELP model
 
@@ -82,7 +83,7 @@ LANL model
 
 The LANL COVID-19 Team made its last real-time forecast on September 27th, 2021. || Source: https://covid-19.bsvgateway.org Accessed on March 7, 2022.
 
-
+***
 
 
 
