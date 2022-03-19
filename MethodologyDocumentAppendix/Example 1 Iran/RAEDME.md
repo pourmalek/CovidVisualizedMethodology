@@ -2,7 +2,7 @@
 
 <br/><br/>
 
-Here is a real-life example that explains what a researcher or advisor to policymakers would have needed to do if they wanted to examine the latest predictions by the international and periodically updated models for the future trajectory of the COVID-19 epidemic in Iran on March 7, 2022. 
+Here is a real-life example that explains what a researcher or advisor to policymakers would have needed to do if they wanted to examine the latest predictions by the international and periodically updated models for the future trajectory of the COVID-19 epidemic in Iran on March 7, 2022. Why March 7, 2022? Screenshots of the graphs from the models are taken on March 7, 2022. Take or give any other date, and the same process applies.
 
 To examine the latest predictions of daily deaths and daily cases in Iran by the international and periodically updated models, one needs to identify the models, locate their websites, find the graphs, create the missing graphs, (redevelop the existing graphs), and compile the graphs in a usable manner. I tried to replicate the above steps, and the results are presented below. Moreover, one needs to consider the relative strengths and weaknesses of each model, their past predictive performance profiles, and then interpret the collection of findings and predictions. The “Summary” provided at the end of the example addresses many of these considerations. 
 
