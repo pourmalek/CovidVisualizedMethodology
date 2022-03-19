@@ -229,23 +229,27 @@ Appendix Exhibit 3. The covir2 website page for uptake 20220304. || Source: http
 
 *** 
 
-Appendix Graph 15. [Daily deaths, all-time](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2012%20COVID-19%20daily%20deaths%2C%20Iran%2C%20reference%20scenarios.pdf) || Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+Appendix Graph 15. Iran [Daily deaths, all-time](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2012%20COVID-19%20daily%20deaths%2C%20Iran%2C%20reference%20scenarios.pdf) || Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
 ![image](https://user-images.githubusercontent.com/30849720/157358108-10b1fa59-f944-4fc4-af88-186f02016cc0.png)
 
 ***
  
-Appendix Graph 16. Iran Daily deaths, 2021 on ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+Appendix Graph 16. Iran [Daily deaths, 2021 on](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2012%20COVID-19%20daily%20deaths%2C%20Iran%2C%20reference%20scenarios.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
-
-***
- 
-Appendix Graph 17. Iran Daily deaths, 2021 on, reference scenario with uncertainty, IHME ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+![image](https://user-images.githubusercontent.com/30849720/157358108-10b1fa59-f944-4fc4-af88-186f02016cc0.png)
 
 ***
  
-Appendix Graph 18. Iran Daily deaths, 2021 on, all scenarios, IHME ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+Appendix Graph 17. Iran [Daily deaths, 2021 on, reference scenario with uncertainty, IHME](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2014%20COVID-19%20daily%20deaths%2C%20Iran%2C%20reference%20scenario%20with%20uncertainty%2C%20IHME.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/157358256-456d7261-7cbf-46cb-bc08-ea924351ed20.png)
+
+***
+ 
+Appendix Graph 18. Iran [Daily deaths, 2021 on, all scenarios, IHME](https://github.com/pourmalek/covir2/blob/main/20220304/output/merge/graph%2015%20COVID-19%20daily%20deaths%2C%20Iran%2C%20all%20scenarios%2C%20IHME.pdf) ||  Source: [`covir2 uptake 20220304`](https://github.com/pourmalek/covir2/tree/main/20220304) Accessed on March 7, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/157358323-1941ac43-fafd-4890-b4ad-14a91206598e.png)
 
 ***
  
