@@ -133,11 +133,13 @@ The SRIV model’s predictions for daily deaths and daily cases are shown in App
 
 Appendix Graph 44. Canada, Predicted daily deaths, SRIV model.|| Source: https://scc-usc.github.io/ReCOVER-COVID-19 Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159137553-896e0269-bcca-4141-bb55-ef9f89dd8b11.png)
 
 *** 
 
 Appendix Graph 45. Canada, Predicted daily cases, SRIV model|| Source: https://scc-usc.github.io/ReCOVER-COVID-19 . Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159137560-a17e8b6d-d41a-4d40-a72a-946a8ae3ce62.png)
  
 ***
 
