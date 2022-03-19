@@ -175,7 +175,7 @@ Appendix Graph 13. Iran predicted daily deaths by IHME, IMPE, SRIV and reported 
 
 Appendix Graph 14. Iran, predicted daily cases by SRIV, predicted daily infections by IHME and IMPE, and reported daily cases, Worldometers. Accessed on March 7, 2022. || Source: Assembled from Appendix Graphs 4, 6, 8, and 12.
 
-![image](https://user-images.githubusercontent.com/30849720/159106329-5894d9e9-719a-466b-a129-e2105eddb086.png)
+![image](https://user-images.githubusercontent.com/30849720/159132480-192fcb12-c55d-4491-b19f-1ce51ce13208.png)
   
 ***
 
