@@ -27,11 +27,11 @@ pourmalek_farshad at yahoo dot com
 
 [References](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#references-1)
 
-[Example 1: Iran](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#example-1-iran)
+[Example 1: Iran](https://github.com/pourmalek/CovidVisualizedMethodology/tree/main/MethodologyDocumentAppendix/Example%201%20Iran)
 
 [Example 2: Canada and its province](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#example-2-canada-and-its-province)
 
-[Example 3: Global level and WHO regions](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#example-3-global-level-and-who-regions)
+[Example 3: Global level and WHO regions]https://github.com/pourmalek/CovidVisualizedMethodology/tree/main/MethodologyDocumentAppendix/Example%203%20Global%20regional)
 
 [Postscript](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#postscript)
 
