@@ -280,13 +280,13 @@ In summary, smoothing is performed for daily deaths daily cases from JOHN and DE
 
 The smoother applied was
 
-     by provincestate_encoded : (1/7)*[x(t-3) + x(t-2) + x(t-1) + 1*x(t) + x(t+1) + x(t+2) + x(t+3)]; x(t)= DayDeaMeRaA00S00
+by provincestate_encoded : (1/7)*[x(t-3) + x(t-2) + x(t-1) + 1*x(t) + x(t+1) + x(t+2) + x(t+3)]; x(t)= DayDeaMeRaA00S00
      
 . tssmooth ma DayDeaMeSmA00S00 = DayDeaMeRaA00S00_window, weights( 1 2 3 <4> 3 2 1) replace
 
 The smoother applied was
 
-     by provincestate_encoded : (1/16)*[1*x(t-3) + 2*x(t-2) + 3*x(t-1) + 4*x(t) + 3*x(t+1) + 2*x(t+2) + ...; x(t)= DayDeaMeRaA00S00_window
+by provincestate_encoded : (1/16)*[1*x(t-3) + 2*x(t-2) + 3*x(t-1) + 4*x(t) + 3*x(t+1) + 2*x(t+2) + ...; x(t)= DayDeaMeRaA00S00_window
      
 * End of the code segment
 
