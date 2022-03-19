@@ -695,6 +695,29 @@ pourmalek_farshad at yahoo dot com
 <br/><br/>
 
 
+### TABLE OF CONTENTS:
+
+[Summary]()
+
+[CovidVisualized tools]()
+
+[The five international and periodically updated COVID-19 pandemic models]()
+
+[Examples of what the CovidVisualized tools provide in addition to the individual models]()
+
+[References]()
+
+[Example 1: Iran]()
+
+[Example 2: Canada and its province]()
+
+[Example 3: Global level and WHO regions]()
+
+[Postscript]()
+
+<br/><br/>
+
+
 ### Summary
 
 This CovidVisualized Methodology Document Appendix provides examples of how the CovidVisualized tools can be used to examine the predictions by the international and periodically updated epidemic models for the future trajectory of the COVID-19 pandemic at global and country levels. These examples first explain what a researcher or advisor to policymakers would need to do to find and compile those predictions and what the results may look like. The examples then describe what can be found on the CovidVisualized websites. The main issue is that not all the models provide graphs (and data) of daily deaths and daily cases or infections – the minimum indicators of the future trajectory. Not all the models provide graphs (and data) for the global and regional levels. The conclusion is straightforward: If anyone ever tries to find and examine the predictions by the international and periodically updated epidemic models for the future trajectory of the COVID-19 pandemic, they will notice the obstacles. The CovidVisualized tools have already paved the way and resolved the barriers in examining the predictions in a coherent, consistent, and periodically updated framework, with underlying software codes and outputs. 
