@@ -695,13 +695,14 @@ pourmalek_farshad at yahoo dot com
 <br/><br/>
 
 
-Summary
+### Summary
+
 This CovidVisualized Methodology Document Appendix provides examples of how the CovidVisualized tools can be used to examine the predictions by the international and periodically updated epidemic models for the future trajectory of the COVID-19 pandemic at global and country levels. These examples first explain what a researcher or advisor to policymakers would need to do to find and compile those predictions and what the results may look like. The examples then describe what can be found on the CovidVisualized websites. The main issue is that not all the models provide graphs (and data) of daily deaths and daily cases or infections – the minimum indicators of the future trajectory. Not all the models provide graphs (and data) for the global and regional levels. The conclusion is straightforward: If anyone ever tries to find and examine the predictions by the international and periodically updated epidemic models for the future trajectory of the COVID-19 pandemic, they will notice the obstacles. The CovidVisualized tools have already paved the way and resolved the barriers in examining the predictions in a coherent, consistent, and periodically updated framework, with underlying software codes and outputs. 
 
 
 <br/><br/>
 
-CovidVisualized tools: 
+### CovidVisualized tools: 
 
 There are three CovidVisualized tools:
 
@@ -716,7 +717,7 @@ https://github.com/pourmalek/covir2
 
 <br/><br/>
 
-The five international and periodically updated COVID-19 pandemic models are:
+### The five international and periodically updated COVID-19 pandemic models are:
 
 (1) DELPHI  , Massachusetts Institute of Technology, Cambridge (abbreviation used in this work: DELP) [1], (2) Institute for Health Metrics and Evaluation, Seattle (IHME) [2], (3) Imperial College, London (IMPE) [3], (4) Los Alamos National Laboratories, Los Alamos (LANL) [4], and (5) University of Southern California, Los Angeles, by Srivastava, Ajitesh (SRIV) [5]. 
 
@@ -724,13 +725,13 @@ The five international and periodically updated COVID-19 pandemic models are:
 
 <br/><br/>
 
-Examples of what the CovidVisualized tools provide in addition to the individual models
+### Examples of what the CovidVisualized tools provide in addition to the individual models
 
 Question: What is missing from the individual international and periodically updated models that creation of the CovidVisualized tool was needed?
 
 Answer: Nothing substantial is missing from the individual (international and periodically updated) models. However, some of those models do not report predictions of daily outcomes or do not provide the predictions at the global or regional levels. Suppose that a researcher or advisor to policymakers wants to look at the latest predictions by all international and periodically updated models for any given country or location (e.g., Canada and its provinces, or the European region). In that case, they need to know or find the website addresses for graphs and data of each model, find the graphs that are available on the websites for the models, develop the graphs that are not available, and put together and examine the graphs that use different horizontal (time) and vertical (outcome) axes. If they want to repeat this, they will need to repeat all the steps, which is time-consuming. The CovidVisualized tools have consistently performed the steps mentioned above and compiled the graphs (and data) from individual models together in a usable framework and continue to do so regularly. 
 
-The obstacles: The obstacles one would encounter in examining the latest predictions by all international and periodically updated models for any given country or location are mentioned below. (1) The DELP model does not provide predictions of daily deaths and daily cases. One needs to calculate them from the provided total deaths and total cases. (2) The IMPE graphs for predicted daily deaths at the continent level and daily infections at the global and continent levels are not readily locatable. (3) The SRIV model does not provide global and continent-level graphs. (4) The researcher-made compilations of available graphs from different models are not practically usable because (a) the graphs from each model use different calendar time intervals and time bins, (b) the maximum value on the y-axis for the same outcome (e.g., daily deaths) are different across models, (c) uncertainty intervals and alternate scenarios are not shown by all the models. (5) Not all models provide graphs for all the variables they predict, e.g., hospital-related outcomes. (6) The predictions’ data files that each model provides follow that model’s unique data arrangements. These data arrangements differ across the models. Without a common data management template, it is impossible to acquire a grip on the models’ data that can lead to the creation of compiled data and graphs. 
+**The obstacles:** The obstacles one would encounter in examining the latest predictions by all international and periodically updated models for any given country or location are mentioned below. (1) The DELP model does not provide predictions of daily deaths and daily cases. One needs to calculate them from the provided total deaths and total cases. (2) The IMPE graphs for predicted daily deaths at the continent level and daily infections at the global and continent levels are not readily locatable. (3) The SRIV model does not provide global and continent-level graphs. (4) The researcher-made compilations of available graphs from different models are not practically usable because (a) the graphs from each model use different calendar time intervals and time bins, (b) the maximum value on the y-axis for the same outcome (e.g., daily deaths) are different across models, (c) uncertainty intervals and alternate scenarios are not shown by all the models. (5) Not all models provide graphs for all the variables they predict, e.g., hospital-related outcomes. (6) The predictions’ data files that each model provides follow that model’s unique data arrangements. These data arrangements differ across the models. Without a common data management template, it is impossible to acquire a grip on the models’ data that can lead to the creation of compiled data and graphs. 
 
 Creation of the missing graphs and redeveloping the available graphs need a data management framework capable of compiling data (predictions’ files) from different models. While all the models present a set of common outcomes and variables, they do so in their unique way. The number of data files, the variables and data structure within each file, the nomenclature and variable names, the geographical locations covered by each model, the alternative scenarios, and many other aspects of the predictions provided by the models vary tremendously across the models. Moreover, within each model, there are systematic and random variations and alterations regarding these aspects across time (i.e., with updates released by the model). The CovidVisualized tools have covered these issues in a reproducible way, i.e., researchers can download the codes, rerun them, and see the outputs and results. 
 
@@ -745,7 +746,7 @@ Conclusion: The CovidVisualized tools have already paved the way and resolved th
 <br/><br/>
 
 
-References:
+### References:
 
 1. COVID Analytics. DELPHI epidemiological case predictions. Cambridge: Operations Research Center, Massachusetts Institute of Technology. https://www.covidanalytics.io/projections and https://github.com/COVIDAnalytics/website/tree/master/data/predicted Accessed 23 June 2021. 
 2. Institute for Health Metrics and Evaluation (IHME). COVID-19 mortality, infection, testing, hospital resource use, and social distancing projections. Seattle: Institute for Health Metrics and Evaluation (IHME), University of Washington. http://www.healthdata.org/covid/ and http://www.healthdata.org/covid/data-downloads Accessed 23 June 2021.
@@ -760,7 +761,13 @@ References:
 
 
 
-Here are three examples illustrating what the CovidVisualized tools provide in addition to the individual models. Example 1 is for Iran. Example 2 is for Canada and its province, and example 3 looks at the global level and WHO regions. 
+Here are three examples illustrating what the CovidVisualized tools provide in addition to the individual models. 
+
+Example 1 is for Iran. 
+
+Example 2 is for Canada and its province.
+
+Example 3 looks at the global level and WHO regions. 
 
 For sample applications of “covir2” to countries without subnational estimates see Afghanistan, Pakistan,  Japan 20210506, Japan 20210928
 
@@ -768,7 +775,7 @@ For sample applications of “covir2” to countries without subnational estimat
 
 <br/><br/>
 
-Example 1: Iran
+### Example 1: Iran
 
 Here is a real-life example that explains what a researcher or advisor to policymakers would have needed to do if they wanted to examine the latest predictions by the international and periodically updated models for the future trajectory of the COVID-19 epidemic in Iran on March 7, 2022. 
 
@@ -1080,7 +1087,7 @@ Appendix Graph 33. Iran Percent cumulative vaccinated, 2021 on, IHME || Source: 
 
 <br/><br/>
 
-Example 2: Canada and its province
+### Example 2: Canada and its province
 
 Below is a real-life example that explains what a researcher or advisor to policymakers would have needed to do if they wanted to examine the latest predictions by the international and periodically updated models for the future trajectory of the COVID-19 epidemic in Canada and its provinces and territories, on March 14, 2022. 
 
@@ -1502,7 +1509,7 @@ Appendix Graph 78. Canada, British Columbia, Daily cases or infections, Referenc
 
 <br/><br/>
  
-Example 3: Global level and WHO regions
+### Example 3: Global level and WHO regions
 
 Here is a real-life example that explains what a researcher or advisor to policymakers would have needed to do if they wanted to examine the latest predictions by the international and periodically updated models for the future trajectory of the COVID-19 pandemic at the global level and six WHO regions, on March 15, 2022. I trust that the people in charge of world health and regional health perform a similar process – among numerous others – regularly. The European CDC runs an ensemble model for short-term forecasts of Covid-19 cases and deaths across Europe ( The European Covid-19 Forecast Hub) , as does the United States CDC . 
 
@@ -1922,7 +1929,7 @@ Appendix Graph 130. European region, Daily cases or infections, 3 scenarios, 202
  
 
 
-Postscript: 
+### Postscript: 
 
 (A) Compare Appendix Graph 93 with Appendix Graph 96. The former is a researcher-made compilation of predicted daily deaths at the global level by the models. The latter is the graph available from the CovidVisualizedGlobal tool. The difference demonstrates the added value of the CovidVisualized tools.
 
