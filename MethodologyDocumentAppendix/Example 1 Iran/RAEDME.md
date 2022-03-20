@@ -186,7 +186,7 @@ Appendix Graph 14. Iran, predicted daily cases by SRIV, predicted daily infectio
 
 <br/><br/>
 
-Appendix Graphs 15 to 33 (below) show what can be found for uptake 20220304 on the covir2 website. Official reports by the country are demonstrated as the curves drawn from the Johns Hopkins University compilation (abbreviated as “JOHN” in the graphs). 
+Appendix Graphs 15 to 33 (below) show what can be found for uptake 20220304 on the covir2 website. Official reports by the country are demonstrated as the curves drawn from the Johns Hopkins University compilation (abbreviated as “JOHN” in the graphs). Graphs are ordered first by the outcomes: daily deaths, daily cases or infections, and other outcomes. Within the outcomes, first, the all-time (2020 on) is shown, and then the focus is on more recent time intervals. Reference scenarios are demonstrated first, followed by adding uncertainty intervals and alternative scenarios. 
 
 Appendix Graph 15 shows all models’ predictions by all models for Daily deaths, all-time, i.e., from January 2020 to the latest date available in the models. Appendix Graph 16 focuses on more recent times, i.e.,  2021 on. Appendix graphs 17 and 18 look in more detail at the IHME model predictions. Appendix Graph 17 shows predicted Daily deaths, 2021 on, reference scenario with uncertainty, IHME, and Appendix Graph 18 shows predicted Daily deaths, 2021 on, all scenarios, IHME. Appendix graphs 19 and 20 look in more detail at the IMPE model predictions. 
 
