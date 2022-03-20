@@ -346,13 +346,14 @@ Appendix Graph 105. Global, [Hospital-related outcomes, 2020 on](https://github.
 
 *** 
 
-Appendix Graph 106. Global, Hospital-related outcomes, 2021 on, without IHME Bed need and IMPE Hospital demand || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 106. Global, [Hospital-related outcomes, 2021 on, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%20GLOBAL%2063%20C-19%20hospital-related%20outcomes%2C%20wo%20extremes%2C%202021.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158032906-f194df2e-3250-4b73-bb3b-77b5dee344ec.png)
  
 ***
 
-Appendix Graph 107. Global, [Hospital-related outcomes, 2021 on, without IHME Bed need and IMPE Hospital demand](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%20GLOBAL%2063%20C-19%20hospital-related%20outcomes%2C%20wo%20extremes%2C%202021.pdf) || Source:[CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 107. Global,  || Source:[CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
 
-![image](https://user-images.githubusercontent.com/30849720/158032906-f194df2e-3250-4b73-bb3b-77b5dee344ec.png)
  
 ***
 
