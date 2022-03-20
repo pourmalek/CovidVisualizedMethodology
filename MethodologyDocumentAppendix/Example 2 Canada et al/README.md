@@ -252,23 +252,24 @@ Four graphs are provided for each province: (1) Daily deaths, Reference scenario
 
 <br/><br/>
 
-**Here is the bottom-line conclusion from this example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Canada on March 14, 2022 – and how the CovidVisualizedCountry tool can help.** One can locate the latest predictions by the international and periodically updated models and come up with some sort of compilation of graphs like the Appendix Graphs 50 and 51 made here, or similar graphs for other outcomes. In the meantime, Appendix Graph 52 to 55 show the equivalent of those compilations of graphs for the national level, readily available via the CovidVisualizedCountry tool. Appendix Graphs 77 to 78 show the CovidVisualizedCountry complied graphs for British Columbia. The graphs compiled in the CovidVisualizedCountry tool are much more usable and demonstrate different aspects like calendar time intervals, different scenarios, mean estimates and confidence intervals, and individual models’ details. The software code used to produce the graphs is accessible  and can be rerun by others to verify the correctness and potential mistakes. The track record of the previous periodical uptakes is also accessible – via RESULTS CANADA, national 2021, RESULTS CANADA, national 2022, RESULTS CANADA, provinces 2021, RESULTS CANADA, provinces 2022, RESULTS British Columbia 2021, RESULTS British Columbia 2022, and similar web pages shown in the root of the CovidVisualizedCountry website. The CovidVisualizedCountry uptake 20220311 also adds the following summary by its creator, and puts all the graphs in “Canada COVID-19 epidemic models situation report No 38 – 2022-03-11.pdf”.
+**Here is the bottom-line conclusion from this example of a researcher or advisor to policymakers who wanted to examine the latest predictions for the future trajectory of the COVID-19 epidemic in Canada on March 14, 2022 – and how the CovidVisualizedCountry tool can help.** One can locate the latest predictions by the international and periodically updated models and come up with some sort of compilation of graphs like the Appendix Graphs 50 and 51 made here, or similar graphs for other outcomes. In the meantime, Appendix Graph 52 to 55 show the equivalent of those compilations of graphs for the national level, readily available via the CovidVisualizedCountry tool. Appendix Graphs 77 to 78 show the CovidVisualizedCountry complied graphs for British Columbia. The graphs compiled in the CovidVisualizedCountry tool are much more usable and demonstrate different aspects like calendar time intervals, different scenarios, mean estimates and confidence intervals, and individual models’ details. The software code used to produce the graphs is accessible  and can be rerun by others to verify the correctness and potential mistakes. The track record of the previous periodical uptakes is also accessible – via RESULTS CANADA, national 2021, RESULTS CANADA, national 2022, RESULTS CANADA, provinces 2021, RESULTS CANADA, provinces 2022, RESULTS British Columbia 2021, RESULTS British Columbia 2022, and similar web pages shown in the root of the CovidVisualizedCountry website. The CovidVisualizedCountry uptake 20220311 also adds the following summary by its creator, and puts all the graphs in [“Canada COVID-19 epidemic models situation report No 38 – 2022-03-11.pdf”](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/situation%20reports/38%20Canada%20COVID-19%20epidemic%20models%20situation%20report%20No%2038%20-%202022-03-11.pdf).
 
 
-Summary 20220311:
+**Summary 20220311:**
 
 <br/><br/>
-Observation:
+**Observation:**
 
 Reported daily cases are stagnating after their recent decrease at the national level and in all provinces.
 
 Reported daily deaths have stopped decreasing after their recent decrease at the national level and in all provinces. They stagnate in Ontario and Quebec and increase Alberta, British Columbia, and Manitoba. Reporting by Saskatchewan is grossly manipulated and unreliable.
 
 
-Probability:
+**Probability:**
 
+https://user-images.githubusercontent.com/30849720/158061654-ec56bdfc-901a-46b7-8785-97b9e7fe2e76.png![image](https://user-images.githubusercontent.com/30849720/159144436-23f5d5a4-74f7-41d2-9f5e-de95333775d8.png)
  
-Even though the models are highly divergent about the future trajectory of the epidemic, the above-observed trajectories of the reported daily deaths and cases might signify a new surge.
+**Even though the models are highly divergent about the future trajectory of the epidemic, the above-observed trajectories of the reported daily deaths and cases might signify _a new surge_.**
 
 
 
