@@ -113,7 +113,7 @@ For sample applications of “covir2” to countries without subnational estimat
 
 (A) Compare [Appendix Graph 93](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/Example%203%20Global%20regional/README.md#appendix-graph-93-global-predicted-daily-deaths-by-ihme-and-impe-and-the-reported-daily-deaths-by-worldometers-accessed-on-march-15-2022--source-assembled-from-appendix-graphs-83-87-and-91) with [Appendix Graph 96](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/Example%203%20Global%20regional/README.md#appendix-graph-96-global-daily-deaths-reference-scenarios-2021-on-with-ihme-excess-deaths--source-covidvisualizedglobal-uptake-20220311-accessed-on-march-15-2022). The former is a researcher-made compilation of predicted daily deaths at the global level by the models. The latter is the graph available from the CovidVisualizedGlobal tool. The difference demonstrates the added value of the CovidVisualized tools.
 
-(B) The three CovidVisualized tools clearly warned on March 15, 2022, how and why there are possibilities of new surges, even though the models' predictions are divergent. 
+(B) The three CovidVisualized tools clearly warned on March 15, 2022, how and why there are **_possibilities of new surges_**, even though the models' predictions are divergent. 
 
 
 
