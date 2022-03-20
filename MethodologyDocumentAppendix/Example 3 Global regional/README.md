@@ -428,36 +428,51 @@ Appendix Graph 117. Global, [Daily deaths, with GLOBAL, 2022 on, DELP, SRIV](htt
  
 ***
 
-Appendix Graph 118. Global, Daily cases, without GLOBAL, 2022 on, DELP, SRIV || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 118. Global, [Daily cases, without GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%202b2%20C-19%20daily%20cases%2C%20regions%20together%20wo%20global%2C%20DELP%2C%20SRIV.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158042093-944e5b8e-1325-4ac7-9df6-dc140309d0c6.png)
  
 ***
 
-Appendix Graph 119. Global, Total deaths, with GLOBAL, 2020 on, IHME, IMPE || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 119. Global, [Total deaths, with GLOBAL, 2020 on, IHME, IMPE](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%203a1%20C-19%20total%20deaths%2C%20regions%20together%2C%20IHME%2C%20IMPE.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158033394-037a525b-8cf6-4c58-babb-f70a4e58a8c0.png)
 
 ***
 
-Appendix Graph 120. Global, Total deaths, without GLOBAL, 2020 on, IHME, IMPE|| Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 120. Global, [Total deaths, without GLOBAL, 2020 on, IHME, IMPE](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%203b1%20C-19%20total%20deaths%2C%20regions%20together%20wo%20global%2C%20IHME%2C%20IMPE.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158042151-f0d5567d-9b50-4ed6-97b2-5f49a4aa0803.png)
  
 ***
 
-Appendix Graph 121. Global, Total deaths, with GLOBAL, 2022 on, DELP, SRIV || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 121. Global, [Total deaths, with GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%203a2%20C-19%20total%20deaths%2C%20regions%20together%2C%20DELP%2C%20SRIV.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+ 
+![image](https://user-images.githubusercontent.com/30849720/158042167-d19dc1d2-781b-4155-9304-88ffa50bc183.png)
  
 ***
 
-Appendix Graph 122. Global, Total deaths, without GLOBAL, DELP, SRIV || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 122. Global, [Total deaths, without GLOBAL, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%203b2%20C-19%20total%20deaths%2C%20regions%20together%20wo%20global%2C%20DELP%2C%20SRIV.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158042291-2a519e2a-da30-4829-8286-57286740a8dd.png)
  
 ***
 
-Appendix Graph 123. Global, Total excess deaths, with GLOBAL, 2020 on, IHME || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 123. Global, [Total excess deaths, with GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%203%202%20a1%20C-19%20total%20excess%20deaths%2C%20regions%20together%2C%20IHME.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158042321-646cc391-b586-4b2e-80d5-a34dfab03ccc.png)
 
 ***
  
-Appendix Graph 124. Global, Total excess deaths, without GLOBAL, 2020 on, IHME || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 124. Global, [Total excess deaths, without GLOBAL, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%203%202%20a1%20C-19%20total%20excess%20deaths%2C%20regions%20together%20wo%20global%2C%20IHME.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/158042338-a5b120ba-7f93-4134-9442-39cc1ed16253.png)
 
 ***
 
-Appendix Graph 125. Global, Total cases, with GLOBAL, 2022 on, DELP, SRIV || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 125. Global, [Total infections, with GLOBAL, 2020 on, IHME, IMPE](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%204a1%20C-19%20total%20infections%2C%20regions%20together%2C%20IHME%2C%20IMPE.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158042414-690fef38-26d3-4381-95bd-9e5c5658687e.png)
 
 ***
 
