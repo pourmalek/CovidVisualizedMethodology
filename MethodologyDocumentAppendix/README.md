@@ -81,7 +81,7 @@ https://github.com/pourmalek/covir2
 
 _Question:_ What is missing from the individual international and periodically updated models that creation of the CovidVisualized tool was needed?
 
-- Have you ever tried to look at the latest predictions of the international and periodically updated COVID-19 pandemic models for any country, region, or the world?
+Have you ever tried to look at the latest predictions of the international and periodically updated COVID-19 pandemic models for any country, region, or the world?
 
 _Answer:_ Nothing substantial is missing from the individual (international and periodically updated) models. However, some of those models do not report predictions of daily outcomes or do not provide the predictions at the global or regional levels. Suppose that a researcher or advisor to policymakers wants to look at the latest predictions by all international and periodically updated models for any given country or location (e.g., Canada and its provinces, or the European region). In that case, they need to know or find the website addresses for graphs and data of each model, find the graphs that are available on the websites for the models, develop the graphs that are not available, and put together and examine the graphs that use different horizontal (time) and vertical (outcome) axes. If they want to repeat this, they will need to repeat all the steps, which is time-consuming. The CovidVisualized tools have consistently performed the steps mentioned above and compiled the graphs (and data) from individual models together in a usable framework and continue to do so regularly. 
 
