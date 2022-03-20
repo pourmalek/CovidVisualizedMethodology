@@ -103,7 +103,7 @@ _Conclusion:_ The CovidVisualized tools have already paved the way and resolved 
 
 [Example 3](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/MethodologyDocumentAppendix/Example%203%20Global%20regional/README.md) looks at the global level and WHO regions. 
 
-For sample applications of “covir2” to countries without subnational estimates see [Afghanistan](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Afghanistan_%2020210625/20210625), [Pakistan](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Pakistan_20210704), [Japan 20210506](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Japan_20210506), [Japan 20210928](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Japan_20210928)
+For sample applications of “covir2” to countries without subnational estimates see [`Afghanistan`](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Afghanistan_%2020210625/20210625), [`Pakistan`](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Pakistan_20210704), [`Japan 20210506`](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Japan_20210506), [`Japan 20210928`](https://github.com/pourmalek/covir2/tree/main/ADAPTATIONS_EXAMPLES/Japan_20210928)
 
 
 
