@@ -403,58 +403,70 @@ Appendix Graph 68. Canada, provinces together, [Daily infections, Reference scen
 
 ***
  
-Appendix Graph 69. Canada, provinces together, Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022 || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+Appendix Graph 69. Canada, provinces together, [Daily reported cases, without National, Ontario, and Quebec, JOHN, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/graph%2008%20provinces%20C-19%20daily%20cases%2C%20Canada%2C%20JOHN%202022.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
 
-
-***
- 
-Appendix Graph 70. Canada, provinces together, Daily deaths, Reference scenario, IHME, 2020 on || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
-
+![image](https://user-images.githubusercontent.com/30849720/158004592-a8896bfe-8c36-4406-acb3-6e3d45e8afff.png)
 
 ***
  
-Appendix Graph 71. Canada, provinces together, Daily deaths, Reference scenario, IHME, 2021 on || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+Appendix Graph 70. Canada, provinces together, [Daily deaths, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/graph%2022%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202020%20on.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
 
-
-***
- 
-Appendix Graph 72. Canada, provinces together, Daily deaths, Reference scenario, IHME, 2022 || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
-
+![image](https://user-images.githubusercontent.com/30849720/158004610-015586b6-aecf-46b8-8e6a-f2097be9b095.png)
 
 ***
  
-Appendix Graph 73. Canada, provinces together, Daily infections, Reference scenario, IHME, 2020 on|| Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+Appendix Graph 71. Canada, provinces together, [Daily deaths, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/graph%2023%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202021%20on.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
 
-
-***
- 
-Appendix Graph 74. Canada, provinces together, Daily infections, Reference scenario, IHME, 2021 on|| Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
-
+![image](https://user-images.githubusercontent.com/30849720/158004623-23848aed-0df8-48d8-b346-98ad383c492a.png)
 
 ***
  
-Appendix Graph 75. Canada, provinces together, Daily infections, Reference scenario, IHME, 2022|| Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+Appendix Graph 72. Canada, provinces together, [Daily deaths, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/graph%2024%20provinces%20C-19%20daily%20deaths%2C%20Canada%2C%20IHME%2C%202022%20on.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
 
-
-***
- 
-Appendix Graph 75. Canada, British Columbia, Daily deaths, Reference scenario, 2020 on|| Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
-
+![image](https://user-images.githubusercontent.com/30849720/158004635-11e1da31-1845-46e8-abf1-6f257061c258.png)
 
 ***
  
-Appendix Graph 76. Canada, British Columbia, Daily deaths, Reference scenario, 2021 on|| Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+Appendix Graph 73. Canada, provinces together, [Daily infections, Reference scenario, IHME, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/graph%2025%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202020%20on.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
 
-
-***
- 
-Appendix Graph 77. Canada, British Columbia, Daily cases or infections, Reference scenario, 2020 on|| Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
-
+![image](https://user-images.githubusercontent.com/30849720/158004733-3c39e567-1283-4c5c-9a85-415cfb3c452c.png)
 
 ***
  
-Appendix Graph 78. Canada, British Columbia, Daily cases or infections, Reference scenario, 2021 on|| Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+Appendix Graph 74. Canada, provinces together, [Daily infections, Reference scenario, IHME, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/graph%2026%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202021%20on.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/158004760-5c660872-38f0-4c60-87a0-422db0d36b85.png)
+
+***
+ 
+Appendix Graph 75. Canada, provinces together, [Daily infections, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/graph%2027%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202022%20on.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158004782-c129a148-b89b-4eba-a402-9ec85414a128.png)
+
+***
+***
+ 
+Appendix Graph 75. Canada, British Columbia, Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158005073-12f54237-709d-451e-ba4f-80619f1a26e8.png)
+
+***
+ 
+Appendix Graph 76. Canada, British Columbia, [Daily deaths, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/SUB2%2012bDayDeaMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158005091-259e8696-0893-4536-9c0b-769687c072c9.png)
+
+***
+ 
+Appendix Graph 77. Canada, British Columbia, Daily cases or infections, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/SUB4%2031bDayCasMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158005118-ae91488c-6aca-4dbf-b333-e9e71ba03ded.png)
+
+***
+ 
+Appendix Graph 78. Canada, British Columbia, [Daily cases or infections, Reference scenario, 2021 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/SUB5%2032bDayCasMERGsub%202021%20British%20Columbia%20-%20COVID-19%20daily%20cases%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%202021.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158005140-9dace66b-7107-439c-bf8d-a5a10667e2d2.png)
 
 ***
 
