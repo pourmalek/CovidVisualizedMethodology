@@ -212,7 +212,7 @@ Appendix Graph 93. Global, predicted daily deaths by IHME and IMPE, and the repo
 
 Appendix Graphs 94 to 129 (below) show what can be found for uptake 20220311 on the CovidVisualizedGlobal website. Official reports by the country are demonstrated as the curves drawn from the Johns Hopkins University compilation (abbreviated as “JOHN” in the graphs). Most of these graphs do not have readily locatable similars on the web that I am aware of. 
 
-The CovidVisualizedGlobal website presents the predictions for the global and WHO regional levels in three groups: (1) The global level, (2) Regions together, and (3) Each region individually. 
+The CovidVisualizedGlobal website presents the predictions for the global and WHO regional levels in three groups: (1) The global level, (2) Regions together, and (3) Each region individually. Graphs are ordered first by the geographical location – global, regions together, and each region. Then by the outcomes: daily deaths, daily cases or infections, and other outcomes. Within the outcomes, first, the all-time (2020 on) is shown, and then the focus is on more recent time intervals. Reference scenarios are demonstrated first, followed by adding uncertainty intervals and alternative scenarios. 
 
 Appendix Graph 94 to 125 are for the global level. Appendix Graph 94 shows all models’ predictions for Daily deaths, reference scenarios, 2020 on. Appendix Graph 95 focuses on more recent times, i.e., 2021 on. Appendix Graph 96 adds IHME excess deaths. Appendix Graph 97 adds the alternate scenarios from IHME and IMPE. Appendix Graphs 98 and 99 show alternate scenarios with uncertainty by IHME and IMPE, respectively. 
 
