@@ -446,7 +446,7 @@ Appendix Graph 75. Canada, provinces together, [Daily infections, Reference scen
 ***
 ***
  
-Appendix Graph 75. Canada, British Columbia, Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+Appendix Graph 75. Canada, British Columbia, [Daily deaths, Reference scenario, 2020 on](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/SUB1%2011bDayDeaMERGsub%20alltime%20British%20Columbia%20-%20COVID-19%20daily%20deaths%2C%20Canada%2C%20British%20Columbia%2C%20reference%20scenarios%2C%20all%20time.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
 
 ![image](https://user-images.githubusercontent.com/30849720/158005073-12f54237-709d-451e-ba4f-80619f1a26e8.png)
 
