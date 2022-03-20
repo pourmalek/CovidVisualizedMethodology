@@ -1,6 +1,10 @@
 # CovidVisualizedMethodology
 CovidVisualized Methodology Documents
 
+[![DOI](https://zenodo.org/badge/471561580.svg)](https://zenodo.org/badge/latestdoi/471561580)
+
+
+
 <br/><br/>
 
 This repository contains the CovidVisualized Methodology Documents:
