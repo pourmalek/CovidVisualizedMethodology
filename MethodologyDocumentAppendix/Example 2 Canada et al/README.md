@@ -397,8 +397,9 @@ Appendix Graph 67. Canada, provinces together, [Daily reported cases, JOHN, 2021
 
 ***
  
-Appendix Graph 68. Canada, provinces together, Daily reported cases, JOHN, 2022 || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
+Appendix Graph 68. Canada, provinces together, [Daily infections, Reference scenario, IHME, 2022](https://github.com/pourmalek/CovidVisualizedCountry/blob/main/20220311/output/merge/graph%2027%20provinces%20C-19%20daily%20infections%2C%20Canada%2C%20IHME%2C%202022%20on.pdf) || Source: [CovidVisualizedCountry uptake 20220311](https://github.com/pourmalek/CovidVisualizedCountry/tree/main/20220311) Accessed on March 14, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/158004782-c129a148-b89b-4eba-a402-9ec85414a128.png)
 
 ***
  
