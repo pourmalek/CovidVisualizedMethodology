@@ -274,6 +274,11 @@ Appendix Exhibit 9. The CovidVisualizedGlobal website page for uptake 20220311. 
 ![image](https://user-images.githubusercontent.com/30849720/159149991-f20c1be5-62ff-4996-8bfb-871738d4e210.png)
 
 ***
+***
+
+Global level:
+
+***
 
 Appendix Graph 94. Global, [Daily deaths, reference scenarios, 2020 on](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%20GLOBAL%2011a%20C-19%20daily%20deaths%2C%20GLOBAL%2C%20reference%20scenarios%2C%20all%20time.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
 
@@ -352,50 +357,74 @@ Appendix Graph 106. Global, [Hospital-related outcomes, 2021 on, without IHME Be
  
 ***
 
-Appendix Graph 107. Global,  || Source:[CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 107. Global, [Daily Infection outcomes ratios, 2 scenarios, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%20GLOBAL%2091%20C-19%20daily%20Infection%20outcomes%20ratios%2C%20GLOBAL%202%20scenarios%2C%20IHME.pdf) || Source:[CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/158032962-441f9fe3-082f-4c4a-9b6f-f96e079dca52.png)
  
 ***
 
-Appendix Graph 108. Global, Daily Infection -detection and -hospitalizations ratios, 2 scenarios, 2020 on, IHME || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) on March 15, 2022.
+Appendix Graph 108. Global, [Daily Infection -detection and -hospitalizations ratios, 2 scenarios, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%20GLOBAL%2091b%20C-19%20daily%20Infection%20outcomes%20ratios%2C%20GLOBAL%202%20scenarios%2C%20IHME.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158032986-2b542bd0-d8fb-4ce1-b466-a58eda22f857.png)
  
 ***
 
-Appendix Graph 109. Global, Daily mobility, 2 scenarios, 2020 on, IHME || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 109. Global,[Daily mobility, 2 scenarios, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%20GLOBAL%2092%20C-19%20daily%20mobility%2C%20GLOBAL%2C%202%20scenarios.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158033006-a5373c8b-18a6-4a14-8e0d-8637cddbfbd5.png)
 
 ***
 
-Appendix Graph 110. Global, Daily mask use, 2 scenarios, 2020 on, IHME || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 110. Global,[Daily mask use, 2 scenarios, 2020 on, IHME](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%20GLOBAL%2093%20C-19%20daily%20mask_use%2C%20GLOBAL%2C%202%20scenarios.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
  
- 
-***
-
-Appendix Graph 111. Global, Daily deaths, with GLOBAL, 2020 on, JOHN|| Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
- 
-***
-
-Appendix Graph 112. Global, Daily deaths, without GLOBAL, 2020 on, JOHN || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+![image](https://user-images.githubusercontent.com/30849720/158033020-1325e0b7-33e2-4c3e-a2f1-91d3c710069c.png)
  
 ***
+***
 
-Appendix Graph 113. Global, Daily deaths, with GLOBAL, 2022 on, JOHN || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Regions together:
 
 ***
 
-Appendix Graph 114. Global, Daily deaths, without GLOBAL, 2022 on, JOHN || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 111. [Daily deaths, with GLOBAL, 2020 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%201a1%20JOHN%20C-19%20daily%20deaths%2C%20regions%20together%2C%20JOHN.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
 
-
-***
-
-Appendix Graph 115. Global, Daily infections, with GLOBAL, 2020 on, IHME, IMPE || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+![image](https://user-images.githubusercontent.com/30849720/158033050-80eb1522-92ff-4c4d-87d0-7c166dfc1408.png)
  
 ***
 
-Appendix Graph 116. Global, Daily infections, without GLOBAL, 2020 on, IHME, IMPE || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 112. Global, [Daily deaths, without GLOBAL, 2020 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%201a2%20JOHN%20C-19%20daily%20deaths%2C%20regions%20together%2C%20JOHN.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158033079-f3222c41-713b-4b71-9340-8d98c2201f5d.png)
  
 ***
 
-Appendix Graph 117. Global, Daily cases, with GLOBAL, 2022 on, DELP, SRIV || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+Appendix Graph 113. Global, [Daily deaths, with GLOBAL, 2022 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%201a5%20JOHN%20C-19%20daily%20deaths%2C%20regions%20together%2C%20JOHN.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158044466-7d54ab2b-a84d-46c1-a0e6-f6e8bd2b7fdc.png)
+
+***
+
+Appendix Graph 114. Global, [Daily deaths, without GLOBAL, 2022 on, JOHN](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%201a6%20JOHN%20C-19%20daily%20deaths%2C%20regions%20together%2C%20JOHN.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158044490-281eff5a-789b-4958-94a6-a9663063737c.png)
+
+***
+
+Appendix Graph 115. Global, [Daily deaths, with GLOBAL, 2020 on, IHME, IMPE](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%201a1%20C-19%20daily%20deaths%2C%20regions%20together%2C%20IHME%2C%20IMPE.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158041821-d23d14a7-47a9-49fa-b11b-4689bf5f2df9.png)
+ 
+***
+
+Appendix Graph 116. Global, [Daily deaths, without GLOBAL, 2020 on, IHME, IMPE](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%201b1%20C-19%20daily%20deaths%2C%20regions%20together%20with%20global%2C%20IHME%2C%20IMPE.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158033120-76c9d53d-82b8-4cc3-9480-dfee6aa6edeb.png)
+ 
+***
+
+Appendix Graph 117. Global, [Daily deaths, with GLOBAL, 2022 on, DELP, SRIV](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/output/merge/graph%201a2%20C-19%20daily%20deaths%2C%20regions%20together%2C%20DELP%2C%20SRIV.pdf) || Source: [CovidVisualizedGlobal uptake 20220311](https://github.com/pourmalek/CovidVisualizedGlobal/blob/main/20220311/README.md) Accessed on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/158033143-91476ad7-c337-4ce5-b26d-95c5bb23a62f.png)
  
 ***
 
