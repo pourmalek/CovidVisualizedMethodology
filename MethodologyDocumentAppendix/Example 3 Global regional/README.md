@@ -22,22 +22,25 @@ The DELP model does not present predictions of daily deaths and daily cases. The
 
 Appendix Graph 79. Global, Predicted total deaths, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 15, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159146739-2aa01c2d-02fc-4618-ad13-bcf7ecafb224.png)
 
 ***
 
 Appendix Graph 80. Global, Predicted total cases, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 15, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159146744-9f0ef49f-707e-4478-b689-1ad85da6a461.png)
  
 ***
 
 Appendix Graph 81. Europe, Predicted total deaths, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 15, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159146749-d6ca4b56-aa42-4e2f-9304-d37f05c67165.png)
  
 ***
 
 Appendix Graph 82. Europe, Predicted total cases, DELP model. || Source: https://covidanalytics.io/projections Accessed on March 15, 2022.
 
- 
+![image](https://user-images.githubusercontent.com/30849720/159146759-ec40cd4c-bca1-4886-9392-544a9c98e0de.png) 
 
 ***
 
@@ -382,22 +385,34 @@ Appendix Graph 122. Global, Total deaths, without GLOBAL, DELP, SRIV || Source: 
 ***
 
 Appendix Graph 123. Global, Total excess deaths, with GLOBAL, 2020 on, IHME || Source: CovidVisualizedGlobal uptake 20220311 Accessed on March 15, 2022.
+
+***
  
 Appendix Graph 124. Global, Total excess deaths, without GLOBAL, 2020 on, IHME || Source: CovidVisualizedGlobal uptake 20220311 Accessed on March 15, 2022.
- 
+
+
+***
+
 Appendix Graph 125. Global, Total cases, with GLOBAL, 2022 on, DELP, SRIV || Source: CovidVisualizedGlobal uptake 20220311 Accessed on March 15, 2022.
 
- 
+***
+
 Appendix Graph 126. Global, Total cases, without GLOBAL, 2022 on, DELP, SRIV|| Source: CovidVisualizedGlobal uptake 20220311 Accessed on March 15, 2022.
  
+***
 
 Appendix Graph 127. European region, Daily deaths, reference scenarios, 2020 on || Source: CovidVisualizedGlobal uptake 20220311 Accessed on March 15, 2022.
- 
+
+***
+
 Appendix Graph 128. European region, Daily deaths, 3 scenarios, 2021 on || Source: CovidVisualizedGlobal uptake 20220311 Accessed on March 15, 2022.
- 
+
+***
+
 Appendix Graph 129. European region, Daily cases or infections, reference scenarios, 2020 on|| Source: CovidVisualizedGlobal uptake 20220311 Accessed on March 15, 2022.
 
- 
+***
+
 Appendix Graph 130. European region, Daily cases or infections, 3 scenarios, 2021 on || Source: CovidVisualizedGlobal uptake 20220311 Accessed on March 15, 2022.
 
-
+***
