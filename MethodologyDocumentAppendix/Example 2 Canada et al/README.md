@@ -234,7 +234,7 @@ Appendix Graph 51. Canada, predicted daily cases by SRIV, predicted daily infect
 
 Appendix Graphs 52 to 79 (below) show what can be found for uptake 20220311 on the CovidVisualizedCountry website. Official reports by the country are demonstrated as the curves drawn from the Johns Hopkins University compilation (abbreviated as “JOHN” in the graphs). 
 
-The CovidVisualizedCountry website presents the predictions for Canada and its subnational levels in three groups: (1) The national level, (2) Provinces together, and (3) Each province individually. 
+The CovidVisualizedCountry website presents the predictions for Canada and its subnational levels in three groups: (1) The national level, (2) Provinces together, and (3) Each province individually. Graphs are ordered first by the geographical location – national, provinces, and each province. Then by the outcomes: daily deaths, daily cases or infections, and other outcomes. Within the outcomes, first, the all-time (2020 on) is shown, and then the focus is on more recent time intervals. Reference scenarios are demonstrated first, followed by adding uncertainty intervals and alternative scenarios.  
 
 Appendix Graph 52 to 61 are for the national level. Appendix Graph 52 shows all models’ predictions for Daily deaths, all-time, i.e., from January 2020 to the latest date available in the models. Appendix Graph 53 focuses on more recent time, i.e.,  2021 on. For the second outcome, i.e., daily cases, Appendix Graph 54 shows the predicted Daily cases or infections, all-time, and Appendix Graph 55 shows the predicted Daily cases or infections, 2021 on. 
 
