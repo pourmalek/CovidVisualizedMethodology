@@ -61,23 +61,26 @@ The IHME model does not present predictions of daily cases. They provide predict
 
 Appendix Graph 83. Global, Predicted daily deaths, IHME model. || Source: https://covid19.healthdata.org/global?view=daily-deaths&tab=trend Accessed on March 15, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159146901-5156bca5-1ee6-4414-aed9-678f8c948285.png)
 
 ***
 
 Appendix Graph 84. Global, Predicted daily infections, IHME model. || Source: https://covid19.healthdata.org/global?view=infections-testing&tab=trend&test=infections Accessed on March 15, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159146907-ac8db3cf-b8d8-41ba-a82c-f8e54d889875.png)
  
 ***
 
 Appendix Graph 85. European region, Predicted daily deaths, IHME model. || Source: https://covid19.healthdata.org/european-region?view=daily-deaths&tab=trend Accessed on March 15, 2022.
  
+![image](https://user-images.githubusercontent.com/30849720/159146922-95e648a5-061b-4391-bde4-598630984bf5.png)
 
 ***
 
 Appendix Graph 86. European region, Predicted daily infections, IHME model. || Source: https://covid19.healthdata.org/european-region?view=infections-testing&tab=trend&test=infections Accessed on March 15, 2022.
 
- 
- 
+![image](https://user-images.githubusercontent.com/30849720/159146928-2e9558a5-ad2c-46ec-a129-beabf93f19a0.png)
+
 ***
 
 
@@ -93,15 +96,19 @@ For the global level, Appendix Graph 87 shows their predicted daily deaths from 
 
 Appendix Graph 87. Global, Daily deaths, IMPE model, Feb 2020 to Feb 2022. || Source: https://mrc-ide.github.io/global-lmic-reports/ Accessed on March 15, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159146939-48685c21-8090-4d97-ac6a-ffff2ac37d10.png)
 
 ***
 
 Appendix Graph 88. Cumulative deaths by continents, 2020-01 to 2022-01. || Source: https://github.com/mrc-ide/global-lmic-reports/blob/master/Europe/2022-01-20/index.pdf Page 1. Accessed on March 15, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159146942-1cccfa16-f505-411f-98f1-a5b40d132985.png)
 
 *** 
 
 Appendix Graph 88. Cumulative Deaths since 10 deaths, seven European countries.  || Source: https://github.com/mrc-ide/global-lmic-reports/blob/master/Europe/2022-01-20/index.pdf Page 2. Accessed on March 15, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/159146953-19aae4e3-9f93-4cc7-85ea-eb207d5db13a.png)
 
 ***
 
@@ -139,10 +146,14 @@ The Johns Hopkins compilation of official reports does not present daily deaths 
 
 Appendix Graph 89. Global, Weekly reported deaths, Johns Hopkins. || Source: https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6 Accessed on March 15, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159146969-f828338b-1e03-4c29-8c38-9ab810b507fe.png)
+
 *** 
 
 Appendix Graph 90. Global, Weekly reported cases, Johns Hopkins. || Source: https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6 Accessed on March 15, 2022.   
 
+![image](https://user-images.githubusercontent.com/30849720/159146976-4e26b18e-df77-4a83-ac88-35ac731775e4.png)
+ 
  
 ***
 
@@ -158,11 +169,13 @@ The Worldometers compilation of official reports provides reported daily deaths 
 
 Appendix Graph 91. Global, Daily deaths, Worldometers. || Source: https://www.worldometers.info/coronavirus/ Accessed on March 15, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159146984-5f2a35f3-ba63-4a43-bc74-c69df159b328.png)
  
 ***
 
 Appendix Graph 92. Global, Daily cases, Worldometers. || Source: https://www.worldometers.info/coronavirus/ Accessed on March 15, 2022.
 
+![image](https://user-images.githubusercontent.com/30849720/159146993-e03b6fbc-b7a3-4f43-8ed1-563ff02b80dd.png)
  
 ***
 
@@ -186,6 +199,8 @@ Predictions of daily deaths by IHME and IMPE and the reported daily deaths by Wo
 ***
 
 Appendix Graph 93. Global, predicted daily deaths by IHME and IMPE, and the reported daily deaths by Worldometers. Accessed on March 15, 2022. || Source: Assembled from Appendix Graphs 83, 87, and 91.
+
+![image](https://user-images.githubusercontent.com/30849720/159147026-c8ae1131-5630-44b1-a3a3-67f7cf0fcce4.png)
 
 ***
 
