@@ -198,7 +198,7 @@ Predictions of daily deaths by IHME and IMPE and the reported daily deaths by Wo
  
 ***
 
-Appendix Graph 93. Global, predicted daily deaths by IHME and IMPE, and the reported daily deaths by Worldometers. Accessed on March 15, 2022. || Source: Assembled from Appendix Graphs 83, 87, and 91.
+#### Appendix Graph 93. Global, predicted daily deaths by IHME and IMPE, and the reported daily deaths by Worldometers. Accessed on March 15, 2022. || Source: Assembled from Appendix Graphs 83, 87, and 91.
 
 ![image](https://user-images.githubusercontent.com/30849720/159147026-c8ae1131-5630-44b1-a3a3-67f7cf0fcce4.png)
 
