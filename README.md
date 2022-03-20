@@ -80,9 +80,9 @@ There are three CovidVisualized tools:
 
 (1) CovidVisualizedGlobal: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the global level and six WHO regions [[1]](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#references) https://github.com/pourmalek/CovidVisualizedGlobal 
 
-(2) CovidVisualizedCountry: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the country level: Canada, national and subnational [2] https://github.com/pourmalek/CovidVisualizedCountry 
+(2) CovidVisualizedCountry: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the country level: Canada, national and subnational [[2]](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#references) https://github.com/pourmalek/CovidVisualizedCountry 
 
-(3) covir2: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the country level, countries without subnational level estimates: Iran [3] https://github.com/pourmalek/covir2 
+(3) covir2: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the country level, countries without subnational level estimates: Iran [[3]](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#references) https://github.com/pourmalek/covir2 
 
 
 <br/><br/>
@@ -90,7 +90,7 @@ There are three CovidVisualized tools:
 
 ### International and periodically updated COVId-19 pandemic models
 
-The five international and periodically updated COVId-19 pandemic models included in this work are (1) DELPHI , Massachusetts Institute of Technology, Cambridge (abbreviation used in this work: DELP) [4], (2) Institute for Health Metrics and Evaluation, Seattle (IHME) [5], (3) Imperial College, London (IMPE) [6], (4) Los Alamos National Laboratories, Los Alamos (LANL) [7], (5) University of Southern California, Los Angeles, by Srivastava, Ajitesh (SRIV) [8].
+The five international and periodically updated COVId-19 pandemic models included in this work are (1) DELPHI , Massachusetts Institute of Technology, Cambridge (abbreviation used in this work: DELP) [[4]](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#references), (2) Institute for Health Metrics and Evaluation, Seattle (IHME) [[5]](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#references), (3) Imperial College, London (IMPE) [[6]](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#references), (4) Los Alamos National Laboratories, Los Alamos (LANL) [[7]](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#references), and (5) University of Southern California, Los Angeles, by Srivastava, Ajitesh (SRIV) [[8]](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#references).
 
 <br/><br/>
 
