@@ -113,7 +113,7 @@ For sample applications of “covir2” to countries without subnational estimat
 
 (A) Compare Appendix Graph 93 with Appendix Graph 96. The former is a researcher-made compilation of predicted daily deaths at the global level by the models. The latter is the graph available from the CovidVisualizedGlobal tool. The difference demonstrates the added value of the CovidVisualized tools.
 
-(B) The three CovidVisualized tools clearly warn on March 15, 2022, how and why there are possibilities of new surges, even though the models' predictions are divergent. 
+(B) The three CovidVisualized tools clearly warned on March 15, 2022, how and why there are possibilities of new surges, even though the models' predictions are divergent. 
 
 
 
