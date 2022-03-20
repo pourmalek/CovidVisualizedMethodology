@@ -78,7 +78,7 @@ This CovidVisualized methodology document explains the conceptual and computatio
 
 There are three CovidVisualized tools:
 
-(1) CovidVisualizedGlobal: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the global level and six WHO regions [1] https://github.com/pourmalek/CovidVisualizedGlobal 
+(1) CovidVisualizedGlobal: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the global level and six WHO regions [1](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#references) https://github.com/pourmalek/CovidVisualizedGlobal 
 
 (2) CovidVisualizedCountry: Combine and visualize international periodically updated estimates of COVID-19 pandemic at the country level: Canada, national and subnational [2] https://github.com/pourmalek/CovidVisualizedCountry 
 
