@@ -267,6 +267,7 @@ Reported daily deaths have stopped decreasing after their recent decrease at the
 
 **Probability:**
 
+![image](https://user-images.githubusercontent.com/30849720/159369436-d8e12e59-bd1d-46e2-96b7-701d5b97c2b0.png)
  
 **Even though the models are highly divergent about the future trajectory of the epidemic, the above-observed trajectories of the reported daily deaths and cases might signify _a new surge_.**
 
