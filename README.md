@@ -207,7 +207,7 @@ Table 1. General characteristics of the included models
 
 Table 2. Technical characteristics of the included models 
 
-![image](https://user-images.githubusercontent.com/30849720/159103048-936de8be-daad-4b87-afb6-8d152e59e5bf.png)
+![image](https://user-images.githubusercontent.com/30849720/161384789-c97cbe46-12a8-4f36-bb86-58b4475ef005.png)
 
 <br/><br/>
 
