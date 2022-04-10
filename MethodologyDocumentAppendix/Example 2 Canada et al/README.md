@@ -166,14 +166,29 @@ Appendix Graph 46. Canada, Weekly reported deaths, Johns Hopkins. || Source: htt
 
 ![image](https://user-images.githubusercontent.com/30849720/159133065-067e1080-b5b2-4be2-be9d-fc81b48be284.png)
 
-*** 
+***
+
+Appendix Graph 46 b. Canada, Daily reported deaths, Johns Hopkins. || Source: https://coronavirus.jhu.edu/region/canada Accessed on April 10, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/162633148-566675d2-0b99-4961-b666-68c601e06abb.png)
+
+***  
 
 Appendix Graph 47. Canada, Weekly reported cases, Johns Hopkins. || Source: https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6 Accessed on March 14, 2022.   
 
 ![image](https://user-images.githubusercontent.com/30849720/159133072-b25ca8a4-3af9-40b7-a717-447e2a0430be.png)
  
+***  
+
+Appendix Graph 47 b. Canada, Daily reported cases, Johns Hopkins. || Source: https://coronavirus.jhu.edu/region/canada Accessed on April 10, 2022.   
+
+![image](https://user-images.githubusercontent.com/30849720/162633202-67302960-5e62-44f6-8ddf-cbaf33e3f059.png)
+ 
 ***
 
+Note: Daily reported deaths and cases for subnational levels of Canada could not be readily locatable in https://coronavirus.jhu.edu/region/canada
+
+***
 
 <br/><br/>
 
