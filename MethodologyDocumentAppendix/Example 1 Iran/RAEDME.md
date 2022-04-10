@@ -126,14 +126,23 @@ Appendix Graph 9. Iran, Weekly reported deaths, Johns Hopkins. || Source: https:
  
 ***
 
+Appendix Graph 9b. Iran, Daily reported deaths, Johns Hopkins. || Source: https://coronavirus.jhu.edu/region/iran Accessed on April 10, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/162631425-f0ee167c-861d-44eb-bb50-f1bc9478b6c8.png)
+
+***
+
 Appendix Graph 10. Iran, Weekly reported cases, Johns Hopkins. || Source: https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6 Accessed on March 7, 2022.   
 
 ![image](https://user-images.githubusercontent.com/30849720/159106275-4412abeb-dbd4-4d7d-a138-29ef8596ebe1.png)
 
 ***
 
+Appendix Graph 10b. Iran, Daily reported cases, Johns Hopkins. || Source: https://coronavirus.jhu.edu/region/iran Accessed on April 10, 2022.  
 
+![image](https://user-images.githubusercontent.com/30849720/162631468-96b9b019-e00d-4633-ab1f-f3c372a4cdc3.png)
 
+***
 
 
 
