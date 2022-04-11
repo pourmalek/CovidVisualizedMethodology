@@ -35,7 +35,9 @@ Pourmalek, F. CovidVisualized: Visualized compilation of international updated m
 
 [link](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-06020-4)
 
-[PDF](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/CovidVisualized%20BMC%20Research%20Notes%20article.pdf)   
+[PDF](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/CovidVisualized%20BMC%20Research%20Notes%20article.pdf)  
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/35397567/)
 
 
 *********************************************************************************************************************************************
