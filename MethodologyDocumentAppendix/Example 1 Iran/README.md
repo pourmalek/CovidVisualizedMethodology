@@ -116,7 +116,7 @@ Appendix Graph 8. Iran, Predicted daily cases, SRIV model|| Source: https://scc-
 
 Johns Hopkins compilation of official reports
 
-The Johns Hopkins compilation of official reports does not present daily deaths and daily cases (as of March 7, 2022). They provide weekly deaths and weekly cases. See Appendix Graphs 9 and 10 below. 
+The Johns Hopkins compilation of official reports does present daily and weekly deaths and cases. See Appendix Graphs 9, 9 b, 10, and 10 b below. 
 
 ***
 
