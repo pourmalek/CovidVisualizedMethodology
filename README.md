@@ -39,6 +39,7 @@ Pourmalek F. CovidVisualized: Visualized compilation of international updated mo
 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/35397567/)
 
+my feeling when the article was published after _several_ months: https://www.youtube.com/watch?v=2vHB9MEp4nU
 
 *********************************************************************************************************************************************
 *********************************************************************************************************************************************
