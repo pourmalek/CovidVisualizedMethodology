@@ -116,7 +116,7 @@ Appendix Graph 8. Iran, Predicted daily cases, SRIV model|| Source: https://scc-
 
 Johns Hopkins compilation of official reports
 
-The Johns Hopkins compilation of official reports does not present daily deaths and daily cases (as of March 7, 2022). They provide weekly deaths and weekly cases. See Appendix Graphs 9 and 10 below. 
+The Johns Hopkins compilation of official reports does present daily and weekly deaths and cases. See Appendix Graphs 9, 9 b, 10, and 10 b below. 
 
 ***
 
@@ -126,14 +126,23 @@ Appendix Graph 9. Iran, Weekly reported deaths, Johns Hopkins. || Source: https:
  
 ***
 
+Appendix Graph 9 b. Iran, Daily reported deaths, Johns Hopkins. || Source: https://coronavirus.jhu.edu/region/iran Accessed on April 10, 2022.
+
+![image](https://user-images.githubusercontent.com/30849720/162633539-0f0b0849-3ebd-4a27-a8ee-f07ebc127f15.png)
+
+***
+
 Appendix Graph 10. Iran, Weekly reported cases, Johns Hopkins. || Source: https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6 Accessed on March 7, 2022.   
 
 ![image](https://user-images.githubusercontent.com/30849720/159106275-4412abeb-dbd4-4d7d-a138-29ef8596ebe1.png)
 
 ***
 
+Appendix Graph 10 b. Iran, Daily reported cases, Johns Hopkins. || Source: https://coronavirus.jhu.edu/region/iran Accessed on April 10, 2022.  
 
+![image](https://user-images.githubusercontent.com/30849720/162633563-068869dc-6b73-4790-bcf3-107d300eb875.png)
 
+***
 
 
 

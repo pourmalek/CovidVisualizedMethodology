@@ -26,7 +26,20 @@ This CovidVisualized Methodology Document Appendix provides examples of how the 
 
 <br/><br/>
 
+********************************************************************************************************************************************
+********************************************************************************************************************************************
+ 
+Published journal article for this work:
 
+Pourmalek F. CovidVisualized: Visualized compilation of international updated models' estimates of COVID-19 pandemic at global and country levels. _BMC Res Notes_. 2022 Apr 9;15(1):136. doi: 10.1186/s13104-022-06020-4. PMID: 35397567.
+
+[link](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-06020-4)
+
+[PDF](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/CovidVisualized%20BMC%20Research%20Notes%20article.pdf)  
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/35397567/)
+
+my feeling when the article was published after _several_ months: https://www.youtube.com/watch?v=2vHB9MEp4nU
 
 *********************************************************************************************************************************************
 *********************************************************************************************************************************************
@@ -37,6 +50,8 @@ This CovidVisualized Methodology Document Appendix provides examples of how the 
   
   [![ORCIDID](https://user-images.githubusercontent.com/30849720/127926326-89321742-cb08-4c18-bbdd-9b0c12e4ab2f.png)](https://orcid.org/0000-0002-2134-0771) || [`PubMed`](https://pubmed.ncbi.nlm.nih.gov/?term=Pourmalek+F&sort=pubdate&size=200)  ||  [![global_reach](https://github.com/pourmalek/covir2/blob/main/sandbox/global_reach.png?raw=true)](https://profiles.impactstory.org/u/0000-0002-2134-0771/achievements) [`Global Reach Top 10%`](https://profiles.impactstory.org/u/0000-0002-2134-0771/achievements)  || [UBC SPPH](https://www.spph.ubc.ca/person/farshad-pourmalek/) || [UW IHME](http://www.healthdata.org/about/farshad-pourmalek) || [YouCheck](https://youcheck.ca)  
 * Time (initial): 2021-02-10
+
+* [Research Article](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-022-06020-4)
 
 ********************************************************************************************************************************************
 ******************************************************************************************************************************************** 
