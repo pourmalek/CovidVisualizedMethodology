@@ -228,6 +228,9 @@ Table 2. Technical characteristics of the included models
 
 ![image](https://user-images.githubusercontent.com/30849720/164816332-11e10b83-1e40-4e70-b733-985507171d4b.png)
 
+![image](https://user-images.githubusercontent.com/30849720/164816404-09c3cd84-6422-4ab4-b95a-1aa79b3c49d6.png)
+
+
 <br/><br/>
 
 
