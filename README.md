@@ -208,7 +208,7 @@ Creation of the missing graphs and redeveloping the available graphs need a data
  
 ### Characteristics of the models
 
-(_The strengths and weaknesses of the international and periodically updated COVID-19 pandemic models_)
+(**_The strengths and weaknesses of the international and periodically updated COVID-19 pandemic models_**)
 
 General characteristics of the five international and periodically updated COVID-19 pandemic models included in this work are described below in Appendix Table 1. These characteristics are taken from a “Rapid review of COVID-19 epidemic estimation studies for Iran” [[9]](https://github.com/pourmalek/CovidVisualizedMethodology/blob/main/README.md#references). 
 
