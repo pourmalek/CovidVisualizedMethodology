@@ -230,7 +230,7 @@ No model is 100% complete, accurate, and valid, and no model is 100% wrong and u
 
 **Table 2. Technical characteristics of the included models**
 
-![image](https://user-images.githubusercontent.com/30849720/167321233-11695392-d61b-49da-8463-c536826949a3.png)
+![image](https://user-images.githubusercontent.com/30849720/167321463-1d25e673-09dd-4198-901d-1a9d209d2f9a.png)
 
 
 (Table Version 4, 20220508)
