@@ -218,17 +218,22 @@ No model is 100% complete, accurate, and valid, and no model is 100% wrong and u
 
 Table 1. General characteristics of the included models 
 
-![image](https://user-images.githubusercontent.com/30849720/159102934-6680fa54-5327-48d6-8edb-70d0d5f26009.png)
+![image](https://user-images.githubusercontent.com/30849720/167321191-ab42a545-d4d0-4567-9d54-96c23d007cbe.png)
 
+(a) Compartmental models: S: Susceptible, E: Exposed, I: Infected, R: Removed or Recovered, L: Latent. In any model with a + sign, there are other components for augmentation of model. (b) Global daily deaths only. (c) National daily deaths and infections only. * Compartmental and statistical models for “An ideal model” could be any compatible pair resulting in small values of prediction performance error measures. 
+
+
+(Table Version 4, 20220508)
 <br/><br/>
 
 
 
 Table 2. Technical characteristics of the included models 
 
-![image](https://user-images.githubusercontent.com/30849720/164816404-09c3cd84-6422-4ab4-b95a-1aa79b3c49d6.png)
+![image](https://user-images.githubusercontent.com/30849720/167321233-11695392-d61b-49da-8463-c536826949a3.png)
 
 
+(Table Version 4, 20220508)
 <br/><br/>
 
 
